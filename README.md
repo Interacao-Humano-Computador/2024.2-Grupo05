@@ -19,3 +19,9 @@ Link: https://moj.naquadah.com.br/cgi-bin/index.sh
 | <img src="https://github.com/Jauzimm.png" width="150px" > | <img src="https://github.com/xzxjesse.png" width="150px"> | <img src="https://github.com/felipeJRdev.png" width="150px"> | <img src="https://github.com/Marcelo-Adrian.png" width="150px"> | <img src="https://github.com/Ruan-Carvalho.png" width="150px"> |
 | :-------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------------: |
 | [João Vitor Santos](https://github.com/Jauzimm) | [Jesse Eveline](https://github.com/xzxjesse) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
+## Histórico de Versões
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão inicial da descrição do projeto |   João Vitor  |   08/11/2024   | Marcelo Adrian |    |
