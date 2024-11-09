@@ -1,0 +1,22 @@
+# Nome do site
+site_name: "Documentação de IHC"
+
+# Descrição opcional
+site_description: "Repositório de documentos de Interação Humano-Computador"
+repo_name: '2024.2-Grupo05'
+repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo05'
+
+# Tema do MkDocs (vários temas estão disponíveis, incluindo "readthedocs")
+theme:
+  name: material
+  language: 'pt'
+
+# Configura a navegação do site
+nav:
+  - Introdução: index.md
+  - Atas: 
+    - Ata1: atas/ataN1_07_11_2024.md
+  - Planejamento:
+    - Heatmap: planejamento/heatmap.md
+
+
