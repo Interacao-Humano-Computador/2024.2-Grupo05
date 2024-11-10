@@ -1,5 +1,5 @@
 ## Introdução
-Este documento apresenta um breve resumo sobre os procesos de design estudados e a definição do processo a ser utilizado
+Este documento apresenta um breve resumo sobre os procesos de design estudados e a definição do processo a ser utilizado.
 
 ## Objetivos
 O objetivo deste documento é anlisar os processos estudados em sala
@@ -23,7 +23,27 @@ análises heurísticas, prototipação e realização de testes empiricos em um 
 Este método é dividido em três fases: análise de requisitos, design e instalação, onde cada fase conta com atividades mais 
 específicas que garantem que o design se encontre alinhado às necessidades dos usuários e que seja iterativamente refinado.
 
-## Engenharia de usabilidade de Mayhew
+## Design contextual
+Faz uma investigação minuciosa no contexto de uso do usuário, abrangendo aspectos como perfil de usuário, forma de trabalho
+fluxo de trabalho e ambientes fisicos e culturais de trabalho.
+
+## Design baseado em Cenários
+Utiliza-se de cenários visando compreender e prever as diferentes formas de interação do usuário com o sistema.
+Esse processo de design apresenta um ciclo na fase de projeção a fim de
+alinhar o design e cenários projetados ao contexto real de uso.
+
+## Design dirigido por objetivos
+Metodo focado em atingir objetivos específicos desejados pelos usuários, orientando o desenvolvimento para adequar o design
+diretamente às metas dos usuários.
+
+## Design centrado na comunicação
+Valoriza a interação e troca de informações entre usuários e o sistema, visando a construção de uma interface que garanta
+uma comunicação eficaz e intuitiva.
+
+## Processo de design escolhido
+Em comum acordo entre os membros do grupo foi definido que a abordagem a ser seguida será a Engenharia de usabilidade de Mayhew
+devido a ênfase desse processo na estruturação do design, sendo este o mais metódico entre os demais apresentados e com 
+etapas bem definidas, desta forma orientando melhor o grupo a dar continuidade ao projeto da disciplina.
 
 ## Bibliografia
 - Capítulo 04 - Processos de Design de IHC - Livro IHC: Barbosa e Silva
