@@ -4,7 +4,7 @@
 
 Durante a disciplina de IHC foram realizadas algumas avaliações pelos integrantes do grupo, onde escolhemos apenas uma, o MOJ Naquadah, para a sua avaliação. A seguir está o site escolhido por cada integrante:
 
-Tabela 1: Tabela de sites avaliados por cada integrante.
+**Tabela 1:** Tabela de sites avaliados por cada integrante.
 | Site Avaliado | Integrante |
 |:-------------:|:----------:|
 | Meu INSS | Felipe |
@@ -17,7 +17,7 @@ Fonte: [João Vitor](https://github.com/Jauzimm).
 
 ## Meu INSS
 
-A análise desse site foi realizada pelo integrante Felipe. O [Meu INSS](https://meu.inss.gov.br/) é uma plataforma do Instituto Nacional do Seguro Social (INSS) que visa oferecer aos cidadãos brasileiros uma maneira mais prática e ágil de acessar os serviços e informações sobre a previdência social. Através dessa plataforma, os usuários conseguem consultar dados sobre benefícios, fazer agendamentos, solicitar serviços e acompanhar o andamento de seus requerimentos de forma simplificada.
+A análise deste site foi realizada pelo integrante Felipe. O [Meu INSS](https://meu.inss.gov.br/) é uma plataforma do Instituto Nacional do Seguro Social (INSS) que visa oferecer aos cidadãos brasileiros uma maneira mais prática e ágil de acessar os serviços e informações sobre a previdência social. Através dessa plataforma, os usuários conseguem consultar dados sobre benefícios, fazer agendamentos, solicitar serviços e acompanhar o andamento de seus requerimentos de forma simplificada.
 
 Link da avaliação:
 
@@ -58,4 +58,4 @@ Link da avaliação:
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Versão inicial dos sites avaliados do projeto | João Vitor | 10/11/2024 | Marcelo Adrian |     |
+|  1.0   | Versão inicial dos sites avaliados no projeto | João Vitor | 10/11/2024 | Marcelo Adrian |   10/11/2024  |
