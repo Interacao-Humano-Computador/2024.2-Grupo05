@@ -5,6 +5,7 @@
 Durante a disciplina de IHC foram realizadas algumas avaliações pelos integrantes do grupo, onde escolhemos apenas uma, o MOJ Naquadah, para a sua avaliação. A seguir está o site escolhido por cada integrante:
 
 **Tabela 1:** Tabela de sites avaliados por cada integrante.
+
 | Site Avaliado | Integrante |
 |:-------------:|:----------:|
 | Meu INSS | Felipe |
