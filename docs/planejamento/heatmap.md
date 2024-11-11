@@ -3,7 +3,7 @@
 ## Introdução
 No projeto, optou-se pela utilização de um heatmap como uma ferramenta visual eficaz para ilustrar a disponibilidade coletiva dos participantes ao longo da semana. Essa abordagem permite uma análise detalhada e intuitiva da disponibilidade de cada membro, facilitando o planejamento de eventos em grupo ao consolidar as informações de todos os envolvidos em uma única representação gráfica.
 <br></br>
-<img src="/assets/heatmap.png"> 
+![Heatmap](../assets/heatmap.png)
 
 ## Disponibilidade
 De acordo com o heatmap, a equipe tem a possibilidade de realizar reuniões aos sábados nos seguintes horários:

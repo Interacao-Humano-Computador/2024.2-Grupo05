@@ -1,23 +1,43 @@
 # Nome do site
-site_name: "Documentação de IHC"
+site_name: "CD - MOJ"
 
-# Descrição opcional
+# Descrição
 site_description: "Repositório de documentos de Interação Humano-Computador"
 repo_name: '2024.2-Grupo05'
 repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo05'
-
-# Tema do MkDocs (vários temas estão disponíveis, incluindo "readthedocs")
-theme:
-  name: material
-  language: 'pt'
 
 # Configura a navegação do site
 nav:
   - Introdução: index.md
   - Atas: 
-    - Ata1: atas/ataN1_07_11_2024.md
+    - Ata 1: atas/ataN1_07_11_2024.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
 
+# Tema do MkDocs
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo claro
+
+  language: pt-BR
+  favicon: https://moj.naquadah.com.br/images/logo_moj.png
+  logo: https://moj.naquadah.com.br/images/logo_moj.png
+
+extra:
+  version:
+    provider: felipe
+
+extra_css: [stylesheets/extra.css]
