@@ -24,5 +24,5 @@ Link: https://moj.naquadah.com.br/cgi-bin/index.sh
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Versão inicial da descrição do projeto | João Vitor | 08/11/2024 | Marcelo Adrian |   08/11/2024    |
-|  1.1   | Ajustes no pages | Felipe Rodrigues | 10/11/2024 | Marcelo Adrian |    11/11/2024   |
+|  1.0   | Versão inicial da descrição do projeto | [João Vitor](https://github.com/Jauzimm) | 08/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   08/11/2024    |
+|  1.1   | Ajustes no pages | [Felipe Rodrigues](https://github.com/felipeJRdev) | 10/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |    11/11/2024   |

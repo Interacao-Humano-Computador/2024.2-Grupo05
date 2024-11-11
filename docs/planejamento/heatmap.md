@@ -17,4 +17,4 @@ De acordo com o heatmap, a equipe tem a possibilidade de realizar reuniões aos 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão Inicial|   João Vitor  |   05/11/2024   | Marcelo Adrian  |   10/11/2024 |
+|  1.0   | Versão Inicial|   [João Vitor](https://github.com/Jauzimm)  |   05/11/2024   | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  |   10/11/2024 |

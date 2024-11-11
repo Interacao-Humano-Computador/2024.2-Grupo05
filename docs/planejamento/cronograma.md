@@ -19,7 +19,7 @@ O cronograma apresentado não configura uma metodologia formal, mas sim uma ferr
 |Montar git pages|Inicio: 09/11 - Fim: 10/11|Felipe|Inicio: 11/11 - Fim: 11/11|João|
 |Documentação de sites individuais|Inicio: 15/10 - Fim: 10/11|João|Inicio: 11/11 - Fim: 11/11|Marcelo|
 |Documentar site escolhido|Inicio: 08/11 - Fim: 10/11|João|Inicio: 11/11 - Fim: 11/11|Marcelo|
-|Processo de design|Inicio: 09/11 - Fim:10/11|Ruan|Inicio:10/11 - Fim: 11/11|Jéssica|
+|Processo de design|Inicio: 09/11 - Fim:10/11|Ruan|Inicio:10/11 - Fim: 11/11|Marcelo|
 |Grava Video da Apresentação|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 14/11 - Fim: 16/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 16/11 - Fim: 18/11|Felipe, Jéssica, João, Ruan, Marcelo|
 
