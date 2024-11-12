@@ -3,21 +3,23 @@ site_name: "CD - MOJ"
 
 # Descrição
 site_description: "Repositório de documentos de Interação Humano-Computador"
-repo_name: '2024.2-Grupo05'
-repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo05'
+repo_name: "2024.2-Grupo05"
+repo_url: "https://github.com/Interacao-Humano-Computador/2024.2-Grupo05"
 
 # Configura a navegação do site
 nav:
   - Introdução: index.md
-  - Atas: 
-    - Ata 1: atas/ataN1_07_11_2024.md
+  - Atas:
+      - Ata 1: atas/ataN1_07_11_2024.md
   - Planejamento:
-    - Cronograma: planejamento/cronograma.md
-    - Design: planejamento/design.md
-    - Ferramentas: planejamento/ferramentas.md
-    - Heatmap: planejamento/heatmap.md
-    - Site escolhido: planejamento/site-escolhido.md
-    - Sites avaliados: planejamento/sites-avaliados.md
+      - Cronograma: planejamento/cronograma.md
+      - Design: planejamento/design.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Heatmap: planejamento/heatmap.md
+      - Site escolhido: planejamento/site-escolhido.md
+      - Sites avaliados: planejamento/sites-avaliados.md
+  - Entregas:
+      -Entrega 1: entregas/entrega_1.md
 
 # Tema do MkDocs
 theme:
