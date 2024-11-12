@@ -12,7 +12,7 @@ Somos o Grupo 5 da disciplina Interação Humano-Computador, orientados pelo pro
 
 O MOJ (Maratona Online Judge) Naquadah é uma plataforma de juiz online voltada para competições e treinamentos de programação, utilizada em contextos educacionais e competitivos. O sistema permite aos usuários submeterem soluções de problemas e verificarem seu desempenho em tempo real.
 
-Link: https://moj.naquadah.com.br/cgi-bin/index.sh
+Link: [https://moj.naquadah.com.br/cgi-bin/index.sh](https://moj.naquadah.com.br/cgi-bin/index.sh)
 
 ## Colaboradores
 
