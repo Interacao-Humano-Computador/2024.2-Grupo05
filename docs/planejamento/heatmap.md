@@ -1,14 +1,15 @@
 # HeatMap
 
 ## Introdução
-No projeto, optou-se pela utilização de um heatmap como uma ferramenta visual eficaz para ilustrar a disponibilidade coletiva dos participantes ao longo da semana. Essa abordagem permite uma análise detalhada e intuitiva da disponibilidade de cada membro, facilitando o planejamento de eventos em grupo ao consolidar as informações de todos os envolvidos em uma única representação gráfica.
+No projeto, optou-se pela utilização de um heatmap como uma ferramenta visual eficaz para ilustrar a disponibilidade coletiva dos participantes durante a semana. Essa abordagem permite uma análise detalhada e intuitiva da disponibilidade de cada membro, facilitando o planejamento de eventos em grupo ao consolidar as informações de todos os envolvidos em uma única representação gráfica.
 
 ## Objetivos
-Este heatmap foi feito com o intuito de mapear a disponibilidade de horário entre os membros do grupo objetivando encontar um horário livre comum entre todos os membros para a realização de reuniões e desenvolvimento do projeto. 
+Este heatmap foi desenvolvido com o objetivo de mapear a disponibilidade de horário entre os membros do grupo, visando encontrar um horário livre comum para reuniões e desenvolvimento do projeto.
 
 ## Metodologia
-O processo de realização do heatmap teve seu início com a coleta de dados de disponibilidade dos membros do grupo, organizadas em uma planilha. Com base no agrupamento desses dados foi encontrado o melhor horário para
-levar adiante as reuniões do grupo, segue abaixo o heatmap do grupo 05:
+O processo de realização do heatmap teve seu início com a coleta de dados de disponibilidade dos membros do grupo, organizados em uma planilha. Com base no agrupamento desses dados, identificou-se o melhor horário para a realização das reuniões do grupo.
+
+**Segue abaixo o heatmap do grupo 05:**
 
 
 **Imagem 1:** Heatmap de disponibilidade dos integrantes.
@@ -31,4 +32,4 @@ De acordo com o heatmap, a equipe tem a possibilidade de realizar reuniões aos 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial|   [João Vitor](https://github.com/Jauzimm)  |   05/11/2024   | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  |   10/11/2024 |
-| 1.1 | Complemento do heatmap | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 12/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) ||
+| 1.1 | Complemento do heatmap | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 12/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |12/11/2024|
