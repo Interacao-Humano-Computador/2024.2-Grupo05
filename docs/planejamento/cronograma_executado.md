@@ -20,7 +20,8 @@ Este documento serve como uma ferramenta de acompanhamento e análise de ativida
 |Documentação de sites individuais|Inicio: 15/10 - Fim: 11/11|João|Inicio: 11/11 - Fim: 11/11|Marcelo|
 |Documentar site escolhido|Inicio: 08/11 - Fim: 10/11|João|Inicio: 11/11 - Fim: 11/11|Marcelo|
 |Processo de design|Inicio: 10/11 - Fim:10/11|Ruan|Inicio:11/11 - Fim: 11/11|Marcelo|
-|Revisão e Melhorias Gerais|Inicio: 12/11 - Fim: 12/11| Jéssica, João |Inicio 12/11 - Fim: 12/11| Marcelo|
+|Revisão e Melhorias Gerais|Inicio: 12/11 - Fim: 12/11| Ruan, João |Inicio 12/11 - Fim: 12/11| Marcelo|
+|Documentar metodologia escolhida|Inicio: 12/11 - Fim: 12/11| Jéssica |Inicio 12/11 - Fim: 12/11| Marcelo|
 |Grava Video da Apresentação|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 14/11 - Fim: 16/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 16/11 - Fim: 18/11|Felipe, Jéssica, João, Ruan, Marcelo|
 
