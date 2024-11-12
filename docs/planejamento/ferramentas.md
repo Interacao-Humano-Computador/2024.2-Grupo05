@@ -17,7 +17,6 @@ Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a or
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="25"> | WhatsApp                 | Aplicativo de mensagens instantâneas, utilizado para comunicação rápida e colaboração em equipe.                 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="25"> | Telegram                 | Aplicativo de mensagens, utilizado para comunicação e compartilhamento de arquivos e feedback.                   |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"> | Figma                    | Ferramenta de design colaborativo, utilizada para prototipação e design de interfaces.                           |
-| <img src="https://banner2.cleanpng.com/20190506/rpw/kisspng-microsoft-teams-office-365-microsoft-office-micros-1713893207119.webp" width="25"> | Microsoft Teams          | Aplicativo de comunicação e colaboração, utilizado para reuniões e trabalho em equipe.                           |
 | <img src="https://community-assets.home-assistant.io/original/4X/9/9/0/9903bcfabeb5dd0cd40a67cedbbdb8a403248cac.png" width="60" > | MkDocs                   | Ferramenta para criação de documentação em sites estáticos.                                                      |
 | <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="25"> | Visual Studio Code       | Editor de código-fonte para desenvolvimento e edição de projetos.                                                |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg3o3wx2nTAXZ54B5pRslvNXrPkYg8DXSVg&s" width="25"> | Storyboard That          | Ferramenta para criação de storyboards, utilizada no planejamento visual de cenas e conceitos.                   |
@@ -48,17 +47,15 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 >
 > <a id="FRM9" href="#anchor_9">9.</a> Figma. Disponível em: [https://www.figma.com/](). Acesso em: 11 de nov. de 2024.
 >
-> <a id="FRM10" href="#anchor_10">10.</a> Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams](). Acesso em: 11 de nov. de 2024.
+> <a id="FRM11" href="#anchor_11">10.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acesso em: 11 de nov. de 2024.
 >
-> <a id="FRM11" href="#anchor_11">11.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acesso em: 11 de nov. de 2024.
+> <a id="FRM12" href="#anchor_12">11.</a> Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 11 de nov. de 2024.
 >
-> <a id="FRM12" href="#anchor_12">12.</a> Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 11 de nov. de 2024.
+> <a id="FRM13" href="#anchor_13">12.</a> Storyboard That. Disponível em: [https://www.storyboardthat.com/pt](). Acesso em: 11 de nov. de 2024.
 >
-> <a id="FRM13" href="#anchor_13">13.</a> Storyboard That. Disponível em: [https://www.storyboardthat.com/pt](). Acesso em: 11 de nov. de 2024.
+> <a id="FRM14" href="#anchor_14">13.</a> Miro. Disponível em: [https://miro.com/pt/](). Acesso em: 11 de nov. de 2024.
 >
-> <a id="FRM14" href="#anchor_14">14.</a> Miro. Disponível em: [https://miro.com/pt/](). Acesso em: 11 de nov. de 2024.
->
-> <a id="FRM15" href="#anchor_15">15.</a> Marvel App. Disponível em: [https://marvelapp.com/](). Acesso em: 11 de nov. de 2024.
+> <a id="FRM15" href="#anchor_15">14.</a> Marvel App. Disponível em: [https://marvelapp.com/](). Acesso em: 11 de nov. de 2024.
 
 ## **Histórico de Versões**
 
