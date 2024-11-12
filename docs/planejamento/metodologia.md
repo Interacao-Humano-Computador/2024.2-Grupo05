@@ -48,12 +48,20 @@ Os tipos de commit utilizados no projeto são:
 - **remove**: Exclusão de arquivos ou funcionalidades obsoletas.
 
 ### Recomendação de commit:
-- Utilizar um título conciso, com até 4 palavras, e incluir detalhes adicionais na descrição do commit.
+- Comece o commit colocando o seu tipo, seguido de ":" e uma breve descrição do que foi feito.
+- Escreva na terceira pessoa.
+- Inicie a descrição com letra maiúscula e finalize com um ponto final.
+- (Opcional) Detalhe mais a fundo o que foi feito na descrição do commit.
+
+**Exemplo:** git commit -m "docs: Revisão da metodologia."
 
 ## Bibliografia
 
 - BOURQUE, Pierre; FAIRLEY, Richard E. (eds.). SWEBOK: Guide to the Software Engineering Body of Knowledge, IEEE, 2014. Disponível em: [link](https://www.computer.org/education/bodies-of-knowledge/software-engineering).
 - Conventional Commits 1.0.0. Disponível em: [link](https://www.conventionalcommits.org/en/v1.0.0/).
+
+
+Fonte: [Jéssica Eveline](https://github.com/xzxjesse), 2024
 
 ## Histórico de Versão
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
