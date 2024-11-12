@@ -1,5 +1,5 @@
 ## Introdução
-Este documento apresenta um cronograma detalhado para o desenvolvimento das atividades do projeto, distribuído em etapas que organizam e programam as entregas ao longo do período. Essa estruturação visa garantir um acompanhamento preciso do progresso e permite a revisão contínua das atividades realizadas.
+Este documento apresenta um cronograma detalhado para o desenvolvimento das atividades do projeto, distribuído em etapas que organizam e programam as entregas ao longo do período. Essa estrutura visa garantir um direcionamento e acompanhamento das atividades contínuas, separado por etapas e direcionado pelas datas presentes no [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
 
 ## Objetivo 
 O objetivo principal deste cronograma é facilitar o planejamento e a execução das atividades do projeto, garantindo uma gestão eficaz do tempo e da responsabilidade de cada integrante da equipe. Dessa forma, buscamos assegurar o cumprimento dos prazos estabelecidos e a qualidade das entregas através de revisões periódicas, promovendo uma colaboração produtiva e organizada.
@@ -48,10 +48,10 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
-|Princípios gerais do projeto|Início: 24/11 - Fim: 24/11 || Início: 25/11 - Fim: 25/11||
-|Metas de usabilidade|Início: 25/11 - Fim: 25/11 || Início: 26/11 - Fim: 26/11||
-|Guia de estilo|Início: 26/11 - Fim: 26/11 || Início: 27/11 - Fim: 27/11||
-|Caracteristicas do site|Início: 27/11 - Fim: 27/11 || Início: 28/11 - Fim: 28/11||
+|Princípios gerais do projeto|Início: 24/11 - Fim: 24/11 |Marcelo| Início: 25/11 - Fim: 25/11|Felipe|
+|Metas de usabilidade|Início: 25/11 - Fim: 25/11 |Felipe| Início: 26/11 - Fim: 26/11|Ruan|
+|Guia de estilo|Início: 26/11 - Fim: 26/11 |Jéssica| Início: 27/11 - Fim: 27/11|João|
+|Caracteristicas do site|Início: 27/11 - Fim: 27/11 |Ruan| Início: 28/11 - Fim: 28/11|Marcelo|
 |Grava Video da Apresentação|Inicio: 30/11 - Fim: 30/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 01/12 - Fim: 01/12|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 05/12 - Fim: 10/12|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 10/12 - Fim: 12/12|Felipe, Jéssica, João, Ruan, Marcelo|
 
@@ -62,9 +62,9 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
-|Planejamento da Avaliação do Storyboard e Análise de tarefas|Início: 30/11 - Fim: 01/12 || Início: 01/12 - Fim: 02/12||
-|Planejamento do relato dos resultados da avaliação do Storyboard|Início: 02/12 - Fim: 04/12 || Início: 04/12 - Fim: 05/12||
-|P  lanejamento do relato dos resultados da avaliação do Análise de tarefas|Início: 04/12 - Fim: 05/12 || Início: 05/12 - Fim: 06/12||
+|Planejamento da Avaliação do Storyboard e Análise de tarefas|Início: 30/11 - Fim: 01/12 |João e Felipe| Início: 01/12 - Fim: 02/12|Jéssica|
+|Planejamento do relato dos resultados da avaliação do Storyboard|Início: 02/12 - Fim: 04/12 |Ruan| Início: 04/12 - Fim: 05/12|Jéssica|
+|Planejamento do relato dos resultados da avaliação do Análise de tarefas|Início: 04/12 - Fim: 05/12 |Marcelo| Início: 05/12 - Fim: 06/12|Jéssica|
 |Grava Video da Apresentação|Inicio: 07/12 - Fim: 07/12|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 07/12 - Fim: 07/12|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 12/12 - Fim: 17/12|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 18/12 - Fim: 20/12|Felipe, Jéssica, João, Ruan, Marcelo|
 
@@ -75,10 +75,10 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
-|Relato dos resultados do Storyboard|Início: 17/12 - Fim: 17/12|| Início: 18/12 - Fim: 18/12||
-|Relato dos resultados da Análise de tarefas|Início: 17/12 - Fim: 17/12|| Início: 18/12 - Fim: 18/12||
-|Planejamento da avaliação do protótipo de papel|Início: 19/12 - Fim: 19/12|| Início: 20/12 - Fim: 20/12||
-|Planejamento do relato de resultados da avaliação do protótipo de papel|Início: 19/12 - Fim: 19/12|| Início: 20/12 - Fim: 20/12||
+|Relato dos resultados do Storyboard|Início: 17/12 - Fim: 17/12|Felipe| Início: 18/12 - Fim: 18/12|João|
+|Relato dos resultados da Análise de tarefas|Início: 17/12 - Fim: 17/12|Jéssica| Início: 18/12 - Fim: 18/12|João|
+|Planejamento da avaliação do protótipo de papel|Início: 19/12 - Fim: 19/12|Marcelo| Início: 20/12 - Fim: 20/12|Ruan|
+|Planejamento do relato de resultados da avaliação do protótipo de papel|Início: 19/12 - Fim: 19/12|Ruan| Início: 20/12 - Fim: 20/12|Marcelo|
 |Grava Video da Apresentação|Inicio: 04/01 - Fim: 04/01|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 04/01 - Fim: 04/01|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 07/01 - Fim: 12/01|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 12/01 - Fim: 14/01|Felipe, Jéssica, João, Ruan, Marcelo|
 
@@ -89,9 +89,9 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
-|Relato dos resultados do Protótipo de Papel|Início: 05/01 - Fim: 06/01|| Início: 06/01 - Fim: 07/01||
-|Planejamento da avaliação do protótipo de alta fidelidade|Início: 07/01 - Fim: 08/01|| Início: 08/01 - Fim: 09/01||
-|Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|Início: 09/01 - Fim: 10/01|| Início: 10/01 - Fim: 11/01||
+|Relato dos resultados do Protótipo de Papel|Início: 05/01 - Fim: 06/01|Marcelo| Início: 06/01 - Fim: 07/01|Ruan|
+|Planejamento da avaliação do protótipo de alta fidelidade|Início: 07/01 - Fim: 08/01|Jéssica| Início: 08/01 - Fim: 09/01|Felipe|
+|Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|Início: 09/01 - Fim: 10/01|João| Início: 10/01 - Fim: 11/01|Jéssica|
 |Grava Video da Apresentação|Inicio: 11/01 - Fim: 11/01|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 11/01 - Fim: 11/01|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 14/01 - Fim: 16/01|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 17/01 - Fim: 19/01|Felipe, Jéssica, João, Ruan, Marcelo|
 
@@ -102,9 +102,9 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
-|Relato dos resultados do Protótipo de Papel|Início: 05/01 - Fim: 06/01|| Início: 06/01 - Fim: 07/01||
-|Planejamento da avaliação do protótipo de alta fidelidade|Início: 07/01 - Fim: 08/01|| Início: 08/01 - Fim: 09/01||
-|Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|Início: 09/01 - Fim: 10/01|| Início: 10/01 - Fim: 11/01||
+|Relato dos resultados do Protótipo de Papel|Início: 05/01 - Fim: 06/01|Ruan| Início: 06/01 - Fim: 07/01|Marcelo|
+|Planejamento da avaliação do protótipo de alta fidelidade|Início: 07/01 - Fim: 08/01|Felipe| Início: 08/01 - Fim: 09/01|Jéssica|
+|Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|Início: 09/01 - Fim: 10/01|Felipe, Jéssica, João, Ruan, Marcelo| Início: 10/01 - Fim: 11/01|Felipe, Jéssica, João, Ruan, Marcelo|
 |Grava Video da Apresentação|Inicio: 11/01 - Fim: 11/01|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 11/01 - Fim: 11/01|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 16/01 - Fim: 21/01|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 21/01 - Fim: 23/01|Felipe, Jéssica, João, Ruan, Marcelo|
 
@@ -115,7 +115,7 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
-|Relato dos resultados da avaliação do protótipo de alta fidelidade|Início: 20/01 - Fim: 23/01||Início: 23/01 - Fim: 24/01||
+|Relato dos resultados da avaliação do protótipo de alta fidelidade|Início: 20/01 - Fim: 23/01|Felipe, Jéssica, João, Ruan, Marcelo|Início: 23/01 - Fim: 24/01|Felipe, Jéssica, João, Ruan, Marcelo|
 |Grava Video da Apresentação|Inicio: 25/01 - Fim: 25/01|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 25/01 - Fim: 25/01|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 28/01 - Fim: 01/02|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 01/02 - Fim: 02/02|Felipe, Jéssica, João, Ruan, Marcelo|
 
@@ -126,8 +126,8 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
-|Planejamento de verificação dos artefatos|Início: 28/01 - Fim: 30/01||Início: 30/01 - Fim: 01/02||
-|Gravação da apresentação|Início: 03/02 - Fim: 03/02||Início: 03/02 - Fim: 03/02||
+|Planejamento de verificação dos artefatos|Início: 28/01 - Fim: 30/01|Felipe, Jéssica, João, Ruan, Marcelo|Início: 30/01 - Fim: 01/02|Felipe, Jéssica, João, Ruan, Marcelo|
+|Gravação da apresentação|Início: 03/02 - Fim: 03/02|Felipe, Jéssica, João, Ruan, Marcelo|Início: 03/02 - Fim: 03/02|Felipe, Jéssica, João, Ruan, Marcelo|
 
 Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
 
@@ -141,3 +141,5 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1.0|Criação do cronograma|[Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev)|08/11|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|10/11|
+|1.1|Complemento do cronograma|[Jéssica Eveline](https://github.com/xzxjesse)|11/11|||
+
