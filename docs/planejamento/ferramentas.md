@@ -1,3 +1,16 @@
+# Ferramentas
+
+## Introdução
+Este documento apresenta a listagem de ferramentas a serem utilizadas durante o processo de desenvolvimento do projeto da disciplina de IHC, bem como uma breve descrição de sua funcionalidades.
+
+## Objetivos
+O objetivo desse documento é listar as principais ferramentas de uso dos integrantes do grupo para a realização de tarefas durante o andamento do projeto bem como apresentar as possibilidades 
+de cada ferramenta para a contribuição no andamento do projeto.
+
+## Metodologia
+O grupo realizou um levantamento acerca das ferramentas que podem auxiliar o desenvolvimento do projeto ao logo das diferentes etapas de planejamento, design e prototipação.
+Somado a isso, uma análise de funcionalidades foi feita a fim de identificar as melhores ferramentas entre as destacadas para selecionar as que apresentaram melhor usabilidade. 
+
 ## Ferramentas utilizadas
 
 Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a criação e análise dos artefatos necessários.
@@ -21,9 +34,9 @@ Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a or
 | <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="25"> | Visual Studio Code       | Editor de código-fonte para desenvolvimento e edição de projetos.                                                |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg3o3wx2nTAXZ54B5pRslvNXrPkYg8DXSVg&s" width="25"> | Storyboard That          | Ferramenta para criação de storyboards, utilizada no planejamento visual de cenas e conceitos.                   |
 | <img src="https://e7.pngegg.com/pngimages/441/29/png-clipart-miro-logo-landscape-tech-companies.png" width="50"> | Miro                     | Plataforma de quadro branco colaborativo, utilizada para brainstorming e organização de ideias.                  |
-| <img src="https://www.pngkey.com/png/full/381-3817253_marvel-app-logo.png" width="40"> | Marvel App               | Ferramenta de design e prototipagem para criação e visualização de interfaces interativas.                       |
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+
+Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
 
 </center>
 
@@ -54,11 +67,11 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 > <a id="FRM13" href="#anchor_13">12.</a> Storyboard That. Disponível em: [https://www.storyboardthat.com/pt](). Acesso em: 11 de nov. de 2024.
 >
 > <a id="FRM14" href="#anchor_14">13.</a> Miro. Disponível em: [https://miro.com/pt/](). Acesso em: 11 de nov. de 2024.
->
-> <a id="FRM15" href="#anchor_15">14.</a> Marvel App. Disponível em: [https://marvelapp.com/](). Acesso em: 11 de nov. de 2024.
+
 
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão Inicial|   Felipe Rodrigues |   11/11/2024   |[Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  11/11/2024  |
+|  1.0   | Versão Inicial| [Felipe Rodrigues](https://github.com/felipeJRdev) |   11/11/2024   |[Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  11/11/2024  |
+|1.1|Complemento nas ferramentas|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|12/11/2024|[João Vitor](https://github.com/Jauzimm)||
