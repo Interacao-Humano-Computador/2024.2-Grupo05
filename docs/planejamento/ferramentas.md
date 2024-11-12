@@ -61,4 +61,4 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão Inicial|   Felipe Rodrigues |   11/11/2024   |   |    |
+|  1.0   | Versão Inicial|   Felipe Rodrigues |   11/11/2024   |[Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  11/11/2024  |
