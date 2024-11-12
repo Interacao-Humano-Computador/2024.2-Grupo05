@@ -19,7 +19,7 @@ nav:
       - Site escolhido: planejamento/site-escolhido.md
       - Sites avaliados: planejamento/sites-avaliados.md
   - Entregas:
-      -Entrega 1: entregas/entrega_1.md
+      - Entrega 1: entregas/entrega_1.md
 
 # Tema do MkDocs
 theme:
