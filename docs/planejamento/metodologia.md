@@ -10,17 +10,20 @@ O objetivo deste documento é detalhar as metodologias ágeis utilizadas pela eq
 
 ### SCRUM
 O SCRUM foi escolhido para organizar o desenvolvimento em ciclos regulares. As principais cerimônias foram adaptadas da seguinte maneira:
+
 - **Daily's diárias assíncronas**: Realizadas em formato assíncrono, com o envio de atualizações individuais sobre o andamento das tarefas, possibilitando uma comunicação mais eficiente e adaptada aos horários dos integrantes.
 - **Reunião de Review e Planning**: Acontecem semanalmente para avaliar o progresso da sprint, revisar o que foi concluído e planejar a próximo ciclo de trabalho.
 - **Sprints flexíveis**: Cada sprint possui duração variável, de acordo com a complexidade das tarefas e a disponibilidade da equipe.
 
 ### XP
 Para garantir uma maior qualidade no desenvolvimento, algumas práticas de XP foram aplicadas:
+
 - **Trabalho em dupla (pair programming)**: Implementado em tarefas críticas, priorizando momentos que exijam decisões importantes.
 - **Feedback contínuo e melhoria**: Utilizamos feedback constante em cada iteração para ajustar e melhorar o código, maximizando a satisfação da equipe e a estabilidade do software.
 
 ## Comunicação
 A equipe adota uma abordagem híbrida de comunicação para garantir o alinhamento e a rápida resolução de dúvidas:
+
 - **Comunicação Informal e Direta**: Realizada pelo WhatsApp entre os membros do grupo para troca rápida de informações e atualizações sobre o projeto.
 - **Comunicação Formal com o Monitor**: Via Telegram, onde as dúvidas e alinhamentos são comunicados ao monitor, mantendo registro das discussões e revisões.
 - **Alinhamentos presenciais em aula**: Conversas diretas de alinhamento entre os membros ocorrem durante as aulas, proporcionando uma comunicação mais clara e produtiva.
