@@ -1,3 +1,4 @@
+# Cronograma Executado
 ## Introdução
 Este documento apresenta um cronograma detalhado do que foi desenvolvido nas atividades do projeto, distribuído em etapas, considerando a prática das entregas ao longo do período. Essa estrutura visa garantir a documentação e acompanhar das atividades de modo contínuo, separado por etapas e direcionado pelas datas de realização, atendendo aos critérios presentes no [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) e das orientações fornecidas em sala de aula.
 
@@ -9,7 +10,7 @@ Este documento serve como uma ferramenta de acompanhamento e análise de ativida
 
 ## Etapa 1
 ### Tabela de atividades:
-
+Tabela 1: Tabela do cronograma executado da etapa 1.
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
 |Heatmap|Inicio: 15/10 - Fim: 22/10|João|Inicio: 08/11 - Fim: 09/11|Marcelo|
@@ -25,7 +26,7 @@ Este documento serve como uma ferramenta de acompanhamento e análise de ativida
 |Grava Video da Apresentação|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 14/11 - Fim: 16/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 16/11 - Fim: 18/11|Felipe, Jéssica, João, Ruan, Marcelo|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor Santos](https://github.com/Jauzimm), 2024
 
 ## Histórico de versão
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|

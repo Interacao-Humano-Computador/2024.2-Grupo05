@@ -1,3 +1,4 @@
+# Cronograma
 ## Introdução
 Este documento apresenta um cronograma detalhado para o desenvolvimento das atividades do projeto, distribuído em etapas que organizam e programam as entregas ao longo do período. Essa estrutura visa garantir um direcionamento e acompanhamento das atividades contínuas, separado por etapas e direcionado pelas datas presentes no [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
 
