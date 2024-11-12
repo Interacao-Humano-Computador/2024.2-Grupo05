@@ -12,7 +12,7 @@ nav:
   - Atas:
       - Ata 1: atas/ataN1_07_11_2024.md
   - Planejamento:
-      - Cronograma: planejamento/cronograma.md
+      - Cronograma Planejado: planejamento/cronograma.md
       - Cronograma Executado: planejamento/cronograma_executado.md
       - Design: planejamento/design.md
       - Ferramentas: planejamento/ferramentas.md
@@ -21,6 +21,10 @@ nav:
       - Sites avaliados: planejamento/sites-avaliados.md
   - Entregas:
       - Entrega 1: entregas/entrega_1.md
+  - Verificação:
+      - Entrega 1:
+        - Lista de Verificação: SUBSTITUIRPELALISTA.md
+        - Lista de Verificação Grupo+1: SUBSTITUIRPELALISTA.md
 
 # Tema do MkDocs
 theme:
