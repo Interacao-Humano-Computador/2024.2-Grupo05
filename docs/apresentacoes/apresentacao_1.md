@@ -1,14 +1,14 @@
-# Apresentação 01
+# Apresentação 1
 
-## introdução
-Este documento contem a gravação da primeira entrega do projeto da disciplina Interação Humano Computador bem como os principais aspectos avaliados nesta etapa do desenvolvimento.
+## Introdução
+Este documento contem a gravação da primeira entrega do projeto da disciplina Interação Humano , bem como os principais aspectos avaliados nesta etapa do desenvolvimento.
 
 ## Entrega 01
 Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 - Planejamento do Projeto;
-- equipe;
-- lista de sites avaliados;
-- site selecionado para o projeto da disciplina;
+- Equipe;
+- Lista de sites avaliados;
+- Site selecionado para o projeto da disciplina;
 - Ferramentas do projeto;
 - Processo de Design;
 - cronograma das atividades;
@@ -16,11 +16,14 @@ Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 - Gravação da apresentação.
 
 ## Link para a apresentação
-[Entrega-01](https://www.youtube.com/watch?v=aKWQ8WywFNY&t=1s&ab_channel=MarceloAdrian)
 
-## aspectos avaliados
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKWQ8WywFNY?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tabela 01 - Aspectos avaliados na entrega 1 </p>
+**Link:** [Apresentação](https://www.youtube.com/watch?v=aKWQ8WywFNY&t=1s&ab_channel=MarceloAdrian)
+
+## Aspectos avaliados
+
+**Tabela 1** - Aspectos avaliados na entrega 1 </p>
 
 || Questão: O github pages possui: | Resposta (sim/não/incompleto) | Versão, data e horário da avaliação |
 |---|---|---|---|
@@ -52,4 +55,4 @@ Fonte: [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1.0| criação do arquivo |[Ruan Carvalho](https://github.com/Ruan-Carvalho)|12/11/2024| ||
+|1.0| criação do arquivo |[Ruan Carvalho](https://github.com/Ruan-Carvalho)|12/11/2024| [Marcelo Adrian](https://github.com/Marcelo-Adrian)| 12/11/2024|
