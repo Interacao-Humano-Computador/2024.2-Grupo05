@@ -25,7 +25,12 @@ Este documento serve como uma ferramenta de acompanhamento e análise de ativida
 |Grava Video da Apresentação|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 14/11 - Fim: 16/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 16/11 - Fim: 18/11|Felipe, Jéssica, João, Ruan, Marcelo|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Fonte: [Jéssica Eveline](https://github.com/xzxjesse), 2024
+
+## Bibliografia 
+- [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+
+- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
 
 ## Histórico de versão
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
