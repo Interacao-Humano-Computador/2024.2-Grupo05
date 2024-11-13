@@ -18,7 +18,7 @@ Fonte: [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKWQ8WywFNY?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Link:** [Apresentação 1](https://youtu.be/WPBAu7OcWMA)
+**Link:** [Apresentação 1](https://www.youtube.com/watch?v=aKWQ8WywFNY)
 
 ## Histórico de versão
 
