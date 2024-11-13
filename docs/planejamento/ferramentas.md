@@ -1,19 +1,16 @@
 # Ferramentas
 
 ## Introdução
-Este documento apresenta a listagem de ferramentas a serem utilizadas durante o processo de desenvolvimento do projeto da disciplina de IHC, bem como uma breve descrição de sua funcionalidades.
+Este documento apresenta a listagem de ferramentas a serem utilizadas durante o processo de desenvolvimento do projeto da disciplina de IHC, bem como uma breve descrição de suas funcionalidades.
 
 ## Objetivos
-O objetivo desse documento é listar as principais ferramentas de uso dos integrantes do grupo para a realização de tarefas durante o andamento do projeto bem como apresentar as possibilidades 
-de cada ferramenta para a contribuição no andamento do projeto.
+O objetivo deste documento é listar as principais ferramentas de uso dos integrantes do grupo para a realização de tarefas durante o andamento do projeto, bem como apresentar as possibilidades de cada ferramenta para a contribuição no andamento do projeto.
 
 ## Metodologia
-O grupo realizou um levantamento acerca das ferramentas que podem auxiliar o desenvolvimento do projeto ao logo das diferentes etapas de planejamento, design e prototipação.
-Somado a isso, uma análise de funcionalidades foi feita a fim de identificar as melhores ferramentas entre as destacadas para selecionar as que apresentaram melhor usabilidade. 
+O grupo realizou um levantamento acerca das ferramentas que podem auxiliar o desenvolvimento do projeto ao longo das diferentes etapas de planejamento, design e prototipação. Somado a isso, uma análise de funcionalidades foi feita a fim de identificar as melhores ferramentas entre as destacadas para selecionar as que apresentaram melhor usabilidade.
 
 ## Ferramentas utilizadas
-
-Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a criação e análise dos artefatos necessários.
+Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a criação e a análise dos artefatos necessários.
 
 <center>
 <font size="2"><p style="text-align: center">Tabela 1: Ferramentas utilizadas no projeto.</p></font>
@@ -74,4 +71,4 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial| [Felipe Rodrigues](https://github.com/felipeJRdev) |   11/11/2024   |[Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  11/11/2024  |
-|1.1|Complemento nas ferramentas|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|12/11/2024|[João Vitor](https://github.com/Jauzimm)||
+|1.1|Complemento nas ferramentas|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|12/11/2024|[João Vitor](https://github.com/Jauzimm)| 12/11/2024 |

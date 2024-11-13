@@ -11,6 +11,7 @@ Este documento serve como uma ferramenta de acompanhamento e análise de ativida
 ## Etapa 1
 ### Tabela de atividades:
 Tabela 1: Tabela do cronograma executado da etapa 1.
+
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
 |Heatmap|Inicio: 15/10 - Fim: 22/10|João|Inicio: 08/11 - Fim: 09/11|Marcelo|
