@@ -24,8 +24,7 @@ nav:
       - Entrega 1: entregas/entrega_1.md
   - Verificação:
       - Entrega 1:
-        - Lista de Verificação: SUBSTITUIRPELALISTA.md
-        - Lista de Verificação Grupo+1: SUBSTITUIRPELALISTA.md
+        - Lista de Verificação: apresentacoes/apresentacao_1.md
 
 # Tema do MkDocs
 theme:
