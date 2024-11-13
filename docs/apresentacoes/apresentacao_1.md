@@ -1,9 +1,9 @@
-# Apresentação 01
+# Apresentação 1
 
 ## Introdução
 Este documento contem a gravação da primeira entrega do projeto da disciplina Interação Humano Computador, bem como os principais aspectos avaliados nesta etapa do desenvolvimento.
 
-## Entrega 01
+## Entrega 1
 Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 - Planejamento do Projeto;
 - Equipe;
@@ -24,7 +24,7 @@ Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 
 ## Aspectos avaliados
 
-**Tabela 01** - Aspectos avaliados na entrega 1 </p>
+**Tabela 1** - Aspectos avaliados na entrega 1 </p>
 
 || Questão: O github pages possui: | Resposta (sim/não/incompleto) | Versão, data e horário da avaliação |
 |---|---|---|---|
