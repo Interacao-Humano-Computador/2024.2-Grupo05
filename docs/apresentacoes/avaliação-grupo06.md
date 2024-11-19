@@ -28,7 +28,7 @@ Neste documento está contido a avaliação do grupo 06 acerca de primeira entre
 |                                         | 9 - Vídeo de apresentação na categoria “não listado” no youtube?                                                                                                                                   | sim                           | 1.0, 13/11/2024, 19:30              |
 | Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de  Design?                                                                                                                                                 | sim                           | 1.0, 13/11/2024, 20:34              |
 
-Fonte: [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 ## Bibliografia
 

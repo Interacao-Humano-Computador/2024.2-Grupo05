@@ -28,7 +28,7 @@ O cronograma apresentado não configura uma metodologia formal, mas sim uma ferr
 |Inspeção do grupo+1|Inicio: 13/11 - Fim: 13/11|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|Inicio: 13/11 - Fim: 13/11|[Felipe Rodrigues](https://github.com/felipeJRdev)|
 |Correção pós entrega|Inicio: 14/11 - Fim: 16/11|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio 16/11 - Fim: 18/11|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 ## Etapa 2
 ### Tabela de atividades:
@@ -48,7 +48,7 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |Inspeção do grupo+1|Inicio: 27/11 - Fim: 27/11|[Felipe Rodrigues](https://github.com/felipeJRdev)|Inicio: 27/11 - Fim: 27/11|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|
 |Correção Pós-Entrega|Início: 28/11 - Fim: 30/11|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Início: 01/12 - Fim: 01/12|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 ## Etapa 3
 ### Tabela de atividades:
@@ -66,7 +66,7 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |Inspeção do grupo+1|Inicio: 04/12 - Fim: 04/12|[João Vitor](https://github.com/Jauzimm)|Inicio: 04/12 - Fim: 04/12|[Felipe Rodrigues](https://github.com/felipeJRdev)|
 |Correção pós entrega|Inicio: 05/12 - Fim: 10/12|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio 10/12 - Fim: 12/12|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 ## Etapa 4
 ### Tabela de atividades:
@@ -83,7 +83,7 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |Inspeção do grupo+1|Inicio: 11/12 - Fim: 11/12|[Felipe Rodrigues](https://github.com/felipeJRdev)|Inicio: 11/12 - Fim: 11/12|[João Vitor](https://github.com/Jauzimm)|
 |Correção pós entrega|Inicio: 12/12 - Fim: 17/12|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio 18/12 - Fim: 20/12|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 ## Etapa 5
 ### Tabela de atividades:
@@ -101,7 +101,7 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |Inspeção do grupo+1|Inicio: 06/01 - Fim: 06/01|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio: 06/01 - Fim: 06/01|[Jéssica Eveline](https://github.com/xzxjesse)|
 |Correção pós entrega|Inicio: 07/01 - Fim: 12/01|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio 12/01 - Fim: 14/01|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
  
 ## Etapa 6
 ### Tabela de atividades:
@@ -118,7 +118,7 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |Inspeção do grupo+1|Inicio: 15/01 - Fim: 15/01|[Jéssica Eveline](https://github.com/xzxjesse)|Inicio: 15/01 - Fim: 15/01|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 |Correção pós entrega|Inicio: 14/01 - Fim: 16/01|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio 17/01 - Fim: 19/01|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 ## Etapa 7
 ### Tabela de atividades:
@@ -135,7 +135,7 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |Correção pós entrega|Inicio: 16/01 - Fim: 21/01|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio 21/01 - Fim: 23/01|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 |Inspeção do grupo+1|Inicio: 27/01 - Fim: 27/01|[Jéssica Eveline](https://github.com/xzxjesse)|Inicio: 27/01 - Fim: 27/01|[Felipe Rodrigues](https://github.com/felipeJRdev)|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 ## Etapa 8
 ### Tabela de atividades:
@@ -148,7 +148,7 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |Grava Video da Apresentação|Inicio: 25/01 - Fim: 25/01|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio: 25/01 - Fim: 25/01|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 |Correção pós entrega|Inicio: 28/01 - Fim: 01/02|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio 01/02 - Fim: 02/02|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 ## Etapa Final
 ### Tabela de atividades:
@@ -160,7 +160,7 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |Planejamento de verificação dos artefatos|Início: 28/01 - Fim: 30/01|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Início: 30/01 - Fim: 01/02|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 |Gravação da apresentação|Início: 03/02 - Fim: 03/02|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Início: 03/02 - Fim: 03/02|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 
 ## Bibliografia 

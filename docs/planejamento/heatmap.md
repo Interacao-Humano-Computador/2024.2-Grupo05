@@ -15,7 +15,7 @@ O processo de realização do heatmap teve seu início com a coleta de dados de 
 **Imagem 1:** Heatmap de disponibilidade dos integrantes.
 ![Heatmap](../assets/heatmap.png)
 
-**Fonte:**  [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
+Autor(es):  [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 ## Bibliografia
 [Exemplo de heatmap](https://docs.google.com/spreadsheets/d/1qsrnEGGf6XWL3buII_7EzXH1-NXewr9G0aicRZ9fVAs/edit?gid=96807035#gid=96807035)

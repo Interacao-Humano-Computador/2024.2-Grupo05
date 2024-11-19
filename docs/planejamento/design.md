@@ -42,6 +42,8 @@ Valoriza a interação e troca de informações entre usuários e o sistema, vis
 ## Processo de design escolhido
 Em um acordo entre os membros do grupo, foi definido que a abordagem a ser seguida será a Engenharia de usabilidade de Mayhew devido a ênfase desse processo na estruturação do design, sendo este o mais metódico entre os demais apresentados e com etapas bem definidas, desta forma orientando melhor o grupo a dar continuidade ao projeto da disciplina.
 
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
+
 ## Bibliografia
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Planejamento da avaliação de IHC**. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
 

@@ -49,7 +49,7 @@ Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 |                                         | 9 - Vídeo de apresentação na categoria “não listado” no youtube?                                                                                                                                   | sim                           | 1.0, 12/11/2024, 22:03              |
 | Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de Design? [Mayhew](../assets/Mayhew.png)                                                                                                                   | sim                           | 1.0, 12/11/2024, 22:47              |
 
-Fonte: [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 ## Bibliografia
 

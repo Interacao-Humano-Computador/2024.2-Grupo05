@@ -14,7 +14,7 @@ Durante a disciplina de IHC foram realizadas algumas avaliações pelos integran
 | Lattes | Jessica |
 | UFPel | Marcelo |
 
-Fonte: [João Vitor](https://github.com/Jauzimm).
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
 ## Meu INSS
 

@@ -64,7 +64,7 @@ Os tipos de commit utilizados no projeto são:
 - Conventional Commits 1.0.0. Disponível em: [link](https://www.conventionalcommits.org/en/v1.0.0/).
 
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
 ## Histórico de Versão
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |

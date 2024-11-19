@@ -36,7 +36,7 @@ Utilizando as heurísticas de Nielsen, foram identificados os seguintes problema
 7. **Ajuda e documentação:**  O site possui uma documentação e um FAQ que cobre algumas dúvidas comuns, mas não abrange todas. Por exemplo, informações sobre erros como "time limit exceeded" não estão detalhadas, deixando usuários sem suporte para questões mais técnicas.
 
 
-Fonte: [João Vitor](https://github.com/Jauzimm).
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
 ## Bibliografia
 - BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da

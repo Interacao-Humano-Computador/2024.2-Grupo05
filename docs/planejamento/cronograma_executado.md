@@ -27,7 +27,7 @@ Tabela 1: Tabela do cronograma executado da etapa 1.
 |Grava Video da Apresentação|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio: 11/11 - Fim: 11/11|Felipe, Jéssica, João, Ruan, Marcelo|
 |Correção pós entrega|Inicio: 14/11 - Fim: 16/11|Felipe, Jéssica, João, Ruan, Marcelo|Inicio 16/11 - Fim: 18/11|Felipe, Jéssica, João, Ruan, Marcelo|
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm),  2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm),  2024.
 
 ## Bibliografia 
 - [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.

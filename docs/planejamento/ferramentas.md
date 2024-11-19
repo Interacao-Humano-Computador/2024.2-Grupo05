@@ -33,7 +33,7 @@ Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a or
 | <img src="https://e7.pngegg.com/pngimages/441/29/png-clipart-miro-logo-landscape-tech-companies.png" width="50"> | Miro                     | Plataforma de quadro branco colaborativo, utilizada para brainstorming e organização de ideias.                  |
 
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 </center>
 
