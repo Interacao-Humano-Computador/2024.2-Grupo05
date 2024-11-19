@@ -66,7 +66,10 @@ Os tipos de commit utilizados no projeto são:
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
-## Histórico de Versão
+## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
+
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | Criação do documento de metodologia e padrões de commit | [Jéssica Eveline](https://github.com/xzxjesse) | 12/11/2024 |[Marcelo Adrian](https://github.com/Marcelo-Adrian) | 12/11/2024 |

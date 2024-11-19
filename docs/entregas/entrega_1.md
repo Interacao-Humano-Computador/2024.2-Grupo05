@@ -16,11 +16,15 @@ Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
 ## Apresentação
 
+<font size="3"><p style="text-align: left">**Vídeo 1** - Apresentação da entrega 1.</p></font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKWQ8WywFNY?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Link:** [Apresentação 1](https://www.youtube.com/watch?v=aKWQ8WywFNY)
 
-## Histórico de versão
+## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
 
 | Versão |        Descrição         |                      Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :----------------------: | :-------------------------------------------------: | :--------: | :---------: | :-------------: |

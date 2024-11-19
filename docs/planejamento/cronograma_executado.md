@@ -10,7 +10,8 @@ Este documento serve como uma ferramenta de acompanhamento e análise de ativida
 
 ## Etapa 1
 ### Tabela de atividades:
-Tabela 1: Tabela do cronograma executado da etapa 1.
+<font size="3"><p style="text-align: left">**Tabela 1**: Tabela do cronograma executado da etapa 1.</p></font>
+
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -34,7 +35,10 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 
 - [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
 
-## Histórico de versão
+## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
+
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1.0|Criação do cronograma executado|[Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev)|11/11/2024|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|12/11/2024|

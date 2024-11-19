@@ -20,13 +20,15 @@ Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 
 ## Link para a apresentação
 
+<font size="3"><p style="text-align: left">**Vídeo 1** - Apresentação da entrega 1.</p></font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKWQ8WywFNY?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Link:** [Apresentação](https://www.youtube.com/watch?v=aKWQ8WywFNY&t=1s&ab_channel=MarceloAdrian)
 
 ## Aspectos avaliados
 
-**Tabela 1** - Aspectos avaliados na entrega 1 </p>
+<font size="3"><p style="text-align: left">**Tabela 1** - Aspectos avaliados na entrega 1.</p></font>
 
 |                                         | Questão: O github pages possui:                                                                                                                                                                    | Resposta (sim/não/incompleto) | Versão, data e horário da avaliação |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------- |
@@ -55,7 +57,9 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 - [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
 
-## Histórico de versões
+## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |

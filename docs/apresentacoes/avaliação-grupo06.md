@@ -5,7 +5,7 @@ Neste documento está contido a avaliação do grupo 06 acerca de primeira entre
 
 ## Aspectos avaliados
 
-**Tabela 1** - Aspectos avaliados na entrega 1 </p>
+<font size="3"><p style="text-align: left">**Tabela 1** - Aspectos avaliados na entrega 1.</p></font>
 
 |                                         | Questão: O github pages possui:                                                                                                                                                                    | Resposta (sim/não/incompleto) | Versão, data e horário da avaliação |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------- |
@@ -34,7 +34,9 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 - [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
 
-## Histórico de versões
+## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |

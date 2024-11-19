@@ -12,8 +12,7 @@ O grupo realizou um levantamento acerca das ferramentas que podem auxiliar o des
 ## Ferramentas utilizadas
 Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a criação e a análise dos artefatos necessários.
 
-<center>
-<font size="2"><p style="text-align: center">Tabela 1: Ferramentas utilizadas no projeto.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 1**: Ferramentas utilizadas no projeto.</p></font>
 
 | Logo                                                | Ferramenta               | Descrição                                                                                                         |
 | --------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +34,6 @@ Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a or
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
-</center>
 
 ## Bibliografia
 
@@ -67,6 +65,8 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 
 
 ## **Histórico de Versões**
+
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|

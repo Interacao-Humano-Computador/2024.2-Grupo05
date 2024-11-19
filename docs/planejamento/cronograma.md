@@ -11,7 +11,7 @@ O cronograma apresentado não configura uma metodologia formal, mas sim uma ferr
 ## Etapa 1
 ### Tabela de atividades:
 
-<font size="2"><p style="text-align: left">Tabela 1 - Cronograma da Etapa 1.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 1** - Cronograma da Etapa 1.</p></font>
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -33,7 +33,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 ## Etapa 2
 ### Tabela de atividades:
 
-<font size="2"><p style="text-align: left">Tabela 2 - Cronograma da Etapa 2.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 2** - Cronograma da Etapa 2.</p></font>
 
 |Atividade|Desenvolvimento|Responsável|Período de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -53,7 +53,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 ## Etapa 3
 ### Tabela de atividades:
 
-<font size="2"><p style="text-align: left">Tabela 3 - Cronograma da Etapa 3.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 3** - Cronograma da Etapa 3.</p></font>
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -71,7 +71,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 ## Etapa 4
 ### Tabela de atividades:
 
-<font size="2"><p style="text-align: left">Tabela 4 - Cronograma da Etapa 4.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 4** - Cronograma da Etapa 4.</p></font>
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -88,7 +88,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 ## Etapa 5
 ### Tabela de atividades:
 
-<font size="2"><p style="text-align: left">Tabela 5 - Cronograma da Etapa 5.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 5** - Cronograma da Etapa 5.</p></font>
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -106,7 +106,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 ## Etapa 6
 ### Tabela de atividades:
 
-<font size="2"><p style="text-align: left">Tabela 6 - Cronograma da Etapa 6.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 6** - Cronograma da Etapa 6.</p></font>
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -123,7 +123,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 ## Etapa 7
 ### Tabela de atividades:
 
-<font size="2"><p style="text-align: left">Tabela 7 - Cronograma da Etapa 7.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 7** - Cronograma da Etapa 7.</p></font>
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -140,7 +140,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 ## Etapa 8
 ### Tabela de atividades:
 
-<font size="2"><p style="text-align: left">Tabela 8 - Cronograma da Etapa 8.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 8** - Cronograma da Etapa 8.</p></font>
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -153,7 +153,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 ## Etapa Final
 ### Tabela de atividades:
 
-<font size="2"><p style="text-align: left">Tabela 9 - Cronograma da Etapa 9.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 9** - Cronograma da Etapa 9.</p></font>
 
 |Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
 |:---:|:---:|:---:|:---:|:---:|
@@ -168,9 +168,9 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 
 - [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
 
-## Histórico de versão
+## Histórico de Versões
 
-<font size="2"><p style="text-align: left">Tabela 10 - Histórico de versão 10.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 10** - Histórico de versões.</p></font>
 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|

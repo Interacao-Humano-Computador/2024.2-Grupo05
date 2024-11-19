@@ -47,7 +47,10 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 ## Bibliografia
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Planejamento da avaliação de IHC**. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
 
-## Histórico de versão
+## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
+
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1.0|Definição do processo de design|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|10/11/2024| [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/11/2024|

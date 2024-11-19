@@ -4,7 +4,7 @@
 
 Durante a disciplina de IHC foram realizadas algumas avaliações pelos integrantes do grupo, onde escolhemos apenas uma, o MOJ Naquadah, para a sua avaliação. A seguir está o site escolhido por cada integrante:
 
-**Tabela 1:** Tabela de sites avaliados por cada integrante.
+<font size="3"><p style="text-align: left">**Tabela 1** - Tabela de sites avaliados por cada integrante.</p></font>
 
 | Site Avaliado | Integrante |
 |:-------------:|:----------:|
@@ -56,6 +56,8 @@ A avaliação desse site foi feita pelo integrante Marcelo Adrian. O portal da [
 
 
 ## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |

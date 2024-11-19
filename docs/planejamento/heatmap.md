@@ -11,8 +11,8 @@ O processo de realização do heatmap teve seu início com a coleta de dados de 
 
 **Segue abaixo o heatmap do grupo 05:**
 
+<font size="3"><p style="text-align: left">**Figura 1** - Heatmap de disponibilidade dos integrantes.</p></font>
 
-**Imagem 1:** Heatmap de disponibilidade dos integrantes.
 ![Heatmap](../assets/heatmap.png)
 
 Autor(es):  [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
@@ -28,6 +28,8 @@ De acordo com o heatmap, a equipe tem a possibilidade de realizar reuniões aos 
 - 16:00 - 17:00
 
 ## **Histórico de Versões**
+
+<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|

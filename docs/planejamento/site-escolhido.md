@@ -47,6 +47,8 @@ Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
 ## Histórico de Versões
 
+<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
+
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Versão inicial do site escolhido do projeto | [João Vitor](https://github.com/Jauzimm) | 10/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  10/11/2024   |
