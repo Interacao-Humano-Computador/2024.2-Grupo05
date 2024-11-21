@@ -25,10 +25,6 @@ nav:
   - Verificação:
       - Entrega 1:
         - Lista de Verificação: apresentacoes/apresentacao_1.md
-<<<<<<< HEAD
-        - Lista de Verificação Grupo+1: SUBSTITUIRPELALISTA.md
-=======
->>>>>>> 4f8d55ef54e37bd36db41497024bbe6ba14730a6
 
 # Tema do MkDocs
 theme:
