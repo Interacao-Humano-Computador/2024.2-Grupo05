@@ -15,6 +15,8 @@ O processo de realização do heatmap teve seu início com a coleta de dados de 
 **Imagem 1:** Heatmap de disponibilidade dos integrantes.
 ![Heatmap](../assets/heatmap.png)
 
+**Link para o Heatmap:** [Clique aqui para acessar o Heatmap](https://docs.google.com/spreadsheets/d/1Hohu5z3OCw5robYpv5zjdTzFoDD7g_l-0YoJCJjk4vc/edit?usp=sharing)
+
 **Fonte:**  [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
 
 ## Bibliografia
@@ -33,3 +35,4 @@ De acordo com o heatmap, a equipe tem a possibilidade de realizar reuniões aos 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial|   [João Vitor](https://github.com/Jauzimm)  |   05/11/2024   | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  |   10/11/2024 |
 | 1.1 | Complemento do heatmap | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 12/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |12/11/2024|
+|  1.2   | Inclusão do link do Heatmap| [Jessica Eveline](https://github.com/xzxjesse) | 23/11/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | |
