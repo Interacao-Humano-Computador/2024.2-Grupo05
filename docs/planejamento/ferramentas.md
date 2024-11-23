@@ -12,6 +12,9 @@ O grupo realizou um levantamento acerca das ferramentas que podem auxiliar o des
 ## Ferramentas utilizadas
 Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a criação e a análise dos artefatos necessários.
 
+<center>
+<font size="2"><p style="text-align: center">Tabela 1: Ferramentas utilizadas no projeto.</p></font>
+
 | Logo                                                | Ferramenta               | Descrição                                                                                                         |
 | --------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"> | Figma                    | Ferramenta de design colaborativo, utilizada para prototipação e design de interfaces.                           |
