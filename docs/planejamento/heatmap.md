@@ -18,8 +18,8 @@ O processo de realização do heatmap teve seu início com a coleta de dados de 
 Autor(es):  [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 ## Bibliografia
-[Exemplo de heatmap](https://docs.google.com/spreadsheets/d/1qsrnEGGf6XWL3buII_7EzXH1-NXewr9G0aicRZ9fVAs/edit?gid=96807035#gid=96807035)
- da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+
+SILVA, André Barros. Exemplo de Heatmap. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://docs.google.com/spreadsheets/d/1qsrnEGGf6XWL3buII_7EzXH1-NXewr9G0aicRZ9fVAs/edit?gid=96807035#gid=96807035. Acesso em: 10 nov. 2024.
 
 ## Disponibilidade
 De acordo com o heatmap, a equipe tem a possibilidade de realizar reuniões aos sábados nos seguintes horários:
@@ -35,3 +35,4 @@ De acordo com o heatmap, a equipe tem a possibilidade de realizar reuniões aos 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial|   [João Vitor](https://github.com/Jauzimm)  |   05/11/2024   | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  |   10/11/2024 |
 | 1.1 | Complemento do heatmap | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 12/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |12/11/2024|
+|1.2|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|   |   |

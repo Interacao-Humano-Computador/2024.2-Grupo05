@@ -163,10 +163,11 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 
-## Bibliografia 
-- [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+## Bibliografia
 
-- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+SILVA, André Barros. Exemplo de Cronograma. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf. Acesso em: 11 nov. 2024.
+
+SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 11 nov. 2024.
 
 ## Histórico de Versões
 
@@ -177,3 +178,4 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 |1.0|Criação do cronograma|[Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev)|08/11/2024|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|10/11/2024|
 |1.1|Complemento do cronograma|[Jéssica Eveline](https://github.com/xzxjesse)|11/11/2024|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|12/11/2024|
 |1.2|Ajustes no cronograma|[Felipe Rodrigues](https://github.com/felipeJRdev)|12/11/2024|[João Vitor](https://github.com/Jauzimm)|12/11/2024|
+|1.3|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|   |   |

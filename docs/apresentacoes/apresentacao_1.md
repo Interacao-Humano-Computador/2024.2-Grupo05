@@ -55,7 +55,8 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 ## Bibliografia
 
-- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+SILVA, André Barros de. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 10 nov. 2024.
+
 
 ## Histórico de Versões
 
@@ -64,3 +65,4 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | criação do arquivo | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 12/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   12/11/2024    |
+|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|   |   |
