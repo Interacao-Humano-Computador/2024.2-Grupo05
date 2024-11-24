@@ -7,7 +7,7 @@
 * Término: Hora e minuto de término da reunião
 * Local: Local de realização da reunião
 * Redator: Nome de que redigiu a ata da reunião
-* Revisor: Nome de quem revissou a ata da reunião
+* Revisor: Nome de quem revisou a ata da reunião
 
 **Tabela 1:** Cabeçalho com datas, horarios e realizadores.
 
@@ -82,14 +82,18 @@ Link da gravação:
 |  |  |  |  |
 |  |  |  |  |
 
+## Referências
+
+[Ata de Reunião](https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html) do Ministério da Ciência, Tecnologia e Inovação (MCTI).
+
 ## Histórico de Versões
 
-* Versão: Representa o número ou código da versão do documento ou do projeto. Geralmente é usado para rastrear alterações ao longo do tempo (por exemplo, "1.0", "1.1", "2.0").
-* Descrição: Contém uma breve explicação sobre as alterações realizadas nessa versão. Pode incluir adições, correções, melhorias, ou mudanças significativas.
+* Versão: Representa o número ou código da versão do documento ou do projeto. Geralmente é usado para rastrear alterações ao longo do tempo.
+* Descrição: Contém uma breve explicação sobre as alterações realizadas na versão. Pode incluir adições, correções, melhorias, ou mudanças significativas.
 * Autor: Nome da pessoa ou equipe responsável por criar ou modificar o conteúdo dessa versão específica.
-* Data: Data em que a versão foi criada ou publicada, geralmente no formato DD/MM/AAAA.
+* Data: Data em que a versão foi criada ou publicada no formato DD/MM/AAAA.
 * Revisor: Nome da pessoa que revisou a versão para garantir qualidade, precisão, ou conformidade com os padrões estabelecidos.
-* Data de revisão: Data em que a revisão foi concluída, geralmente no mesmo formato da coluna "Data".
+* Data de revisão: Data em que a revisão foi concluída no mesmo formato da coluna "Data".
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
