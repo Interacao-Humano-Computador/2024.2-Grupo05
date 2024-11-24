@@ -29,13 +29,18 @@
 |  |  |
 |  |  |
 
-**Link da gravação:**
+Link da gravação:
 
 ## 2. Pauta
+
 * Listar os assuntos que serão tratados na reunião.
+
 ## 3. Pendências Anteriores
+
 * Registrar as pendências de reuniões passadas que ainda não foram solucionadas, identificando o responsável e a data para conclusão da pendência.
+
 ## 4. Assuntos Tratados
+
 * Registrar as determinações acordadas em reunião para cada assunto tratado. Identificar os assuntos com o mesmo número da pauta da reunião.
 
 **Tabela 3:** Assuntos a serem tratados e seu tipo.
@@ -79,7 +84,21 @@
 
 ## Histórico de Versões
 
+* Versão: Representa o número ou código da versão do documento ou do projeto. Geralmente é usado para rastrear alterações ao longo do tempo (por exemplo, "1.0", "1.1", "2.0").
+* Descrição: Contém uma breve explicação sobre as alterações realizadas nessa versão. Pode incluir adições, correções, melhorias, ou mudanças significativas.
+* Autor: Nome da pessoa ou equipe responsável por criar ou modificar o conteúdo dessa versão específica.
+* Data: Data em que a versão foi criada ou publicada, geralmente no formato DD/MM/AAAA.
+* Revisor: Nome da pessoa que revisou a versão para garantir qualidade, precisão, ou conformidade com os padrões estabelecidos.
+* Data de revisão: Data em que a revisão foi concluída, geralmente no mesmo formato da coluna "Data".
+
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  |  |  |  |  |  |
 
+Autor: [João Vitor](https://github.com/Jauzimm)
+
+## Histórico de Versões
+
+| Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
+| :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
+| 1.0 | Versão inicial da ata padrão | [João Vitor](https://github.com/Jauzimm) | 24/11/2024 |  |  |
