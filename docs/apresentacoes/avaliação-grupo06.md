@@ -3,6 +3,12 @@
 ## Introdução
 Neste documento está contido a avaliação do grupo 06 acerca de primeira entrega do projeto da disciplina de Interação Humano-Computador. 
 
+## Video de avaliação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1YF_VGZcrNM?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Link:** [Avaliação do grupo + 1](https://www.youtube.com/watch?v=1YF_VGZcrNM)
+
 ## Aspectos avaliados
 
 **Tabela 1** - Aspectos avaliados na entrega 1 </p>
