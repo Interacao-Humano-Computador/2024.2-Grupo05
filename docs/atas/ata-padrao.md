@@ -15,6 +15,8 @@
 |------------|--------------------------|--------------------------|--------------------------|---------------------------|-------------|-------------|--------------|--------|
 |  |  |  |  |  |  |  |  |  |
 
+Autor: 
+
 ### Participantes: 
 
 * Presente: Marcar somente as pessoas que participaram da reunião;
@@ -29,7 +31,11 @@
 |  |  |
 |  |  |
 
+Autor: 
+
 Link da gravação:
+
+Autor: 
 
 ## 2. Pauta
 
@@ -54,6 +60,8 @@ Link da gravação:
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+Autor: 
 
 * Apresentação:	Exposição de algum assunto realizada durante a reunião. Não depende de avaliação ou aprovação.
 [Ex.: Leituras de atas anteriores.]
@@ -82,6 +90,8 @@ Link da gravação:
 |  |  |  |  |
 |  |  |  |  |
 
+Autor: 
+
 ## Referências
 
 [Ata de Reunião](https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html) do Ministério da Ciência, Tecnologia e Inovação (MCTI).
@@ -98,8 +108,6 @@ Link da gravação:
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  |  |  |  |  |  |
-
-Autor: [João Vitor](https://github.com/Jauzimm)
 
 ## Histórico de Versões
 
