@@ -39,7 +39,7 @@ Fonte: [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](http
 
 **Figura 1** - Gráfico das respostas avaliadas na entrega 1 </p>
 
-![Respostas](/docs/assets/AV1_Respostas.png)
+![Respostas](../assets/AV1_Respostas.png)
 
 Fonte: [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024
 
