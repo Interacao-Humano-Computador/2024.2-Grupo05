@@ -48,19 +48,19 @@ A avaliação desse site foi feita pelo integrante Marcelo Adrian. O portal da [
 
 ## Referências Bibliográficas 
 
-MEU INSS. Disponível em: https://meu.inss.gov.br/. Acesso em: 10 nov. 2024.
+MEU INSS. Disponível em: [https://meu.inss.gov.br/](https://meu.inss.gov.br/). Acesso em: 10 nov. 2024.
 
-MOJ NAQUADAH. Disponível em: https://moj.naquadah.com.br/cgi-bin/index.sh. Acesso em: 10 nov. 2024.
+MOJ NAQUADAH. Disponível em: [https://moj.naquadah.com.br/cgi-bin/index.sh](https://moj.naquadah.com.br/cgi-bin/index.sh). Acesso em: 10 nov. 2024.
 
-PORTAL DA TRANSPARÊNCIA. Disponível em: https://portaldatransparencia.gov.br. Acesso em: 10 nov. 2024.
+PORTAL DA TRANSPARÊNCIA. Disponível em: [https://portaldatransparencia.gov.br](https://portaldatransparencia.gov.br). Acesso em: 10 nov. 2024.
 
-UNIVERSIDADE FEDERAL DE PELOTAS (UFPel). Disponível em: https://portal.ufpel.edu.br/#. Acesso em: 10 nov. 2024.
+UNIVERSIDADE FEDERAL DE PELOTAS (UFPel). Disponível em: [https://portal.ufpel.edu.br/#](https://portal.ufpel.edu.br/#). Acesso em: 10 nov. 2024.
 
-LATTES. Disponível em: https://lattes.cnpq.br. Acesso em: 10 nov. 2024.
+LATTES. Disponível em: [https://lattes.cnpq.br](https://lattes.cnpq.br). Acesso em: 10 nov. 2024.
 
 ## Bibliografia
 
-SILVA, André Barros de. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 10 nov. 2024.
+SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
 
 
 ## Histórico de Versões

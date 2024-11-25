@@ -60,11 +60,11 @@ Os tipos de commit utilizados no projeto são:
 
 ## Referências Bibliográficas
 
-CONVENTIONAL COMMITS 1.0.0. Disponível em: https://www.conventionalcommits.org/en/v1.0.0/. Acesso em: 12 nov. 2024.
+CONVENTIONAL COMMITS 1.0.0. Disponível em: [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/). Acesso em: 12 nov. 2024.
 
 ## Bibliografia
 
-BOURQUE, Pierre; FAIRLEY, Richard E. (ed.). SWEBOK: Guide to the Software Engineering Body of Knowledge. IEEE, 2014. Disponível em: https://www.computer.org/education/bodies-of-knowledge/software-engineering.
+BOURQUE, Pierre; FAIRLEY, Richard E. (ed.). SWEBOK: Guide to the Software Engineering Body of Knowledge. IEEE, 2014. Disponível em: [https://www.computer.org/education/bodies-of-knowledge/software-engineering](https://www.computer.org/education/bodies-of-knowledge/software-engineering).
 
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.

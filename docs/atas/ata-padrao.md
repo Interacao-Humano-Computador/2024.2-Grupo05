@@ -23,6 +23,7 @@ Autor:
 * Nome: Listas todas as pessoas que foram convocadas para a reunião.
 
 **Tabela 2:** Participantes e suas presenças.
+
 | Nome | Presente |
 |:----:|:--------:|
 | [João Vitor](https://github.com/Jauzimm) ||
@@ -110,6 +111,8 @@ Autor:
 |  |  |  |  |  |  |
 
 ## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 5** - Histórico de versões.</p></font>
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |

@@ -38,15 +38,17 @@ Utilizando as heurísticas de Nielsen, foram identificados os seguintes problema
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
+## Referências Bibliográficas
+
+MOJ NAQUADAH. Disponível em: [https://moj.naquadah.com.br/cgi-bin/index.sh](https://moj.naquadah.com.br/cgi-bin/index.sh). Acesso em: 10 nov. 2024.
+
 ## Bibliografia
 
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da
  avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier
  Editora, 2010.
 
-MOJ NAQUADAH. Disponível em: https://moj.naquadah.com.br/cgi-bin/index.sh. Acesso em: 10 nov. 2024.
-
-SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 10 nov. 2024.
+SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
 
 ## Histórico de Versões
 

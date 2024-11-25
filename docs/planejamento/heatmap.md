@@ -24,7 +24,7 @@ Autor(es):  [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://g
 
 ## Bibliografia
 
-SILVA, André Barros. Exemplo de Heatmap. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://docs.google.com/spreadsheets/d/1qsrnEGGf6XWL3buII_7EzXH1-NXewr9G0aicRZ9fVAs/edit?gid=96807035#gid=96807035. Acesso em: 10 nov. 2024.
+SILVA, André Barros. Exemplo de Heatmap. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Exemplo Heatmap](https://docs.google.com/spreadsheets/d/1qsrnEGGf6XWL3buII_7EzXH1-NXewr9G0aicRZ9fVAs/edit?gid=96807035#gid=96807035). Acesso em: 10 nov. 2024.
 
 
 ## Disponibilidade

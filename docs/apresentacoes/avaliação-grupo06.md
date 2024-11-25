@@ -44,7 +44,9 @@ Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024
 
 ## Bibliografia
 
-SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf.
+SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
+
+## Histórico de Versões
 
 <font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
