@@ -76,4 +76,4 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | Criação do documento de metodologia e padrões de commit | [Jéssica Eveline](https://github.com/xzxjesse) | 12/11/2024 |[Marcelo Adrian](https://github.com/Marcelo-Adrian) | 12/11/2024 |
-|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|   |   |
+|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |

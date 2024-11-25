@@ -178,4 +178,4 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |1.0|Criação do cronograma|[Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev)|08/11/2024|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|10/11/2024|
 |1.1|Complemento do cronograma|[Jéssica Eveline](https://github.com/xzxjesse)|11/11/2024|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|12/11/2024|
 |1.2|Ajustes no cronograma|[Felipe Rodrigues](https://github.com/felipeJRdev)|12/11/2024|[João Vitor](https://github.com/Jauzimm)|12/11/2024|
-|1.3|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|   |   |
+|1.3|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |

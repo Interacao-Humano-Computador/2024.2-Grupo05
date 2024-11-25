@@ -54,4 +54,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Planejamento da aval
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1.0|Definição do processo de design|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|10/11/2024| [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/11/2024|
-|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|   |   |
+|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |

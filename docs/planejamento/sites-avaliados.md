@@ -70,4 +70,4 @@ SILVA, André Barros de. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Versão inicial dos sites avaliados no projeto | [João Vitor](https://github.com/Jauzimm) | 10/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   10/11/2024  |
-|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|   |   |
+|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |

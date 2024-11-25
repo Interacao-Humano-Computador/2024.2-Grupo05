@@ -72,4 +72,4 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](h
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial| [Felipe Rodrigues](https://github.com/felipeJRdev) |   11/11/2024   |[Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  11/11/2024  |
 |1.1|Complemento nas ferramentas|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|12/11/2024|[João Vitor](https://github.com/Jauzimm)| 12/11/2024 |
-|1.2|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|   |   |
+|1.2|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024  |
