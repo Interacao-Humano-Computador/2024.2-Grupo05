@@ -72,5 +72,5 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial| [Felipe Rodrigues](https://github.com/felipeJRdev) |   11/11/2024   |[Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  11/11/2024  |
 |1.1|Complemento nas ferramentas|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|12/11/2024|[João Vitor](https://github.com/Jauzimm)| 12/11/2024 |
-|  1.2   | Ordenação da tabela de ferramentas | [Jessica Eveline](https://github.com/xzxjesse) | 23/11/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | |
+|  1.2   | Ordenação da tabela de ferramentas | [Jessica Eveline](https://github.com/xzxjesse) | 23/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 |
 
