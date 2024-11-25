@@ -36,17 +36,23 @@ Utilizando as heurísticas de Nielsen, foram identificados os seguintes problema
 7. **Ajuda e documentação:**  O site possui uma documentação e um FAQ que cobre algumas dúvidas comuns, mas não abrange todas. Por exemplo, informações sobre erros como "time limit exceeded" não estão detalhadas, deixando usuários sem suporte para questões mais técnicas.
 
 
-Fonte: [João Vitor](https://github.com/Jauzimm).
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
 ## Bibliografia
-- BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da
+
+BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da
  avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier
  Editora, 2010.
-- [MOJ Naquadah](https://moj.naquadah.com.br/cgi-bin/index.sh). Acesso em: 10/11/2024.
-- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales. Acesso em: 10/11/2024.
+
+MOJ NAQUADAH. Disponível em: https://moj.naquadah.com.br/cgi-bin/index.sh. Acesso em: 10 nov. 2024.
+
+SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 10 nov. 2024.
 
 ## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Versão inicial do site escolhido do projeto | [João Vitor](https://github.com/Jauzimm) | 10/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  10/11/2024   |
+|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |

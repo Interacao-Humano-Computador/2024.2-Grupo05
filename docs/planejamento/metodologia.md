@@ -58,15 +58,22 @@ Os tipos de commit utilizados no projeto são:
 
 **Exemplo:** git commit -m "docs: Revisão da metodologia."
 
+## Referências Bibliográficas
+
+CONVENTIONAL COMMITS 1.0.0. Disponível em: https://www.conventionalcommits.org/en/v1.0.0/. Acesso em: 12 nov. 2024.
+
 ## Bibliografia
 
-- BOURQUE, Pierre; FAIRLEY, Richard E. (eds.). SWEBOK: Guide to the Software Engineering Body of Knowledge, IEEE, 2014. Disponível em: [link](https://www.computer.org/education/bodies-of-knowledge/software-engineering).
-- Conventional Commits 1.0.0. Disponível em: [link](https://www.conventionalcommits.org/en/v1.0.0/).
+BOURQUE, Pierre; FAIRLEY, Richard E. (ed.). SWEBOK: Guide to the Software Engineering Body of Knowledge. IEEE, 2014. Disponível em: https://www.computer.org/education/bodies-of-knowledge/software-engineering.
 
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
-## Histórico de Versão
+## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
+
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | Criação do documento de metodologia e padrões de commit | [Jéssica Eveline](https://github.com/xzxjesse) | 12/11/2024 |[Marcelo Adrian](https://github.com/Marcelo-Adrian) | 12/11/2024 |
+|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |

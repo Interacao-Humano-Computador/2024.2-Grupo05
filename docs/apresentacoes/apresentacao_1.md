@@ -20,13 +20,15 @@ Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 
 ## Link para a apresentação
 
+<font size="3"><p style="text-align: left">**Vídeo 1** - Apresentação da entrega 1.</p></font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKWQ8WywFNY?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Link:** [Apresentação](https://www.youtube.com/watch?v=aKWQ8WywFNY&t=1s&ab_channel=MarceloAdrian)
 
 ## Aspectos avaliados
 
-**Tabela 1** - Aspectos avaliados na entrega 1 </p>
+<font size="3"><p style="text-align: left">**Tabela 1** - Aspectos avaliados na entrega 1.</p></font>
 
 |                                         | O github pages possui:                                                                                                                                                                             | Resposta | Versão, data e horário da avaliação |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------- |
@@ -49,7 +51,7 @@ Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 |                                         | 9 - Vídeo de apresentação na categoria “não listado” no youtube?                                                                                                                                   | Sim      | 1.0, 12/11/2024, 22:03              |
 | Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de Design? [Mayhew](../assets/Mayhew.png)                                                                                                                   | Sim      | 1.0, 12/11/2024, 22:47              |
 
-Fonte: [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 ## Vídeo de autoavaliação
 
@@ -65,9 +67,10 @@ Fonte: [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
 
 SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf.
 
-## Histórico de versões
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
 | Versão |         Descrição         |                      Autor(es)                      |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :-----------------------: | :-------------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   |    criação do arquivo     |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)  | 12/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   12/11/2024    |
 |  1.1   | Revisão da auto avaliação | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 24/11/2024   |
+|1.2|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024| [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | 24/11/2024  |
