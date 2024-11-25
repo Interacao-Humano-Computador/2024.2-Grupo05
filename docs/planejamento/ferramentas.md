@@ -17,20 +17,20 @@ Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a or
 
 | Logo                                                | Ferramenta               | Descrição                                                                                                         |
 | --------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"> | Figma                    | Ferramenta de design colaborativo, utilizada para prototipação e design de interfaces.                           |
 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> | Git/GitHub               | Plataforma de versionamento e colaboração em projetos de desenvolvimento.                                        |
 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> | GitPages                 | Serviço para hospedar sites diretamente de repositórios GitHub.                                                  |
-| <img src="https://img.icons8.com/color/48/000000/google-docs.png"  width="25"> | Google Docs              | Ferramenta para criação e edição colaborativa de documentos.                                                     |
+| <img src="https://img.icons8.com/color/48/000000/google-docs.png" width="25"> | Google Docs              | Ferramenta para criação e edição colaborativa de documentos.                                                     |
 | <img src="https://img.icons8.com/color/48/000000/google-meet.png" width="25"> | Google Meet              | Ferramenta para videoconferências e reuniões em tempo real.                                                      |
 | <img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="25"> | Google Spreadsheet       | Ferramenta para criação e edição colaborativa de planilhas.                                                      |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25"> | YouTube                  | Plataforma de hospedagem de vídeos produzidos, utilizada para publicação de reuniões e apresentações.            |
-| <img src="https://img.icons8.com/?size=100&id=onmbsAg4b85f&format=png&color=000000" width="25"> | OBS Studio               | Ferramenta para gravação de tela, utilizada para gravação de reuniões e apresentações.                           |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="25"> | WhatsApp                 | Aplicativo de mensagens instantâneas, utilizado para comunicação rápida e colaboração em equipe.                 |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="25"> | Telegram                 | Aplicativo de mensagens, utilizado para comunicação e compartilhamento de arquivos e feedback.                   |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"> | Figma                    | Ferramenta de design colaborativo, utilizada para prototipação e design de interfaces.                           |
-| <img src="https://community-assets.home-assistant.io/original/4X/9/9/0/9903bcfabeb5dd0cd40a67cedbbdb8a403248cac.png" width="60" > | MkDocs                   | Ferramenta para criação de documentação em sites estáticos.                                                      |
-| <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="25"> | Visual Studio Code       | Editor de código-fonte para desenvolvimento e edição de projetos.                                                |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg3o3wx2nTAXZ54B5pRslvNXrPkYg8DXSVg&s" width="25"> | Storyboard That          | Ferramenta para criação de storyboards, utilizada no planejamento visual de cenas e conceitos.                   |
+| <img src="https://community-assets.home-assistant.io/original/4X/9/9/0/9903bcfabeb5dd0cd40a67cedbbdb8a403248cac.png" width="60"> | MkDocs                   | Ferramenta para criação de documentação em sites estáticos.                                                      |
 | <img src="https://e7.pngegg.com/pngimages/441/29/png-clipart-miro-logo-landscape-tech-companies.png" width="50"> | Miro                     | Plataforma de quadro branco colaborativo, utilizada para brainstorming e organização de ideias.                  |
+| <img src="https://img.icons8.com/?size=100&id=onmbsAg4b85f&format=png&color=000000" width="25"> | OBS Studio               | Ferramenta para gravação de tela, utilizada para gravação de reuniões e apresentações.                           |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg3o3wx2nTAXZ54B5pRslvNXrPkYg8DXSVg&s" width="25"> | Storyboard That          | Ferramenta para criação de storyboards, utilizada no planejamento visual de cenas e conceitos.                   |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="25"> | Telegram                 | Aplicativo de mensagens, utilizado para comunicação e compartilhamento de arquivos e feedback.                   |
+| <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="25"> | Visual Studio Code       | Editor de código-fonte para desenvolvimento e edição de projetos.
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="25"> | WhatsApp                 | Aplicativo de mensagens instantâneas, utilizado para comunicação rápida e colaboração em equipe.                 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25"> | YouTube                  | Plataforma de hospedagem de vídeos produzidos, utilizada para publicação de reuniões e apresentações.            |
 
 
 Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
@@ -72,3 +72,5 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial| [Felipe Rodrigues](https://github.com/felipeJRdev) |   11/11/2024   |[Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  11/11/2024  |
 |1.1|Complemento nas ferramentas|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|12/11/2024|[João Vitor](https://github.com/Jauzimm)| 12/11/2024 |
+|  1.2   | Ordenação da tabela de ferramentas | [Jessica Eveline](https://github.com/xzxjesse) | 23/11/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | |
+
