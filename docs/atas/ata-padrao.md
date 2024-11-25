@@ -25,11 +25,11 @@ Autor:
 **Tabela 2:** Participantes e suas presenças.
 | Nome | Presente |
 |:----:|:--------:|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| [João Vitor](https://github.com/Jauzimm) ||
+| [Jéssica Eveline](https://github.com/xzxjesse) ||
+| [Felipe Rodrigues](https://github.com/felipeJRdev) ||
+| [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+| [Ruan Carvalho](https://github.com/Ruan-Carvalho) ||
 
 Autor: 
 
@@ -113,4 +113,4 @@ Autor:
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-| 1.0 | Versão inicial da ata padrão | [João Vitor](https://github.com/Jauzimm) | 24/11/2024 |  |  |
+| 1.0 | Versão inicial da ata padrão | [João Vitor](https://github.com/Jauzimm) | 24/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 |
