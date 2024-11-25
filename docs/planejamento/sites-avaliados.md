@@ -4,7 +4,7 @@
 
 Durante a disciplina de IHC foram realizadas algumas avaliações pelos integrantes do grupo, onde escolhemos apenas uma, o MOJ Naquadah, para a sua avaliação. A seguir está o site escolhido por cada integrante:
 
-**Tabela 1:** Tabela de sites avaliados por cada integrante.
+<font size="3"><p style="text-align: left">**Tabela 1** - Tabela de sites avaliados por cada integrante.</p></font>
 
 | Site Avaliado | Integrante |
 |:-------------:|:----------:|
@@ -14,7 +14,7 @@ Durante a disciplina de IHC foram realizadas algumas avaliações pelos integran
 | Lattes | Jessica |
 | UFPel | Marcelo |
 
-Fonte: [João Vitor](https://github.com/Jauzimm).
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
 ## Meu INSS
 
@@ -46,17 +46,28 @@ A avaliação desse site foi feita pelo integrante Marcelo Adrian. O portal da [
 
 [Link da avaliação](avaliacoes/avaliacao-UPel-metodo.pdf)
 
-## Bibliografia 
-- [Meu INSS](https://meu.inss.gov.br/). Acesso em: 10/11/2024.
-- [MOJ Naquadah](https://moj.naquadah.com.br/cgi-bin/index.sh). Acesso em: 10/11/2024.
-- [Portal da Transparência](https://portaldatransparencia.gov.br). Acesso em: 10/11/2024.
-- [Universidade Federal de Pelotas (UFPel)](https://portal.ufpel.edu.br/#). Acesso em: 10/11/2024.
-- [Lattes](https://lattes.cnpq.br). Acesso em: 10/11/2024.
-- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales. Acesso em: 10/11/2024.
+## Referências Bibliográficas 
+
+MEU INSS. Disponível em: https://meu.inss.gov.br/. Acesso em: 10 nov. 2024.
+
+MOJ NAQUADAH. Disponível em: https://moj.naquadah.com.br/cgi-bin/index.sh. Acesso em: 10 nov. 2024.
+
+PORTAL DA TRANSPARÊNCIA. Disponível em: https://portaldatransparencia.gov.br. Acesso em: 10 nov. 2024.
+
+UNIVERSIDADE FEDERAL DE PELOTAS (UFPel). Disponível em: https://portal.ufpel.edu.br/#. Acesso em: 10 nov. 2024.
+
+LATTES. Disponível em: https://lattes.cnpq.br. Acesso em: 10 nov. 2024.
+
+## Bibliografia
+
+SILVA, André Barros de. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 10 nov. 2024.
 
 
 ## Histórico de Versões
 
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
+
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Versão inicial dos sites avaliados no projeto | [João Vitor](https://github.com/Jauzimm) | 10/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   10/11/2024  |
+|1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |

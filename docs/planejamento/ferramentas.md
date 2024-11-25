@@ -12,8 +12,7 @@ O grupo realizou um levantamento acerca das ferramentas que podem auxiliar o des
 ## Ferramentas utilizadas
 Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a criação e a análise dos artefatos necessários.
 
-<center>
-<font size="2"><p style="text-align: center">Tabela 1: Ferramentas utilizadas no projeto.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 1**: Ferramentas utilizadas no projeto.</p></font>
 
 | Logo                                                | Ferramenta               | Descrição                                                                                                         |
 | --------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -33,11 +32,11 @@ Ao longo deste projeto, utilizamos um conjunto de ferramentas para otimizar a or
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25"> | YouTube                  | Plataforma de hospedagem de vídeos produzidos, utilizada para publicação de reuniões e apresentações.            |
 
 
-Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 </center>
 
-## Bibliografia
+## Referências
 
 > <a id="FRM1" href="#anchor_1">1.</a> GitHub e GitPages. Disponível em: [https://github.com](). Acesso em: 11 de nov. de 2024.
 >
@@ -66,11 +65,15 @@ Fonte: [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https
 > <a id="FRM14" href="#anchor_14">13.</a> Miro. Disponível em: [https://miro.com/pt/](). Acesso em: 11 de nov. de 2024.
 
 
+
 ## **Histórico de Versões**
+
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial| [Felipe Rodrigues](https://github.com/felipeJRdev) |   11/11/2024   |[Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  11/11/2024  |
 |1.1|Complemento nas ferramentas|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|12/11/2024|[João Vitor](https://github.com/Jauzimm)| 12/11/2024 |
 |  1.2   | Ordenação da tabela de ferramentas | [Jessica Eveline](https://github.com/xzxjesse) | 23/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 |
+|1.3|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024  |
 

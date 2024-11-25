@@ -1,5 +1,7 @@
 # MOJ NAQUADAH
 
+<font size="3"><p style="text-align: left">**Figura 1** - Logo do CD-MOJ Naquadah.</p></font>
+
 <div align="center">
     <img src="https://moj.naquadah.com.br/images/logo_moj.png" width="200px">
 </div>
@@ -16,11 +18,15 @@ Link: [https://moj.naquadah.com.br/cgi-bin/index.sh](https://moj.naquadah.com.br
 
 ## Colaboradores
 
+<font size="3"><p style="text-align: left">**Tabela 1** - Colaboradores.</p></font>
+
 | <img src="https://github.com/Jauzimm.png" width="150px" > | <img src="https://github.com/xzxjesse.png" width="150px"> | <img src="https://github.com/felipeJRdev.png" width="150px"> | <img src="https://github.com/Marcelo-Adrian.png" width="150px"> | <img src="https://github.com/Ruan-Carvalho.png" width="150px"> |
 | :-------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------------: |
 |      [João Vitor Santos](https://github.com/Jauzimm)      |       [Jesse Eveline](https://github.com/xzxjesse)        |      [Felipe Rodrigues](https://github.com/felipeJRdev)      |       [Marcelo Adrian](https://github.com/Marcelo-Adrian)       |       [Ruan Carvalho](https://github.com/Ruan-Carvalho)        |
 
 ## Histórico de Versões
+
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
