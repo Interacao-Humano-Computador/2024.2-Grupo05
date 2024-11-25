@@ -39,17 +39,17 @@ Fonte: [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](http
 
 **Figura 1** - Gráfico das respostas avaliadas na entrega 1 </p>
 
-![Respostas](../assets/AV1_Respostas.png)
+![Respostas](../assets/AV_G6_Grafico.png)
 
 Fonte: [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024
 
 ## Bibliografia
 
-- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf.
 
 ## Histórico de versões
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | :----: | :-------: | :-------: | :--: | :-------------------------------: | :-------------: |
 |  1.0   | Realização da avaliação | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 13/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   13/11/2024   |
-|  1.1   | Reavaliação após feedback | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 |  |   /11/2024   |
+|  1.1   | Reavaliação após feedback | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) |   24/11/2024   |
