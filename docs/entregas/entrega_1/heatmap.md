@@ -16,7 +16,7 @@ O processo de realização do heatmap teve seu início com a coleta de dados de 
 
 <font size="3"><p style="text-align: left">**Figura 1** - Heatmap de disponibilidade dos integrantes.</p></font>
 
-![Heatmap](../assets/heatmap.png)
+![Heatmap](../../assets/heatmap.png)
 
 **Link para o Heatmap:** [Clique aqui para acessar o Heatmap](https://docs.google.com/spreadsheets/d/1Hohu5z3OCw5robYpv5zjdTzFoDD7g_l-0YoJCJjk4vc/edit?usp=sharing)
 
