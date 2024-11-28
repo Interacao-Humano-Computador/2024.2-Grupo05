@@ -49,7 +49,7 @@ Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 |                                         | 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo,atividades definidas etc).                                                                              | Sim      | 1.0, 12/11/2024, 22:03              |
 |                                         | 8 – A gravação da reunião do grupo.                                                                                                                                                                | Sim      | 1.0, 12/11/2024, 22:32              |
 |                                         | 9 - Vídeo de apresentação na categoria “não listado” no youtube?                                                                                                                                   | Sim      | 1.0, 12/11/2024, 22:03              |
-| Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de Design? [Mayhew](../assets/Mayhew.png)                                                                                                                   | Sim      | 1.0, 12/11/2024, 22:47              |
+| Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de Design? [Mayhew](../../assets/Mayhew.png)                                                                                                                   | Sim      | 1.0, 12/11/2024, 22:47              |
 
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
@@ -61,7 +61,7 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 **Figura 1** - Gráfico das respostas avaliadas na entrega 1 </p>
 
-![Respostas](../assets/AutoAV_Grafico.png)
+![Respostas](../../assets/AutoAV_Grafico.png)
 
 ## Bibliografia
 
@@ -71,8 +71,8 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 
 <font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
-| Versão |         Descrição         |                      Autor(es)                      |    Data    |                     Revisor(es)                     | Data de revisão |
-| :----: | :-----------------------: | :-------------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   |    criação do arquivo     |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)  | 12/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   12/11/2024    |
-|  1.1   | Revisão da auto avaliação | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 24/11/2024   |
-|1.2|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024| [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | 24/11/2024  |
+| Versão |                              Descrição                               |                      Autor(es)                      |    Data    |                     Revisor(es)                     | Data de revisão |
+| :----: | :------------------------------------------------------------------: | :-------------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
+|  1.0   |                          criação do arquivo                          |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)  | 12/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   12/11/2024    |
+|  1.1   |                      Revisão da auto avaliação                       | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev)  |   24/11/2024    |
+|  1.2   | Padronização de Referências Bibliográficas, Bibliografia e Autor(es) | [Felipe Rodrigues](https://github.com/felipeJRdev)  | 23/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   24/11/2024    |

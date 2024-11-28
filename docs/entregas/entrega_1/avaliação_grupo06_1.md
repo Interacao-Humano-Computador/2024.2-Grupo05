@@ -38,7 +38,7 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](
 
 **Figura 1** - Gráfico das respostas avaliadas na entrega 1 </p>
 
-![Respostas](../assets/AV_G6_Grafico.png)
+![Respostas](../../assets/AV_G6_Grafico.png)
 
 Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024
 

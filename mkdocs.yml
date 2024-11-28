@@ -10,24 +10,23 @@ repo_url: "https://github.com/Interacao-Humano-Computador/2024.2-Grupo05"
 nav:
   - Introdução: README.md
   - Atas:
-      - Padrão de atas: atas/ata-padrao.md
+      - Ata padrão: atas/ata-padrao.md
       - Ata 1: atas/ataN1_07_11_2024.md
-  - Planejamento:
-      - Cronograma Planejado: planejamento/cronograma.md
-      - Cronograma Executado: planejamento/cronograma_executado.md
-      - Design: planejamento/design.md
-      - Ferramentas: planejamento/ferramentas.md
-      - Heatmap: planejamento/heatmap.md
-      - Metodologia: planejamento/metodologia.md
-      - Site escolhido: planejamento/site-escolhido.md
-      - Sites avaliados: planejamento/sites-avaliados.md
   - Entregas:
-      - Entrega 1: entregas/entrega_1.md
-  - Verificação:
-      - Entrega 1:
-        - Lista de Verificação: apresentacoes/apresentacao_1.md
-        - Lista de verificação Grupo+1: apresentacoes/avaliação-grupo06.md
-
+      - Planejamento:
+          - Cronograma Planejado: entregas/entrega_1/cronograma.md
+          - Cronograma Executado: entregas/entrega_1/cronograma_executado.md
+          - Design: entregas/entrega_1/design.md
+          - Ferramentas: entregas/entrega_1/ferramentas.md
+          - Heatmap: entregas/entrega_1/heatmap.md
+          - Metodologia: entregas/entrega_1/metodologia.md
+          - Site escolhido: entregas/entrega_1/site_escolhido.md
+          - Sites avaliados: entregas/entrega_1/sites_avaliados.md
+          - Entrega: entregas/entrega_1/entrega_1.md
+          - Autoavaliação: entregas/entrega_1/autoavaliação_1.md
+          - Avaliação Grupo 6: entregas/entrega_1/avaliação_grupo06_1.md
+      - Análise de requisitos:
+          - Perfil dos usuarios: entregas/entrega_2/perfil.md
 
 # Tema do MkDocs
 theme:
