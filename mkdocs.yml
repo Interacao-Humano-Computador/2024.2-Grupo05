@@ -8,7 +8,7 @@ repo_url: "https://github.com/Interacao-Humano-Computador/2024.2-Grupo05"
 
 # Configura a navegação do site
 nav:
-  - Introdução: README.md
+  - Introdução: sobre.md
   - Atas:
       - Ata padrão: atas/ata-padrao.md
       - Ata 1: atas/ataN1_07_11_2024.md
@@ -23,10 +23,11 @@ nav:
           - Site escolhido: entregas/entrega_1/site_escolhido.md
           - Sites avaliados: entregas/entrega_1/sites_avaliados.md
           - Entrega: entregas/entrega_1/entrega_1.md
-          - Autoavaliação: entregas/entrega_1/autoavaliação_1.md
-          - Avaliação Grupo 6: entregas/entrega_1/avaliação_grupo06_1.md
       - Análise de requisitos:
           - Perfil dos usuarios: entregas/entrega_2/perfil.md
+      - Avaliações:
+          - Autoavaliação: entregas/avaliações/autoavaliação_1.md
+          - Avaliação Grupo 6: entregas/avaliações/avaliação_grupo06_1.md
 
 # Tema do MkDocs
 theme:
