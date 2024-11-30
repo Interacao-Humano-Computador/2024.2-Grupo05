@@ -1,4 +1,4 @@
-# Aspectos Éticos de Pesquisas com Pessoas
+# Aspectos Éticos de Pesquisas com Pessoas e termo de consentimento
 
 ## Introdução
 
@@ -68,7 +68,9 @@ Ao assinar este documento, você declara que:
 
 - Leu e compreendeu as informações fornecidas sobre esta pesquisa;
 - Está ciente de seus direitos como participante;
-- Concorda livre e espontaneamente em colaborar.  
+- Concorda livre e espontaneamente em colaborar.
+- Autoriza o uso de sua imagem e voz para análises relacionadas ao projeto, caso necessário; 
+- Entende que quaisquer gravações de imagem e voz serão utilizadas exclusivamente para fins acadêmicos e serão armazenadas de forma segura, sendo descartadas após 6 meses. 
 
 **Declarações de Consentimento:**
 
