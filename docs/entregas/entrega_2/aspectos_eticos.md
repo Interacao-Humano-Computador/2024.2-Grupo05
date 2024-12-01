@@ -88,6 +88,8 @@ Caso tenha dúvidas ou deseje mais informações sobre esta pesquisa, entre em c
 **E-mail:** _________________________________  
 **Telefone:** _________________________________  
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
+
 ## Referências Bibliográficas
 
 - BRASIL. **Resolução nº 466/2012, de 12 de dezembro de 2012.** Disponível em: [Conselho Nacional de Saúde](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf). Acesso em: 10 de out. de 2023.  
