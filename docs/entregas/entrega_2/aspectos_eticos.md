@@ -12,7 +12,7 @@ No Brasil, a [Resolução nº 466/2012 do Conselho Nacional de Saúde](https://w
    Garante o consentimento voluntário e informado dos participantes, especialmente protegendo grupos vulneráveis e pessoas legalmente incapazes. O respeito à dignidade humana deve nortear toda interação entre pesquisadores e participantes.
 
 2. **Princípio da beneficência:**  
-   Determina que a pesquisa deve maximizar benefícios e minimizar danos. A avaliação dos riscos deve ser criteriosa e envolver aspectos físicos, psicológicos, sociais, culturais e espirituais.
+   Determina que a pesquisa deve maximizar benefícios e minimizar danos. A avaliação dos riscos deve ser criteriosa e envolver aspectos físicos, psicológicos, sociais, culturais e religiosos.
 
 3. **Princípio da não maleficência:**  
    Envolve o compromisso de evitar qualquer dano previsível, seja imediato ou tardio, decorrente da pesquisa.
@@ -22,7 +22,7 @@ No Brasil, a [Resolução nº 466/2012 do Conselho Nacional de Saúde](https://w
 
 ### **Objetivo**
 
-O objetivo deste documento é orientar a condução da pesquisa que envolverá seres humanos, garantindo que seja realizada de maneira ética, respeitando os direitos, a dignidade, a privacidade e o bem-estar dos participantes. Ele busca assegurar que as atividades sejam conduzidas em conformidade com as normas éticas e regulatórias, como a **Resolução nº 466/2012 do Conselho Nacional de Saúde**, promovendo práticas que minimizem riscos, previnam danos e maximizem benefícios para os indivíduos e a sociedade.  
+O objetivo deste documento é orientar a condução da pesquisa envolvendo seres humanos, garantindo que seja realizada de maneira ética, respeitando os direitos, a dignidade, a privacidade e o bem-estar dos participantes. Ele busca assegurar que as atividades sejam conduzidas em conformidade com as normas éticas e regulatórias, como a **Resolução nº 466/2012 do Conselho Nacional de Saúde**, promovendo práticas que minimizem riscos, previnam danos e maximizem benefícios para os indivíduos e a sociedade.  
 
 ### **Metodologia**
 
@@ -54,12 +54,12 @@ O **Termo de Consentimento Livre e Esclarecido (TCLE)** é um instrumento essenc
 **Título:** Avaliação da Interação Humano-Computador da Plataforma CD-MOJ NAQUADAH.
 **Projeto:** Grupo 5 - Interação Humano-Computador  
 
-**Descrição do Estudo:** Estamos realizando uma pesquisa que analisa os aspectos de **Interação Humano-Computador** da plataforma **CD-MOJ NAQUADAH**, com o objetivo de avaliar e propor melhorias no sistema. Solicitamos sua colaboração na realização de uma atividade relacionada ao estudo, com duração estimada de **[tempo estimado]**.  
+**Descrição do Estudo:** Estamos realizando uma pesquisa acerca dos aspectos de **Interação Humano-Computador** da plataforma **CD-MOJ NAQUADAH**, visando avaliar e propor melhorias no sistema. Solicitamos sua colaboração na realização de uma atividade relacionada ao estudo, com duração estimada de **[tempo estimado]**.  
 
 #### **Informações Relevantes:**  
 1. **Participação voluntária:** Sua participação é **inteiramente voluntária**, e você poderá interrompê-la a qualquer momento sem necessidade de justificativa ou prejuízo de qualquer natureza.  
 2. **Confidencialidade:** As informações coletadas serão tratadas de forma **confidencial** e utilizadas exclusivamente para fins acadêmicos ou técnicos. Seus dados pessoais e respostas serão protegidos e não serão associados à sua identidade em nenhuma publicação.  
-3. **Direito à informação:** Caso deseje, você poderá solicitar informações sobre os resultados da pesquisa ou a finalidade específica dos dados coletados.  
+3. **Direito à informação:** Caso deseje você poderá solicitar informações sobre os resultados da pesquisa ou a finalidade específica dos dados coletados.  
 4. **Gravações:** Caso sejam realizadas gravações, estas serão utilizadas apenas para análise interna da pesquisa e serão armazenadas em local seguro por até 6 meses, sendo descartadas após este período. 
 5. **Riscos e Benefícios:** Esta pesquisa apresenta **riscos mínimos**, pois não envolve informações pessoais sensíveis e garante o anonimato dos dados coletados. Como benefício, sua contribuição auxiliará no aprimoramento do site CD-MOJ, amplamente utilizado por alunos e professores.
 
@@ -97,4 +97,4 @@ Caso tenha dúvidas ou deseje mais informações sobre esta pesquisa, entre em c
 ## Histórico de Versão
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | Criação do documento | [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | |  |
+| 1.0 | Criação do documento | [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 01/12/2024 |
