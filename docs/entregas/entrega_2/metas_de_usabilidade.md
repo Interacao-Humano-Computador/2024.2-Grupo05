@@ -2,11 +2,26 @@
 
 ## Introdução
 
-Este artefato define as metas de usabilidade para o site **MOJ Naquadah**, com o objetivo de priorizar fatores que melhoram a qualidade de uso, proporcionando uma experiência mais intuitiva e satisfatória para alunos e professores da UnB. A abordagem segue as metas de usabilidade de Jakob Nielsen, visando eficiência, segurança, aprendizado, memorização e outros aspectos fundamentais. Além disso, estabelece critérios de avaliação e valores aceitáveis para o sucesso do projeto.
+Este artefato define as metas de usabilidade do site **MOJ Naquadah**, com foco em priorizar fatores que melhorem a qualidade de uso, proporcionando uma experiência mais intuitiva e satisfatória para alunos(as) e professores(as) da UnB.
 
-### **Definição das Metas de Usabilidade**
+A abordagem segue as metas de usabilidade de Jakob Nielsen, visando eficiência, segurança, aprendizado, memorização e outros aspectos fundamentais. Além disso, são estabelecidos critérios de avaliação e valores aceitáveis para o sucesso do projeto.
 
-Para identificar problemas e definir objetivos de melhoria no MOJ Naquadah, as metas de usabilidade foram desenvolvidas com base nos problemas observados e organizadas em perguntas e respostas que direcionam a aplicação prática das metas.  
+## Objetivo
+
+O objetivo deste documento é identificar os principais problemas de usabilidade do MOJ Naquadah e propor soluções práticas que promovam uma experiência mais eficiente e agradável para seus usuários(as). As metas de usabilidade almejam orientar melhorias que atendam às necessidades dos alunos(as) e professores(as), priorizando clareza, consistência e suporte ao usuário(a).
+
+## Metodologia
+
+A metodologia utilizada para definir as metas de usabilidade baseia-se nos seguintes passos:
+
+1. **Análise do sistema atual**: Foram observados problemas de usabilidade diretamente no MOJ Naquadah, considerando a perspectiva de alunos(as) e professores(as).  
+2. **Definição de metas de usabilidade**: As metas foram estabelecidas com base nos princípios de usabilidade de Jakob Nielsen e em heurísticas de design para garantir eficiência e clareza.  
+3. **Organização em perguntas e respostas**: Cada meta foi estruturada como uma pergunta seguida de uma resposta prática que oriente a implementação das melhorias propostas.  
+4. **Critérios de avaliação**: Estabelecemos critérios e valores aceitáveis para medir o sucesso de cada meta de usabilidade.
+
+## **Definição das Metas de Usabilidade**
+
+As metas de usabilidade foram desenvolvidas com base nos problemas observados no MOJ Naquadah, sendo organizadas em perguntas e respostas que direcionam sua aplicação prática.
 
 #### **1. Correspondência entre o sistema e o mundo real**  
 - **Pergunta:** O formato de exibição das datas é claro e intuitivo para os usuários?  
@@ -26,7 +41,7 @@ Para identificar problemas e definir objetivos de melhoria no MOJ Naquadah, as m
 
 #### **5. Prevenção de erros**  
 - **Pergunta:** O sistema previne a perda de arquivos ou dados importantes?  
-  **Meta Aplicada:** Implementar alertas que informem o usuário sobre a perda de envios ao trocar de questão. Adicionar um aviso claro ao usuário antes de confirmar a mudança de página sem salvar ou enviar os arquivos.  
+  **Meta Aplicada:** Implementar alertas que avisem o usuário sobre a possível perda de envios ao trocar de questão. Adicionar um aviso claro ao usuário antes de confirmar a mudança de página sem salvar ou enviar os arquivos.  
 
 #### **6. Mensagens de erro claras**  
 - **Pergunta:** As mensagens de erro são compreensíveis e ajudam na resolução de problemas?  
@@ -34,11 +49,11 @@ Para identificar problemas e definir objetivos de melhoria no MOJ Naquadah, as m
 
 #### **7. Ajuda e documentação**  
 - **Pergunta:** A documentação cobre as principais dúvidas e cenários de uso?  
-  **Meta Aplicada:** Expandir a documentação e o FAQ para incluir mais exemplos de problemas técnicos, como "time limit exceeded," e instruções detalhadas para resolvê-los. Garantir que os conteúdos sejam acessíveis e compreensíveis para todos os níveis de usuários.  
+  **Meta Aplicada:** Expandir a documentação e o FAQ para incluir mais exemplos de problemas técnicos, como "*time limit exceeded*", e instruções detalhadas para resolvê-los. Garantir que os conteúdos sejam acessíveis e compreensíveis para todos os níveis de usuários(as).  
 
 ### **Metas Almejadas para o Projeto**
 
-As metas a seguir foram definidas com o objetivo de solucionar os problemas de usabilidade identificados no MOJ Naquadah. Elas priorizam aspectos essenciais para melhorar a clareza, eficiência e suporte ao usuário, garantindo uma experiência digital mais intuitiva e acessível. As metas críticas incluem:
+As metas a seguir foram definidas com o objetivo de solucionar os problemas de usabilidade identificados no MOJ Naquadah. Elas priorizam aspectos essenciais para melhorar a clareza, eficiência e suporte ao usuário(a), garantindo uma experiência digital mais intuitiva e acessível. As metas críticas incluem:
 
 1. **Melhorar a correspondência entre o sistema e o mundo real**  
 2. **Garantir consistência e padronização**  
@@ -50,25 +65,22 @@ As metas a seguir foram definidas com o objetivo de solucionar os problemas de u
 
 ### **Conclusão**
 
-A definição das metas de usabilidade para o MOJ Naquadah é baseada em um plano claro e prioritário, direcionado à solução de problemas críticos enfrentados pelos usuários. A aplicação estratégica dessas melhorias busca não apenas atender às expectativas dos usuários, mas também elevar o padrão de experiência digital da plataforma, alinhando-se às melhores práticas de usabilidade e design. Esse compromisso reflete a visão de oferecer um sistema eficiente, intuitivo e acessível ao público alvo.
+A definição das metas de usabilidade para o MOJ Naquadah é baseada em um plano claro e prioritário, direcionado à solução de problemas críticos enfrentados pelos usuários(as). A aplicação estratégica dessas melhorias busca não apenas atender às expectativas dos usuários(as), mas também elevar o padrão de experiência digital da plataforma, alinhando-se às melhores práticas de usabilidade e design.
+
+Esse compromisso reflete a visão de oferecer um sistema eficiente, intuitivo e acessível ao público-alvo.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse) e [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
 ### **Bibliografia**
 
-Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: [https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a](https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a). Acesso em: 09/05/2023.  
-
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Elsevier Editora, 2021.  
-
-NIELSEN, Jacob. *Designing Web Usability: The Practice of Simplicity*. Peachpit Press, 1ª edição, 1999.  
-
-BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da Avaliação de IHC. In: *Interação Humano-Computador*. Rio de Janeiro: Elsevier Editora, 2010.  
-
-SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. *Interação Humano Computador*, 2° semestre de 2024. Disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).  
-
-MOJ NAQUADAH. Disponível em: [https://moj.naquadah.com.br/cgi-bin/index.sh](https://moj.naquadah.com.br/cgi-bin/index.sh). Acesso em: 30 nov. 2024.  
-
-Interação Humano-Computador. Metas de Usabilidade. Disponível em: [https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/metas_usabilidade.md](https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/metas_usabilidade.md). Acesso em: 30 nov. 2024.  
+1. Fournier, D. (2016). *As 6 metas de usabilidade*. Medium. Disponível em: [https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a](https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a). Acesso em: 09/05/2023.  
+2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Elsevier Editora, 2021.  
+3. Nielsen, J. *Designing Web Usability: The Practice of Simplicity*. Peachpit Press, 1ª edição, 1999.  
+4. Barbosa, S. D. J.; da Silva, B. S. Planejamento da Avaliação de IHC. In: *Interação Humano-Computador*. Rio de Janeiro: Elsevier Editora, 2010.  
+5. Silva, A. B. Plano de Ensino - FIHC 022024 Turma 01 v1. *Interação Humano-Computador*, 2° semestre de 2024. Disponível em: [link].  
+6. MOJ Naquadah. Disponível em: [https://moj.naquadah.com.br/cgi-bin/index.sh](https://moj.naquadah.com.br/cgi-bin/index.sh). Acesso em: 30/11/2024.  
+7. Interação Humano-Computador. Metas de Usabilidade. Disponível em: [GitHub](https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/metas_usabilidade.md). Acesso em: 30/11/2024.
+ 
 
 ## Histórico de Versões
 
