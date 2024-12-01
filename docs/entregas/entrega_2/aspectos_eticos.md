@@ -97,4 +97,4 @@ Caso tenha dúvidas ou deseje mais informações sobre esta pesquisa, entre em c
 ## Histórico de Versão
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | Criação do documento | [Jéssica Eveline](https://github.com/xzxjesse) | 24/11/2024 |[Marcelo Adrian](https://github.com/Marcelo-Adrian) | 30/11/2024 |
+| 1.0 | Criação do documento | [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | |  |
