@@ -24,7 +24,7 @@ A metodologia utilizada para definir as metas de usabilidade baseia-se nos segui
 As metas de usabilidade foram desenvolvidas com base nos problemas observados no MOJ Naquadah, sendo organizadas em perguntas e respostas que direcionam sua aplicação prática.
 
 #### **1. Correspondência entre o sistema e o mundo real**  
-- **Pergunta:** O formato de exibição das datas é claro e intuitivo para os usuários?  
+- **Pergunta:** O formato de exibição das datas é claro, facilitando o entendimento dos usuários?  
   **Meta Aplicada:** Alterar o formato de datas para o padrão mais comum, como *DD/MM/AAAA HH:MM*, e evitar informações desnecessárias ou fora de ordem lógica para o usuário.  
 
 #### **2. Consistência e padronização**  
@@ -32,7 +32,7 @@ As metas de usabilidade foram desenvolvidas com base nos problemas observados no
   **Meta Aplicada:** Garantir que ao clicar no topo da página, o usuário seja redirecionado ao início do site ou à página principal, mantendo a consistência de navegação. Redirecionamentos externos devem ser claramente indicados com alertas ou ícones.  
 
 #### **3. Flexibilidade e eficiência de uso**  
-- **Pergunta:** Os botões de acesso rápido são intuitivos e eficientes?  
+- **Pergunta:** Os botões de acesso rápido são de simples compreensão e eficientes?  
   **Meta Aplicada:** Redesenhar os botões laterais para torná-los mais intuitivos, adicionando textos explicativos ou ícones padronizados. Incluir uma funcionalidade clara para voltar ao menu principal ou à tela anterior.  
 
 #### **4. Projeto estético e minimalista**  
@@ -44,14 +44,14 @@ As metas de usabilidade foram desenvolvidas com base nos problemas observados no
   **Meta Aplicada:** Implementar alertas que avisem o usuário sobre a possível perda de envios ao trocar de questão. Adicionar um aviso claro ao usuário antes de confirmar a mudança de página sem salvar ou enviar os arquivos.  
 
 #### **6. Mensagens de erro claras**  
-- **Pergunta:** As mensagens de erro são compreensíveis e ajudam na resolução de problemas?  
+- **Pergunta:** As mensagens de erro são compreensíveis, auxiliando na resolução de problemas?  
   **Meta Aplicada:** Revisar mensagens de erro, como as do login, para que sejam específicas e informem o problema exato, como "Nome de usuário ou senha incorretos". Isso auxilia o usuário a corrigir ambas as informações.  
 
 #### **7. Ajuda e documentação**  
-- **Pergunta:** A documentação cobre as principais dúvidas e cenários de uso?  
+- **Pergunta:** A documentação aborda as principais dúvidas e cenários de uso?  
   **Meta Aplicada:** Expandir a documentação e o FAQ para incluir mais exemplos de problemas técnicos, como "*time limit exceeded*", e instruções detalhadas para resolvê-los. Garantir que os conteúdos sejam acessíveis e compreensíveis para todos os níveis de usuários(as).  
 
-### **Metas Almejadas para o Projeto**
+### **Metas do Projeto**
 
 As metas a seguir foram definidas com o objetivo de solucionar os problemas de usabilidade identificados no MOJ Naquadah. Elas priorizam aspectos essenciais para melhorar a clareza, eficiência e suporte ao usuário(a), garantindo uma experiência digital mais intuitiva e acessível. As metas críticas incluem:
 
@@ -88,4 +88,4 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse) e [Marcelo Adrian](ht
 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1.0|Criação das Metas de Usabilidade|[Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|01/12/2024|
+|1.0|Criação das Metas de Usabilidade|[Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|01/12/2024| [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 02/12/2024 |
