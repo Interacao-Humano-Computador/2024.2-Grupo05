@@ -132,8 +132,8 @@ BILHETERIA DIGITAL. Interação Humano Computador. Distrito Federal, 2023. Dispo
 
 ## Histórico de Versões
 
-<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Documentação dos Princípios Gerais do Projeto. | [Felipe Rodrigues](https://github.com/felipeJRdev) | 01/12/2024 |  |     |
+|  1.0   | Documentação dos Princípios Gerais do Projeto. | [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm) | 01/12/2024 |  |     |
