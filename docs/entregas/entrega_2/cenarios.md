@@ -5,6 +5,17 @@
 # Metodologia
 
 # Cénarios
+
+### Cenário 1:
+#### Falta de feedback em tempo real durante a análise de submissões
+
+Carlos, um programador iniciante, está participando de uma competição no CD MOJ para testar suas habilidades e aprender com os desafios. Após submeter a solução para um problema, ele percebe que o sistema exibe apenas o status inicial "Not answered yet", sem indicar qualquer progresso no processamento do código.
+
+Ansioso para saber se sua solução foi aceita, Carlos espera alguns minutos e percebe que o status não muda automaticamente. Ele tenta recarregar a página manualmente e, apenas após essa ação, o sistema exibe o resultado final com um dos status disponíveis, como "Accepted" (AC) ou "Wrong Answer" (WA). Durante o tempo de espera, ele não tem qualquer indicação de quantos casos de teste sua solução passou ou de que o código está sendo analisado.
+
+A ausência de feedback em tempo real faz com que Carlos fique confuso e desmotivado, questionando se o sistema está processando sua submissão ou se houve algum problema. Essa experiência negativa impacta sua confiança no sistema e reduz seu interesse em participar de futuras competições.
+
+
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
