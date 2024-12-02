@@ -1,6 +1,8 @@
+# Princípios gerais
+
 ## Introdução  
 
-O design de sistemas interativos deve assegurar que as interfaces atendam às necessidades e expectativas dos usuários, promovendo uma interação eficiente, intuitiva e agradável. Seguir princípios gerais de design em IHC, como visibilidade, antecipação, simplicidade e consistência, não só melhora a experiência do usuário, mas também contribui para a aceitação e eficácia do sistema. Este trabalho identifica violações desses princípios em um sistema de estudo de casos, propondo melhorias que podem ser aplicadas para alinhar o design às melhores práticas descritas no capítulo 8.2 do livro de Barbosa e Silva (2010)<a id="anchor_1" href="#REF1">^1^</a>.  
+O design de sistemas interativos deve assegurar que as interfaces atendam às necessidades e expectativas dos usuários, promovendo uma interação eficiente, intuitiva e agradável. Seguir princípios gerais de design em IHC, como visibilidade, antecipação, simplicidade e consistência, não só melhora a experiência do utilizador, mas também contribui para a aceitação e eficácia do sistema. Este trabalho identifica violações desses princípios em um sistema de estudo de casos, propondo melhorias que podem ser aplicadas para alinhar o design às melhores práticas descritas no capítulo 8.2 do livro de Barbosa e Silva (2010)<a id="anchor_1" href="#REF1">^1^</a>.  
 
 ## Metodologia  
 
@@ -11,10 +13,10 @@ Posteriormente, foram desenvolvidas propostas de melhoria com foco em resolver a
 ## Promoção da Eficiência do Usuário
 
 **Definição**  
-Promover a eficiência do usuário significa priorizar a economia de tempo e esforço do usuário, garantindo que ele possa continuar suas tarefas sem esperar por respostas do sistema. O sistema deve ser responsivo e evitar interromper ou dificultar o fluxo de trabalho do usuário.
+Promover a eficiência do usuário significa priorizar sua economia de tempo e esforço, garantindo que ele possa continuar suas tarefas sem esperar por respostas do sistema. O sistema deve ser responsivo e evitar interromper ou dificultar o fluxo de trabalho do quem o utiliza.
 
 **Violação**  
-Como mostra a Figura 1, ao enviar a resposta de um problema, o sistema exibe o status "Not answered yet" como resposta inicial, e o status só é atualizado para outra mensagem relevante após o usuário recarregar manualmente a página. Isso exige uma ação extra do usuário, quebrando o fluxo de interação e criando frustração, além de reduzir a eficiência.
+Como mostra a Figura 1, ao enviar a resposta de um problema, o sistema exibe o status "Not answered yet" como resposta inicial, e o status só é atualizado para outra mensagem relevante após o recarregar manualmente a página. Isso exige uma ação extra de quem faz uso da plataforma, quebrando o fluxo de interação e criando frustração, além de reduzir a eficiência.
 
 **Figura 1:** Imagem da violação: Eficiência do usuário.
 
@@ -28,7 +30,7 @@ Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh), 2024.
 
    - Mostrar uma mensagem clara enquanto o sistema processa a resposta, como "Processando sua resposta..." ou similar, até que o status final seja recebido.
 
-   - Garantir que o usuário nunca precise recarregar a página para obter o status atualizado. Isso melhora a eficiência e a satisfação do usuário.
+   - Garantir que não seja necessário recarregar a página para obter o status atualizado. Isso melhora a eficiência e a satisfação do usuário.
 
 ## Projeto para Erros
 
@@ -36,7 +38,7 @@ Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh), 2024.
 O princípio de projeto para erros visa prevenir que os usuários cometam erros, além de oferecer mecanismos para recuperação caso os erros ocorram. Isso inclui tornar os sistemas exploráveis, facilitar a reversão de operações e evitar ações irreversíveis.
 
 **Violação**  
-Assim como exemplifica o GIF 1, quando o usuário faz o upload de um arquivo e, em seguida, troca de questão sem enviar, o arquivo é perdido. O sistema não alerta o usuário sobre a possível perda de dados nem oferece uma maneira de recuperar o envio anterior. Isso aumenta a frustração e o risco de perda de progresso.
+Assim como exemplifica o GIF 1, quando o usuário faz o upload de um arquivo e, em seguida, troca de questão sem enviar, o arquivo é perdido. O sistema não alerta seus utilizadores sobre a possível perda de dados nem oferece uma maneira de recuperar o envio anterior. Isso aumenta a frustração e o risco de perda de progresso.
 
 **GIF 1:** GIF da violação: Projeto para Erros.
 
@@ -136,4 +138,4 @@ BILHETERIA DIGITAL. Interação Humano Computador. Distrito Federal, 2023. Dispo
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Documentação dos Princípios Gerais do Projeto. | [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm) | 01/12/2024 |  |     |
+|  1.0   | Documentação dos Princípios Gerais do Projeto. | [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm) | 01/12/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 01/12/2024 |
