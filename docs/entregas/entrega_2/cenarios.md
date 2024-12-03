@@ -1,8 +1,23 @@
 # Introdução
 
+Este documento faz parte do desenvolvimento de cenários no âmbito da disciplina de Interação Humano-Computador (IHC), com foco na análise de problemas de usabilidade enfrentados por usuários do CD-MOJ. O objetivo é explorar questões críticas de interação, propor melhorias e, assim, promover uma experiência mais intuitiva e acessível para diferentes perfis de usuários.
+
 # Objetivo
 
+O principal objetivo deste documento é identificar e documentar cenários de uso que evidenciem problemas de usabilidade na plataforma. Esses cenários foram elaborados para compreender como os usuários interagem com o sistema, identificar barreiras e propor soluções que aprimorem a experiência do usuário, alinhando-se aos princípios de design centrado no usuário.
+
 # Metodologia
+
+Para a criação dos cenários, foi utilizada uma abordagem baseada no framework DECIDE, que orienta a análise de usabilidade e coleta de dados para avaliar e propor melhorias em sistemas interativos. O processo seguiu as seguintes etapas:
+
+**1 - Identificação de problemas:**
+Foram analisados pontos de frustração e desafios enfrentados pelos usuários do CD-MOJ, como a ausência de feedback em tempo real, dificuldade na troca de senha e falta de mecanismos de busca para competições passadas.
+
+**2 - Coleta de dados:**
+A análise foi embasada em observações, relatos de usuários e estudos prévios sobre boas práticas de design para plataformas de juízes online.
+
+**3 - Criação dos cenários:**
+Cada cenário foi elaborado detalhando elementos como contexto, objetivos, atores, episódios, restrições e exceções. Essa estrutura permite visualizar as interações dos usuários com a plataforma e identificar lacunas de usabilidade.
 
 # Cénarios
 
