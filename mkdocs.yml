@@ -26,8 +26,9 @@ nav:
           - Entrega: entregas/entrega_1/entrega_1.md
       - Análise de requisitos 1:
           - Aspectos Éticos e termo de consentimento: entregas/entrega_2/aspectos_eticos.md
-          - Perfil dos usuarios: entregas/entrega_2/perfil_usuario.md   
-          - Características da plataforma: entregas/entrega_2/caracteristicas.md   
+          - Perfil dos usuarios: entregas/entrega_2/perfil.md   
+          - Características da plataforma: entregas/entrega_2/caracteristicas.md
+          - Guia de estilo: entregas/entrega_2/guia_de_estilo.md   
       - Análise de requisitos 2:
           - Princípios Gerais: entregas/entrega_3/principiosGerais.md
           - Metas de usabilidade: entregas/entrega_3/metas_de_usabilidade.md
