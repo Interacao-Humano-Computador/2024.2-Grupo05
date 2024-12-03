@@ -49,6 +49,8 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
+### Problema com o FAQ
+
 | *Elemento*   | *Descrição* |
 | -------------- | ------------- |
 | *Objetivo*   | Realizar e entregar as atividades da disciplina. |
