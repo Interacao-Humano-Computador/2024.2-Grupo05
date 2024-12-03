@@ -8,7 +8,7 @@ repo_url: "https://github.com/Interacao-Humano-Computador/2024.2-Grupo05"
 
 # Configura a navegação do site
 nav:
-  - Introdução: sobre.md
+  - Introdução: index.md
   - Atas:
       - Ata padrão: atas/ata-padrao.md
       - Ata 1: atas/ataN1_07_11_2024.md
