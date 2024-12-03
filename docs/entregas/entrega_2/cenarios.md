@@ -65,6 +65,18 @@ Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
 
 Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
+### Ausência de informações em submissões erradas
+
+| **Elemento**   | **Descrição** |
+|-----------------|---------------|
+| *Objetivo*    | Encontar casos de teste que gerem erros no algorítmo para análise |
+| *Contexto*    | - **Local:** Casa, laboratório ou outro local com acesso à internet. <br> - **Tempo:** Durante o prazo da lista de exercícios. <br> - **Pré-condições:** Ter acesso à internet, estar logado na plataforma, e ter submetido uma solução parcialmente correta. |
+| *Recursos*    | - Conexão à internet <br> - Dispositivo com navegador (computador ou smartphone) <br> - Plataforma CD MOJ aceitando submissões corretamente. |
+| *Ator*        | Estudante com problemas em sua solução. |
+| *Episódios*   | - O usuário acessa a plataforma CD MOJ. <br> - Ele envia sua solução da atividade. <br> - Recebe a mensagem "Wrong Answer 50p". <br> - Procura outros conjuntos de entradas e saídas diferente dos fornecidos no enunciado. <br> - Entra em contato com o Mojinho pelo Telegram. <br> - Recebe outros conjuntos de entradas e saídas utilizados para testar sua solução. <br> - Identifica os casos em que seu código apresenta defeitos e faz as correções |
+| *Restrições*  | - Falta de informações que orientem os estudantes a entregar suas soluções de forma correta. <br> - Uso de aplicativo externo para encontrar outros casos de testes. |
+| *Exceção*     | - Instabilidade nos servidores do CD-MOJ. <br> - O usuário entrega sua solução correta na primeira tentativa. <br> - Problemas com o mojinho ou Telegram. <br> - Falta de conexão à internet. |
+
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 
