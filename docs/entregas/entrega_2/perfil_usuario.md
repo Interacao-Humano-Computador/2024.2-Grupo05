@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O perfil de usuário é uma ferramenta essencial para compreender as características, necessidades e comportamentos dos indivíduos que utilizam ou irão utilizar um sistema ou aplicativo. Baseado em dados coletados diretamente dos usuários, esse perfil permite identificar padrões e preferências, facilitando o desenvolvimento de soluções mais eficazes e personalizadas.
+O perfil de usuário é uma ferramenta essencial para compreender as características, necessidades e comportamentos dos indivíduos que utilizam ou irão utilizar um sistema ou aplicativo. Baseada em dados coletados diretamente dos usuários, esse perfil permite identificar padrões e preferências, facilitando o desenvolvimento de soluções mais eficazes e personalizadas.
 
 ## Objetivo
 
@@ -20,9 +20,9 @@ Constatamos que o uso do CD-MOJ está fortemente concentrado nos estudos realiza
 
 >  _"O Contest Driven Meta Online Judge ou CD-MOJ é um online judge desenvolvido pelo Prof. Dr. Bruno César Ribas, inicialmente com o intuito de facilitar o treinamento das equipes para a Maratona de Programação da Universidade Tecnológica Federal do Paraná(UTFPR) — Campus Pato Branco e também tornar possível a resolução de problemas das plataformas do SPOJ-BR e URI online judge. Atualmente CD-MOJ atua como uma plataforma de apoio para disciplinas de programação na Universidade de Brasília(UnB) e conta com um repositório de problemas para as disciplinas de Algoritmos e Programação de Computadores, Compiladores, Estrutura de Dados I e II, Fundamentos de Arquitetura de Computadores e Fundamentos de Sistemas Operacionais."_
 
-### Idade e genêro
+### Idade e gênero
 
-Foram puxados dados do Perfil do estudante para a realização dessa parte. E de acordo com os dados da tabela 1 e 2, podemos inferir que, grande parte dos estudantes possuem entre 18 a 24 anos, além de ser sua maior parte masculino
+Foram utilizados dados do Perfil do Estudante para a realização desta parte. E de acordo com os dados da tabela 1 e 2, podemos inferir que grande parte dos estudantes possui entre 18 a 24 anos, além de ser sua maior parte masculino
 
 <font size="3"><p style="text-align: left">**Tabela 1** - Faixa etária dos alunos  (2022).</p></font>
 
@@ -104,4 +104,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Versão inicial do perfil de Usuário | [João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev) | 01/12/2024 |  |     |
+|  1.0   | Versão inicial do perfil de Usuário | [João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev) | 01/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   02/12/2024  |
