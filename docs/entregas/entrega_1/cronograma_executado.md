@@ -30,6 +30,39 @@ Este documento serve como uma ferramenta de acompanhamento e análise de ativida
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm),  2024.
 
+## Etapa 2
+### Tabela de atividades:
+
+<font size="3"><p style="text-align: left">**Tabela 2** - Cronograma da Etapa 2.</p></font>
+
+|Atividade|Desenvolvimento|Responsável|Período de Revisão|Revisores| 
+|:---:|:---:|:---:|:---:|:---:|
+|Planejamento de Pesquisa do Perfil dos Usuários|Início: 29/11 - Fim: 30/11|[Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm)|Início: 02/12 - Fim: 02/12|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|
+|Perfil dos Usuários|Início: 30/11 - Fim: 01/12|[João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev)|Início: 02/12 - Fim: 02/12|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|
+|Definir Aspectos Éticos|Início: 22/11 - Fim: 24/11|[Marcelo Adrian](https://github.com/Marcelo-Adrian), [Jéssica Eveline](https://github.com/xzxjesse)|Início: 30/11 - Fim: 01/12|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|
+|Termo de Consentimento|Início: 22/11 - Fim: 24/11|[Marcelo Adrian](https://github.com/Marcelo-Adrian), [Jéssica Eveline](https://github.com/xzxjesse)|Início: 30/11 - Fim: 01/12|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|
+|Definir Cenários|Início: 29/11 - Fim: 02/12|[João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev), [Marcelo Adrian](https://github.com/Marcelo-Adrian), [Jéssica Eveline](https://github.com/xzxjesse), [Ruan Carvalho](https://github.com/Ruan-Carvalho)|Início: 2/12 - Fim: 03/12|[João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev), [Marcelo Adrian](https://github.com/Marcelo-Adrian), [Jéssica Eveline](https://github.com/xzxjesse), [Ruan Carvalho](https://github.com/Ruan-Carvalho)|
+|Gravação do Vídeo da Apresentação|Início: 03/12 - Fim: 03/12|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Início: 03/12 - Fim: 03/12|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
+|Inspeção do grupo|Inicio: 03/12 - Fim: 03/12|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|Inicio: 03/12 - Fim: 03/12|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|
+
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm),  2024.
+
+## Etapa 3
+### Tabela de atividades:
+
+<font size="3"><p style="text-align: left">**Tabela 3** - Cronograma da Etapa 3.</p></font>
+
+|Atividade|Desenvolvimento|Responsável|Periodo de Revisão|Revisores| 
+|:---:|:---:|:---:|:---:|:---:|
+|Princípios gerais do projeto|Início: 30/11 - Fim: 01/12 |[Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm)| Início: 01/12 - Fim: 01/12|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|
+|Metas de usabilidade|Início: 30/11 - Fim: 01/12|[Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian)| Início: 02/12 - Fim: 02/12|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|
+|Guia de estilo|Início: 30/11 - Fim: 02/12|[Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian)| Início: 03/12 - Fim: 03/12|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|
+|Caracteristicas do site|Início: 29/11 - Fim: 01/12 |[Ruan Carvalho](https://github.com/Ruan-Carvalho)| Início: 02/12 - Fim: 03/12|[Jéssica Eveline](https://github.com/xzxjesse)|
+|Grava Video da Apresentação|Início: 03/12 - Fim: 03/12|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|Início: 03/12 - Fim: 03/12|[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|
+|Inspeção do grupo|Inicio: 03/12 - Fim: 03/12|[João Vitor](https://github.com/Jauzimm)|Inicio: 03/12 - Fim: 03/12|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|
+
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm) 2024.
+
 ## Bibliografia 
 
 SILVA, André Barros. Exemplo de Cronograma. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Exemplo Cronograma](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf). Acesso em: 11 nov. 2024.
@@ -44,3 +77,4 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1.0|Criação do cronograma executado|[Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev)|11/11/2024|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|12/11/2024|
 |1.1|Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024| [Marcelo Adrian](https://github.com/Marcelo-Adrian)  |  24/11/2024 |
+|1.2|Adição das etapas 2 e 3|[João Vitor](https://github.com/Jauzimm)| 03/12/2024|  |  |
