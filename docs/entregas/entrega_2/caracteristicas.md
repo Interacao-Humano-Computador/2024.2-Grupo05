@@ -17,10 +17,12 @@ será possível produzir um design que aprimore a experiência do usuário duran
 
 - O CD-MOJ tem como principal objetivo a criação de contests, sendo este site desenvolvido com foco em 
 treinamento para maratonas de programação.
-- As funções do site estão bem documentadas com textos e vídeos tanto para usuários 
+- As funções do site estão documentadas com textos e vídeos tanto para usuários 
 quanto para administradores que desejam criar contests e para quem deseja colaborar com o desenvolvimento.
-- As submições nas atividades apresentam resposta rápida em relação ao desempenho do usuário, 
-indicando o percentual de acerto na reposta enviada ou a causa de um possível erro.
+- As submições nas atividades indicam o percentual de acerto na reposta enviada ou a causa de um possível erro.
+- A plataforma possibilita enviar outras subimissões em um exercício já respondido, caso o usuário encontre uma outra solução mais eficiênte.
+- As questões disponibilizadas para treinamento na plataforma estão caracterizadas por tags, facilitando aos utilizadores do sistema encontrarem
+questões mais adequadas aos seus estudos.
 
 ## Características negativas
 
@@ -31,6 +33,7 @@ sem padronização, tornando mais confuso para encontrar a atividade desejada.
  sendo necessário utilizar o Telegram para adiquirir login e senha de acesso para os treinamentos.
 - A sessão de perguntas frequentes (FAQ - Frequently Asked Questions) não possui opção para enviar mais 
 duvidas caso o usuário encontre outra dificuldade na navegação que não foi previamente respondida.
+- As respostas das submissões não são entregues de forma imediata, sendo necessário aguardar alguns segundos e recarregar a página para ver seu desempenho.
 
 ## Referência bibliográfica
 
