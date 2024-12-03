@@ -125,4 +125,4 @@ Este guia de estilo fornece uma base para o desenvolvimento de uma interface pad
 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|02/12/2024|||
+|1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian)|02/12/2024|[Ruan Carvalho](https://github.com/Ruan-Carvalho)|03/12/2024|
