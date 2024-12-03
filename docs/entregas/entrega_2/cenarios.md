@@ -49,6 +49,16 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
+| *Elemento*   | *Descrição* |
+| -------------- | ------------- |
+| *Objetivo*   | Realizar e entregar as atividades da disciplina. |
+| *Contexto*   | - *Local:* No quarto <br> - *Tempo:* Após chegar da faculdade <br> - *Pré-condições:* Ter acesso à internet, possuir computador e estar logada na conta CDMOJ |
+| *Recursos*   | - Conexão à internet <br> - Dispositivo com navegador (notebook, desktop, smartphone, etc.) <br> - Acesso a plataforma CD-MOJ |
+| *Ator*       | Usuários que iram realizar atividades de uma disciplina |
+| *Episódios*  | - O usuário acessa o site do CD-MOJ. <br> - Ele navega no site até achar o contest da disciplina cursada. <br> - O usuário acessa o contest. <br> - Ele começa a analisar as questões e as realiza. <br> - O usuário se depara com um problema durante o envio do código: "Time Limit Exceeded, 0p" <br> - O usuario percorre pelo FAQ do CD-MOJ para compreender a mensagem. <br> - Ele não encontra explicações sobre o problema. <br> - Ele busca em fóruns a respeito do problema. <br> - O usuário compreende o que aconteceu e reenvia sua atividade. |
+| *Restrições* | - O site deve expandir sua documentação sobre problemas frequentemente enfrentados. |
+| *Exceção*    | - Problemas de autenticação. <br> - O dispósitivo eletrônico apresenta problemas.  <br> - Falta de conexão à internet durante o processo. <br> - Plataforma fora do ar. |
+
 Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
 
 ### Falta de mecanismos de busca e acesso a enunciados de competições passadas
