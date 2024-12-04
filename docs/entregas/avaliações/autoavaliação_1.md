@@ -82,7 +82,7 @@ Nesta segunda entrega do projeto estão contidos os seguintes pontos:
 
 <font size="3"><p style="text-align: left">**Vídeo 2** - Apresentação da entrega 2.</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2H18oz_LPbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2H18oz_LPbc?si=30fDfsV8WfWZM0aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Link:** [Apresentação](https://www.youtube.com/watch?v=2H18oz_LPbc)
 
@@ -94,9 +94,9 @@ Nesta segunda entrega do projeto estão contidos os seguintes pontos:
 |-| ---------------------- | -------- | ----------------------------------- |
 | Itens do Desenvolvimento do projeto. | Todos os 9 itens:| Sim | 03/12/2024, 22:45 |
 | Itens do conteúdo da disciplina.  | 1 - O perfil do usuário? | Sim | 1.0, 03/12/2024, 22:47 |
-| | 2 - O perfil do usuário possui os atributos de um perfil. | sim | 1.0, 03/12/2024, 22:47 |
-| | 3 - O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema. | sim | 1.0, 03/12/2024, 22:48 |
-| | 4 - Considera aspectos Éticos de Pesquisas Envolvendo Pessoas? | sim | 1.0, 03/12/2024, 22:52 |
+| | 2 - O perfil do usuário possui os atributos de um perfil. | Sim | 1.0, 03/12/2024, 22:47 |
+| | 3 - O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema. | Sim | 1.0, 03/12/2024, 22:48 |
+| | 4 - Considera aspectos Éticos de Pesquisas Envolvendo Pessoas? | Sim | 1.0, 03/12/2024, 22:52 |
 | | 5 - Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)  | Sim | 1.0, 03/12/2024, 22:51 |
 | | 6 - que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? | Sim | 1.0, 03/12/2024, 22:50 |
 | | 7 - O termo de consentimento livre e esclarecido dos participantes? | Sim | 1.0, 03/12/2024, 22:50 |
@@ -122,7 +122,7 @@ Nesta terceira entrega do projeto estão contidos os seguintes pontos:
 
 <font size="3"><p style="text-align: left">**Vídeo 3** - Apresentação da entrega 3.</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7fAYmMegEpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7fAYmMegEpQ?si=VKMT7u_rGCSpjGqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Link:** [Apresentação](https://www.youtube.com/watch?v=7fAYmMegEpQ)
 
@@ -143,10 +143,6 @@ Nesta terceira entrega do projeto estão contidos os seguintes pontos:
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
-### Vídeo de autoavaliação
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pMj8AjyJa5I?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Bibliografia
 
 SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
@@ -161,5 +157,4 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.1   |                      Revisão da auto avaliação                       | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev)  |   24/11/2024    |
 |  1.2   | Padronização de Referências Bibliográficas, Bibliografia e Autor(es) | [Felipe Rodrigues](https://github.com/felipeJRdev)  | 23/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   24/11/2024    |
 |  1.3   | Criação inicial da Autoavaliação 2 | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | 02/12/2024 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 |
-|  1.4   | Adição da autoavaliação 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 02/12/2024 |  | |
-
+|  1.4   | Adição da autoavaliação 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 03/12/2024 |
