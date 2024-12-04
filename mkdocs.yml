@@ -28,6 +28,11 @@ nav:
       - Avaliações:
           - Autoavaliação: entregas/avaliações/autoavaliação_1.md
           - Avaliação Grupo 6: entregas/avaliações/avaliação_grupo06_1.md
+      - Análise de Requisitos:
+          - Análise de tarefas:
+            - Modelo GOMS:  entregas/entrega_2/analise_de_tarefas/GOMS.md
+            - Modelo HTA:  entregas/entrega_2/analise_de_tarefas/HTA.md
+          - Cenários: entregas/entrega_2/cenarios.md
 
 # Tema do MkDocs
 theme:
