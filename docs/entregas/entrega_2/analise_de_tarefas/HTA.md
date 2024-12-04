@@ -1,21 +1,19 @@
-### Introdução
+## Introdução
 
-Utilizando a metodologia **HTA (Hierarchical Task Analysis)**, as interações dos usuários com o sistema foram detalhadas, abordando os processos físicos e cognitivos associados às tarefas. A análise baseia-se em princípios de interação humano-computador, que destacam a importância de compreender o contexto de uso, as características humanas e os objetivos dos usuários para desenvolver sistemas mais eficientes e acessíveis. Este trabalho segue uma abordagem sistemática para decompor as tarefas em etapas hierárquicas, promovendo uma visão clara dos processos de interação e suas falhas, conforme recomendado por estudos em IHC.
+Utilizando a metodologia **HTA (Hierarchical Task Analysis)**, as interações dos usuários com o sistema foram detalhadas, abordando os processos físicos e cognitivos associados às tarefas. A análise baseia-se em princípios de interação humano-computador, que destacam a importância de compreender o contexto de uso, as características humanas e os objetivos dos usuários para desenvolver sistemas mais eficientes e acessíveis. Este trabalho segue uma abordagem sistemática para decompor as tarefas em etapas hierárquicas, promovendo uma visão clara dos processos de interação e suas falhas.
 
-### Metodologia
+## Metodologia
 
 A análise foi conduzida exclusivamente com a metodologia HTA, alinhada às boas práticas da interação humano-computador, que enfatizam a compreensão do contexto e as características dos usuários para propor soluções centradas neles. 
 
 **HTA (Hierarchical Task Analysis):**
 
    - **Objetivo:** Identificar e estruturar as etapas e subprocessos que compõem as principais interações dos usuários na plataforma CD-MOJ.
-   - **Procedimento:** Cada tarefa foi decomposta em etapas hierárquicas, conectadas por relações de sequência, seleção ou paralelismo, como descrito na literatura sobre métodos de análise em IHC (Barbosa e Silva, 2010). 
+   - **Procedimento:** Cada tarefa foi decomposta em etapas hierárquicas, conectadas por relações de sequência, seleção ou paralelismo.
 
 ### **Falta de feedback em tempo real durante a análise de submissões**
 
 #### **Diagrama HTA:**
-
-**Diagrama 1:** Diagrama HTA Falta de feedback.
 
 ```plaintext
 Tarefa Principal: Garantir feedback em tempo real durante a análise de submissões
@@ -249,10 +247,6 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
-## Referência Bibliográfica
-
-BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Planejamento da avaliação de IHC**. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
-
 ## Bibliografia
 
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Planejamento da avaliação de IHC**. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
@@ -263,4 +257,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Planejamento da aval
 
 | Versão |      Descrição       |                                              Autor(es)                                              |    Data    | Revisor(es) | Data de Revisão |
 | :----: | :------------------: | :-------------------------------------------------------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação do documento | [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 03/12/2024 |             |                 |
+|  1.0   | Criação do documento | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)| 03/12/2024 |      [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)       |        03/12/2024         |

@@ -25,11 +25,11 @@ nav:
           - Sites avaliados: entregas/entrega_1/sites_avaliados.md
           - Entrega: entregas/entrega_1/entrega_1.md
       - Análise de requisitos 1:
-          - Aspectos Éticos e termo de consentimento: entregas/entrega_2/aspectos_eticos.md
-          - Perfil dos usuarios: entregas/entrega_2/perfil_usuario.md
+          - Aspectos éticos e termo de consentimento: entregas/entrega_2/aspectos_eticos.md
+          - Perfil dos usuários: entregas/entrega_2/perfil_usuario.md
           - Análise de tarefas Modelo HTA: entregas/entrega_2/analise_de_tarefas/HTA.md
           - Análise de tarefas Modelo GOMS: entregas/entrega_2/analise_de_tarefas/GOMS.md
-          - Cenarios: entregas/entrega_2/cenarios.md
+          - Cenários: entregas/entrega_2/cenarios.md
       - Análise de requisitos 2:
           - Características da plataforma: entregas/entrega_2/caracteristicas.md
           - Guia de estilo: entregas/entrega_2/guia_de_estilo.md

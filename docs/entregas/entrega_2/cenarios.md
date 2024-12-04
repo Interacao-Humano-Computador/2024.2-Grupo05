@@ -1,12 +1,12 @@
-# Introdução
+## Introdução
 
 Este documento faz parte do desenvolvimento de cenários no âmbito da disciplina de Interação Humano-Computador (IHC), com foco na análise de problemas de usabilidade enfrentados por usuários do CD-MOJ. O objetivo é explorar questões críticas de interação, propor melhorias e, assim, promover uma experiência mais intuitiva e acessível para diferentes perfis de usuários.
 
-# Objetivo
+## Objetivo
 
 O principal objetivo deste documento é identificar e documentar cenários de uso que evidenciem problemas de usabilidade na plataforma. Esses cenários foram elaborados para compreender como os usuários interagem com o sistema, identificar barreiras e propor soluções que aprimorem a experiência do usuário, alinhando-se aos princípios de design centrado no usuário.
 
-# Metodologia
+## Metodologia
 
 Para a criação dos cenários, foi utilizada uma abordagem baseada no framework DECIDE, que orienta a análise de usabilidade e coleta de dados para avaliar e propor melhorias em sistemas interativos. O processo seguiu as seguintes etapas:
 
@@ -19,9 +19,11 @@ A análise foi embasada em observações, relatos de usuários e estudos prévio
 **3 - Criação dos cenários:**
 Cada cenário foi elaborado detalhando elementos como contexto, objetivos, atores, episódios, restrições e exceções. Essa estrutura permite visualizar as interações dos usuários com a plataforma e identificar lacunas de usabilidade.
 
-# Cénarios
+## Cénarios
 
 ### Falta de feedback em tempo real durante a análise de submissões  
+
+**Tabela 1:** Cenário falta de feedback.
 
 | *Elemento*   | *Descrição* |
 | -------------- | ------------- |
@@ -37,6 +39,8 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 ### Troca de senha do usuário
 
+**Tabela 2:** Cenário troca de senha do usuário.
+
 | *Elemento*   | *Descrição* |
 | -------------- | ------------- |
 | *Objetivo*   | Alterar a senha da conta para aumentar a segurança pessoal. |
@@ -50,6 +54,8 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
 ### Problema com o FAQ
+
+**Tabela 3:** Cenário problema com o FAQ.
 
 | *Elemento*   | *Descrição* |
 | -------------- | ------------- |
@@ -65,6 +71,8 @@ Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
 
 ### Falta de mecanismos de busca e acesso a enunciados de competições passadas
 
+**Tabela 4:** Cenário falta de mecanismos de busca.
+
 | **Elemento**   | **Descrição** |
 |-----------------|---------------|
 | *Objetivo*    | Revisitar competições passadas no CD MOJ para estudar e se preparar para futuros contests. |
@@ -79,6 +87,8 @@ Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
 ### Ausência de informações em submissões erradas
 
+**Tabela 5:** Cenário Ausência de informações.
+
 | **Elemento**   | **Descrição** |
 |-----------------|---------------|
 | *Objetivo*    | Encontar casos de teste que gerem erros no algorítmo para análise |
@@ -92,9 +102,18 @@ Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 
-## Referências Bibliográficas
+## Bibliografia
+
+ROSSON, M.B., CARROL, J.M. Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann, 2002.
+
+COOPER, Alan. The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition). Sams Publishing, 1999.
+
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versão
-| Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | Criação do documento | [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 24/11/2024 |  |  |
+
+**Tabela 6:** Histórico de versão.
+
+| Versão |      Descrição       |                                              Autor(es)                                              |    Data    | Revisor(es) | Data de Revisão |
+| :----: | :------------------: | :-------------------------------------------------------------------------------------------------: | :--------: | :---------: | :-------------: |
+|  1.0   | Criação do documento | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)| 24/11/2024 |      [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)       |        03/12/2024         |

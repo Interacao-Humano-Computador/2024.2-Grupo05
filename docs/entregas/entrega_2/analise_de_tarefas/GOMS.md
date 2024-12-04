@@ -1,12 +1,12 @@
-## **Introdução**
+## Introdução
 
 O CD-MOJ, apesar de sua utilidade, apresenta desafios que afetam negativamente a experiência do usuário, como falta de feedback em tempo real, dificuldade na navegação e insuficiência de informações em submissões erradas. 
 
 Para investigar esses problemas, aplicamos o modelo **GOMS (Goals, Operators, Methods, and Selection Rules)**, uma metodologia consagrada em estudos de interação humano-computador. O GOMS permite decompor as tarefas realizadas pelos usuários em objetivos, métodos e operações, detalhando as escolhas e ações cognitivas e físicas necessárias. A análise foi realizada com variações específicas do GOMS, como **KLM (Keystroke-Level Model)** e **CMN-GOMS**, para mapear os processos e propor melhorias fundamentadas.
 
-## **Metodologia**
+## Metodologia
 
-### **Modelo GOMS**
+### Modelo GOMS
 
 O modelo GOMS analisa as interações entre usuários e sistemas computacionais, estruturando as tarefas em objetivos, métodos, operadores e regras de seleção. Para esta análise, foram utilizadas as seguintes variações:
 
@@ -20,7 +20,7 @@ Esses métodos foram aplicados a quatro fluxos principais no CD-MOJ: **falta de 
 
 ### **Falta de feedback em tempo real durante a análise de submissões**
 
-#### **KLM (Keystroke-Level Model)**
+#### KLM (Keystroke-Level Model)
 
 **Tabela 1:** KLM da Falta de feedback.
 
@@ -33,7 +33,9 @@ Esses métodos foram aplicados a quatro fluxos principais no CD-MOJ: **falta de 
 | 5. Exibir resultado final        | O sistema exibe a resposta final ("Accepted", "Wrong Answer") | 2                    |
 | **Total**                        |                                                               | **31 segundos**      |
 
-#### **Modelagem do GOMS (CMN-GOMS)**
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
+
+#### Modelagem do GOMS (CMN-GOMS)
 
 **Tabela 2:** CMN-GOMS Falta de feedback.
 
@@ -44,13 +46,14 @@ Esses métodos foram aplicados a quatro fluxos principais no CD-MOJ: **falta de 
 | Aguardar feedback e analisar progresso    | Observar as mensagens de progresso | Observar             | Se o sistema não mostra progresso, recarregar |
 | Exibir resultado final ("Accepted", etc.) | Visualizar mensagem de resultado   | Observar             | Se resultado final não aparecer, recarregar   |
 
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
+
 Neste modelo **CMN-GOMS**, o usuário decide se deve aguardar o feedback do sistema ou tentar recarregar a página caso não obtenha informações, levando em consideração a ausência de informações de progresso em tempo real.
 
 
 ### **Troca de senha do usuário**
 
-
-#### **KLM (Keystroke-Level Model)**
+#### KLM (Keystroke-Level Model)
 
 **Tabela 3:** KLM da Troca de senha do usuário.
 
@@ -68,7 +71,9 @@ Neste modelo **CMN-GOMS**, o usuário decide se deve aguardar o feedback do sist
 | 10. Confirmação de sucesso           | Exibir mensagem de sucesso                               | 3                    |
 | **Total**                            |                                                          | **38 segundos**      |
 
-#### **Modelagem do GOMS (CMN-GOMS)**
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
+
+#### Modelagem do GOMS (CMN-GOMS)
 
 **Tabela 4:** CMN-GOMS da Troca de senha do usuário.
 
@@ -80,11 +85,13 @@ Neste modelo **CMN-GOMS**, o usuário decide se deve aguardar o feedback do sist
 | Confirmar alteração   | Clicar em "Confirmar"           | Clicar       | Se erro de validação, corrigir e tentar novamente  |
 | Receber feedback      | Ver mensagem de sucesso ou erro | Verificar    | Se erro, voltar para ajustar a senha               |
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
+
 Essa análise de GOMS no formato **CMN-GOMS** mostra uma sequência de decisões condicionais baseadas no que o usuário observa ou na situação em que se encontra, como a necessidade de ajustar a senha.
 
 ### **Problema com o FAQ**
 
-#### **KLM (Keystroke-Level Model)**
+#### KLM (Keystroke-Level Model)
 
 **Tabela 5:** KLM do Problema com FAQ.
 
@@ -102,7 +109,9 @@ Essa análise de GOMS no formato **CMN-GOMS** mostra uma sequência de decisões
 | 10. Reenviar atividade     | Enviar novamente a atividade                   | 4                    |
 | **Total**                  |                                                | **48 segundos**      |
 
-#### **Modelagem do GOMS (CMN-GOMS)**
+Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
+
+#### Modelagem do GOMS (CMN-GOMS)
 
 **Tabela 6:** GMN-GOMS do Problema com FAQ.
 
@@ -112,11 +121,13 @@ Essa análise de GOMS no formato **CMN-GOMS** mostra uma sequência de decisões
 | Compreender o erro "Time Limit Exceeded"   | Ler sobre o erro no fórum  | Observar                    | Se a informação for útil, aplicar a solução       |
 | Enviar novamente a atividade               | Corrigir o erro e reenviar | Clicar em "Reenviar"        | Se o problema for resolvido, reenviar a atividade |
 
+Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
+
 No **CMN-GOMS**, a decisão do usuário de buscar informações em fontes externas (fóruns) depende da falta de explicação adequada no FAQ. A solução ocorre após entender o erro e corrigir o envio da atividade.
 
 ### **Falta de mecanismos de busca e acesso a enunciados de competições passadas**
 
-#### **KLM (Keystroke-Level Model)**
+#### KLM (Keystroke-Level Model)
 
 **Tabela 7:** KLM do Falta de mecanismos de busca.
 
@@ -135,7 +146,9 @@ O **KLM** modela a tarefa com base em interações físicas, como pressionamento
 | 9. Frustração e desistência                | Desistir de continuar a navegação devido à burocracia        | 5                    |
 | **Total**                                  |                                                              | **37 segundos**      |
 
-#### **Modelagem do GOMS (CMN-GOMS)**
+Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
+
+#### Modelagem do GOMS (CMN-GOMS)
 
 **Tabela 8:** CMN-GOMS do Falta de mecanismos de busca.
 
@@ -145,11 +158,13 @@ O **KLM** modela a tarefa com base em interações físicas, como pressionamento
 | Navegar por competições          | Encontrar a competição de interesse | Clicar entre as competições | Se a competição desejada for encontrada, selecione               |
 | Acessar o enunciado das questões | Clicar para acessar o enunciado     | Clicar no link do enunciado | Se for necessário login externo, desistir ou buscar outro método |
 
+Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
+
 No **CMN-GOMS**, a decisão do usuário de desistir ou buscar um método alternativo depende da percepção de que a plataforma não oferece as facilidades necessárias (como filtros de busca) e da frustração causada pelo login externo.
 
 ### **Ausência de informações em submissões erradas**
 
-#### **KLM (Keystroke-Level Model)**
+#### KLM (Keystroke-Level Model)
 
 **Tabela 9:** KLM da Ausência de informações em submissões erradas.
 
@@ -164,7 +179,9 @@ No **CMN-GOMS**, a decisão do usuário de desistir ou buscar um método alterna
 | 7. Identificar erros e corrigir o código | Testar os novos casos de teste e corrigir os erros no código | 10                   |
 | **Total**                                |                                                              | **31 segundos**      |
 
-#### **Modelagem do GOMS (CMN-GOMS)**
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
+
+#### Modelagem do GOMS (CMN-GOMS)
 
 **Tabela 10:** CMN-GOMS da Ausência de informações em submissões erradas.
 
@@ -173,6 +190,8 @@ No **CMN-GOMS**, a decisão do usuário de desistir ou buscar um método alterna
 | Receber feedback sobre a solução | Enviar solução para a plataforma    | Submeter código            | Se "Wrong Answer" é exibido, proceder com a busca de novos casos de teste |
 | Buscar mais casos de teste       | Procurar ajuda no Telegram          | Clicar no link do Telegram | Se o Mojinho responder, use os casos para corrigir o código               |
 | Corrigir o código                | Ajustar a solução conforme feedback | Modificar o código         | Se os erros forem identificados, submeter a nova versão                   |
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 No **CMN-GOMS**, o usuário toma decisões baseadas nas mensagens recebidas da plataforma e no Mojinho. A escolha entre procurar mais casos de teste ou modificar o código é guiada pela necessidade de ajustar a solução para que ela passe nos testes.
 
@@ -186,4 +205,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Planejamento da aval
 
 | Versão |      Descrição       |                                              Autor(es)                                              |    Data    | Revisor(es) | Data de Revisão |
 | :----: | :------------------: | :-------------------------------------------------------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação do documento | [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 03/12/2024 |             |                 |
+|  1.0   | Criação do documento | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)| 03/12/2024 |      [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)       |        03/12/2024         |
