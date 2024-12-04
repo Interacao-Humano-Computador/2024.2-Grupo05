@@ -18,7 +18,7 @@ Autor(es): [Jéssica Eveline ](https://github.com/xzxjesse), 2024.
 
 <font size="3"><p style="text-align: left">**Vídeo 1:** Entrega 2 - IHC - Grupo 05.</p></font>
 
-<iframe width="560" height="315" src="https://youtu.be/2H18oz_LPbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2H18oz_LPbc?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Link:** [Entrega 2 - IHC - Grupo 05](https://youtu.be/2H18oz_LPbc)
 
@@ -28,4 +28,4 @@ Autor(es): [Jéssica Eveline ](https://github.com/xzxjesse), 2024.
 
 | Versão |        Descrição         |                      Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :----------------------: | :-------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da entrega e disponibilização do link | [Jéssica Eveline ](https://github.com/xzxjesse) | 03/12/2024 |  |  |
+|  1.0   | Criação da entrega e disponibilização do link | [Jéssica Eveline ](https://github.com/xzxjesse) | 03/12/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 03/12/2024 |
