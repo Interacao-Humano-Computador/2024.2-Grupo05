@@ -28,9 +28,9 @@ nav:
           - Aspectos Éticos e termo de consentimento: entregas/entrega_2/aspectos_eticos.md
           - Perfil dos usuarios: entregas/entrega_2/perfil_usuario.md
           - Características da plataforma: entregas/entrega_2/caracteristicas.md
-      - Análise de requisitos 2:
-          - Análise de tarefas Modelo GOMS: entregas/entrega_2/analise_de_tarefas/GOMS.md
           - Análise de tarefas Modelo HTA: entregas/entrega_2/analise_de_tarefas/HTA.md
+          - Análise de tarefas Modelo GOMS: entregas/entrega_2/analise_de_tarefas/GOMS.md
+      - Análise de requisitos 2:
           - Guia de estilo: entregas/entrega_2/guia_de_estilo.md
           - Cenarios: entregas/entrega_2/cenarios.md
           - Princípios Gerais: entregas/entrega_3/principiosGerais.md
