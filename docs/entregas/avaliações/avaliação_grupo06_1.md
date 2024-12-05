@@ -3,13 +3,13 @@
 ## Introdução
 Neste documento está contido a avaliação do grupo 06 acerca de primeira entrega do projeto da disciplina de Interação Humano-Computador. 
 
-## Video de avaliação
+## Video de primeira avaliação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1YF_VGZcrNM?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Link:** [Avaliação do grupo + 1](https://www.youtube.com/watch?v=1YF_VGZcrNM)
 
-## Aspectos avaliados
+## Aspectos avaliados na primeira entrega
 
 <font size="3"><p style="text-align: left">**Tabela 1** - Aspectos avaliados na entrega 1.</p></font>
 
@@ -42,11 +42,11 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](
 
 Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024
 
-### Aspectos avaliados
+### Entrega 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1YF_VGZcrNM?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TkDQqxaD0DE?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Link:** [Avaliação do grupo + 1](https://www.youtube.com/watch?v=1YF_VGZcrNM)
+**Link:** [Avaliação do grupo + 1](https://youtu.be/TkDQqxaD0DE)
 
 <font size="3"><p style="text-align: left">**Tabela 2** - Aspectos avaliados na entrega 2.</p></font>
 
@@ -74,11 +74,19 @@ Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024
 | | 20 - uma atividade para cada integrante do grupos que deve estar modelizado em ao menos duas técnicas para especificar as tarefas? | Sim | 1.6, 04/12/2024, 18:32 |
 | | 21 - Utilizaram alguma técnica para especificar as tarefas?  | Sim | 1.6, 04/12/2024, 18:32 |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1YF_VGZcrNM?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Link:** [Avaliação do grupo + 1](https://www.youtube.com/watch?v=1YF_VGZcrNM)
-
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024
+
+**Figura 2** - Gráfico das respostas avaliadas na entrega 2 </p>
+
+![Respostas](../../assets/AV_G6_Grafico2.png)
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
+
+### Entrega 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3_gdCTLAyU?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Link:** [Avaliação do grupo + 1](https://youtu.be/S3_gdCTLAyU)
 
 <font size="3"><p style="text-align: left">**Tabela 3** - Aspectos avaliados na entrega 3.</p></font>
 
@@ -104,6 +112,12 @@ Autor(es): [João Vitor](https://github.com/Jauzimm), 2024
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
+**Figura 3** - Gráfico das respostas avaliadas na entrega 3 </p>
+
+![Respostas](../../assets/AV_G6_Grafico3.png)
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
+
 ## Bibliografia
 
 SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
@@ -117,5 +131,5 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.0   | Realização da avaliação | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 13/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   13/11/2024   |
 |  1.1   | Reavaliação após feedback | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) |   24/11/2024   |
 |  1.2   | Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |
-|  1.3   | Adição da avaliação do grupo +1, etapa 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 04/12/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |  |
+|  1.3   | Adição da avaliação do grupo +1, etapa 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 04/12/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 04/12/2024 |
 
