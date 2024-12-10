@@ -26,7 +26,7 @@ nav:
           - Entrega: entregas/entrega_1/entrega_1.md
       - Análise de requisitos 1:
           - Aspectos éticos e termo de consentimento: entregas/entrega_2/aspectos_eticos.md
-          - Perfil dos usuários: entregas/entrega_2/perfil_usuario.md
+          - Perfil dos usuários: entregas/entrega_2/perfil.md
           - Análise de tarefas Modelo HTA: entregas/entrega_2/analise_de_tarefas/HTA.md
           - Análise de tarefas Modelo GOMS: entregas/entrega_2/analise_de_tarefas/GOMS.md
           - Cenários: entregas/entrega_2/cenarios.md
@@ -37,6 +37,8 @@ nav:
           - Princípios Gerais: entregas/entrega_3/principiosGerais.md
           - Metas de usabilidade: entregas/entrega_3/metas_de_usabilidade.md
           - Entrega: entregas/entrega_3/entrega_3.md
+      - Resultados das analises:
+          - Planejamento da Avaliação da Análise de Tarefas: entregas/entrega_4/planejamento_avaliacao.md
       - Avaliações:
           - Autoavaliação: entregas/avaliações/autoavaliação_1.md
           - Avaliação Grupo 6: entregas/avaliações/avaliação_grupo06_1.md
