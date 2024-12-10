@@ -10,7 +10,7 @@ O framework DECIDE é composto por seis fases principais:
 - C: **Escolher os métodos de avaliação**
 - I: **Identificar os aspectos práticos**
 - D: **Decidir como lidar com questões éticas** 
-- E: **Interpretar os dados coletados**
+- E: **Explorar como interpretar os dados coletados**
 
 ## Metodologia
 
@@ -66,11 +66,15 @@ Os participantes serão convidados por meio de contato direto, utilizando redes 
 
 ### **Cronograma**  
 
+<font size="3"><p style="text-align: left">**Tabela 1** - Cronograma do planejamento.</p></font>
+
 | **Data**      | **Atividade**                           |
 |----------------|-----------------------------------------|
 | 14/12         | Teste piloto                            |  
 | 16/12 - 20/12 | Realização das entrevistas              |
 | Até 05/01     | Registro e análise dos resultados       |
+
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
 ### **Ferramentas**  
 - **Comunicação:** Google Meet.  
@@ -182,12 +186,18 @@ Ao final das perguntas estruturadas, o participante terá um espaço aberto para
 - Sugerir melhorias que não tenham sido abordadas durante a entrevista.  
 - Compartilhar insights ou experiências relacionados ao uso do CD-MOJ.  
 
-Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
+## Bibliografia
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.  
+
+PREECE, Jennifer; SHARP, Helen; ROGERS, Yvonne. *Interaction Design: beyond human-computer interaction*. John Wiley & Sons, 2015.
+
+LICHESS. Interação Humano Computador. Distrito Federal, 2022. Disponível em: [https://github.com/Interacao-Humano-Computador/2022.2-Lichess](https://github.com/Interacao-Humano-Computador/2022.2-Lichess). Acesso em: 09/12/2024.
 
 ## Histórico de Versões
 
-<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse)|09/12/2024|||
+|1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse)|09/12/2024| [Felipe Rodrigues](https://github.com/felipeJRdev) |  09/12/2024  |

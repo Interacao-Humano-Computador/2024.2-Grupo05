@@ -53,16 +53,22 @@ Para cada problema identificado, serão propostas correções e melhorias. As su
 - **Sugestões de revisões nas mensagens de erro e feedback visual**, para melhorar a experiência do usuário no CD-MOJ.
 
 ### **Gravações do Teste Piloto e da Entrevista**
-Serão inseridas as gravações do teste piloto e das entrevistas realizadas com os participantes. Estas gravações servirão como base para as análises qualitativas, permitindo uma avaliação detalhada das reações dos usuários e suas sugestões. Caso o teste piloto indique a necessidade de alterações no planejamento da avaliação (como ajustes no roteiro ou nas perguntas), esses pontos também serão registrados e discutidos.
+Serão inseridas as gravações do teste piloto e das entrevistas realizadas com os participantes. Estas gravações servirão como base para as análises qualitativas, permitindo uma avaliação detalhada das reações dos usuários e suas sugestões. Caso o teste piloto indique a necessidade de alterações no planejamento da avaliação (como ajustes no roteiro ou nas perguntas), esses pontos também serão registrados e discutidos. 
+
+As gravações do teste piloto e das entrevistas foram realizadas com o consentimento prévio dos participantes, seguindo os princípios éticos descritos no [Termo de Consentimento Livre e Esclarecido](https://interacao-humano-computador.github.io/2024.2-Grupo05/entregas/entrega_2/aspectos_eticos/#termo-de-consentimento-livre-e-esclarecido). Essas gravações serão utilizadas apenas para análise interna e armazenadas de forma segura, garantindo o anonimato e a confidencialidade dos participantes. Após a entrega do relatório final, todos os registros serão devidamente descartados. Os participantes mantêm o direito de solicitar a exclusão de suas informações a qualquer momento.
 
 
 ## **Cronograma do Relato de Resultados**
 
+<font size="3"><p style="text-align: left">**Tabela 1** - Cronograma do relato de resultados.</p></font>
+
 | **Data**      | **Atividade**                         |
 |----------------|---------------------------------------|
 | 20/12 - 30/12| Análise de dados|
-| 31/12 - 04/12| Redação do relato|
+| 31/12 - 04/01| Redação do relato|
 | 05/01| Entrega do relatório final|
+
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
 ## **Ferramentas de Apoio**
 - **Análise de Dados:** Ferramentas como Excel ou Google Sheets para tabulação e análise de respostas.
@@ -71,12 +77,14 @@ Serão inseridas as gravações do teste piloto e das entrevistas realizadas com
 
 Este planejamento visa garantir uma documentação clara e detalhada dos resultados da avaliação do storyboard, proporcionando insights valiosos para melhorar a interação e usabilidade do CD-MOJ.
 
-Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
+## Bibliografia
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.  
 
 ## Histórico de Versões
 
-<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse)|09/12/2024|||
+|1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse)|09/12/2024|  [Felipe Rodrigues](https://github.com/felipeJRdev)     | 09/12/2024    |
