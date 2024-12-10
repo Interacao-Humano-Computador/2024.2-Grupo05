@@ -13,7 +13,7 @@ Na figura 1, o storyboard retrata o momento em que um novo usuário irá submete
 
 **Figura 1** - Storyboard submeter um código para avaliação.
 
-![Figura 1 - Submeter um código para avaliação.](../../assets/storyboard/storyboardFaltadeFeedback.png)
+![Figura 1 - Submeter um código para avaliação.](../../../assets/storyboard/storyboardFaltadeFeedback.png)
 
 Autor: [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
@@ -23,7 +23,7 @@ Na figura 2, é apresentado o storyboard de troca de senha e sua complexidade.
 
 **Figura 2** - Storyboard alterar senha.
 
-![Figura 2 - Alterar senha.](../../assets/storyboard/storyboard_alterar_senha.png)
+![Figura 2 - Alterar senha.](../../../assets/storyboard/storyboard_alterar_senha.png)
 
 Autor: [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
@@ -33,7 +33,7 @@ Na figura 3, storyboard apresentado trata da falta de conteúdo do FAQ para prob
 
 **Figura 3** - Storyboard problemas com FAQ.
 
-![Figura 3 - Alterar problemas com FAQ.](../../assets/storyboard/storyboardFAQ.png)
+![Figura 3 - Alterar problemas com FAQ.](../../../assets/storyboard/storyboardFAQ.png)
 
 Autor: [João Vitor](https://github.com/Jauzimm), 2024.
 
@@ -43,7 +43,7 @@ Na figura 4, .
 
 **Figura 4** - .
 
-![Figura 4 - .](../../assets/storyboard/.png)
+![Figura 4 - .](../../../assets/storyboard/.png)
 
 Autor: [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
@@ -53,7 +53,7 @@ Na Figura 5, o storyboard ilustra o momento em que o código é testado e alguns
 
 **Figura 5** - Storyboard encontrar os casos de teste que falharam.
 
-![Figura 5 - Encontrar os casos de teste que falharam.](../../assets/storyboard/StoryboardVerCasos.png)
+![Figura 5 - Encontrar os casos de teste que falharam.](../../../assets/storyboard/StoryboardVerCasos.png)
 
 Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
