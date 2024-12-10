@@ -56,6 +56,13 @@ Será conduzida uma **entrevista estruturada** com um usuário representativo da
 
 ## Questões práticas  
 
+### Objetivos Gerais
+
+- **Verificar a apropriação de tecnologia pelos usuários:** Avaliar se os storyboards refletem uma compreensão clara de como os usuários interagem com o CD-MOJ e como eles incorporam essa tecnologia em suas atividades.  
+- **Explorar ideias e alternativas de design:** Identificar se os storyboards apresentam soluções criativas e variadas para os problemas de interação e interface detectados, promovendo inovação no design.  
+- **Avaliar a conformidade com padrões estabelecidos:** Garantir que os storyboards seguem princípios reconhecidos de design de interação, como as heurísticas de usabilidade de Nielsen e boas práticas de Interação Humano-Computador (IHC).  
+- **Identificar problemas na interação e na interface na fase do modelo conceitual:** Detectar questões de usabilidade, navegação e feedback apresentados nos storyboards para propor ajustes antes da implementação.  
+
 ### **Recrutamento de participantes**  
 Com base no [perfil do usuário](https://github.com/Interacao-Humano-Computador/2024.2-Grupo05/blob/main/docs/entregas/entrega_2/perfil.md#perfil-de-usuário), serão recrutados participantes que:  
 - Sejam estudantes ou professores da UnB, com experiência no uso do CD-MOJ.  
@@ -68,13 +75,14 @@ Os participantes serão convidados por meio de contato direto, utilizando redes 
 
 <font size="3"><p style="text-align: left">**Tabela 1** - Cronograma do planejamento.</p></font>
 
-| **Data**      | **Atividade**                           |
-|----------------|-----------------------------------------|
-| 14/12         | Teste piloto                            |  
-| 16/12 - 20/12 | Realização das entrevistas              |
-| Até 05/01     | Registro e análise dos resultados       |
+| **Atividade**                     | **Data**        |  **Horários**                                     |   **Local**              |
+|-----------------------------------|-----------------|---------------------------------------------------|--------------------------| 
+| Teste piloto                      | 14/12           |     11:30                                         |   Plataforma Google Meet |
+| Realização das entrevistas        | 16/12 - 20/12   |     A depender da disponibilidade dos usuários    |   Plataforma Google Meet |
+| Registro e análise dos resultados | Até 05/01       |     A depender da disponibilidade dos integrantes |   Github               |
 
-Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
+
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev) 2024.
 
 ### **Ferramentas**  
 - **Comunicação:** Google Meet.  
@@ -83,7 +91,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 - **Análise de dados:** Ferramentas como Excel ou Google Sheets para tabulação das respostas e análise de feedbacks.  
 
 ### **Teste piloto**  
-O teste piloto será conduzido no dia 14/12, às 11h, com um participante representativo do público-alvo e integrante do grupo. O objetivo é:  
+O teste piloto será conduzido no dia 14/12, às 11h:30, com um participante representativo do público-alvo e integrante do grupo. O objetivo é:  
 1. Verificar a clareza das perguntas do roteiro.  
 2. Identificar possíveis problemas na condução da entrevista.  
 3. Garantir que as ferramentas e o ambiente escolhido estejam funcionando adequadamente.  
@@ -93,7 +101,7 @@ Durante o piloto, será avaliado se o formato do termo de consentimento, o rotei
 
 ## Questões Éticas  
 
-Durante a realização da avaliação do storyboard, será garantido que todos os procedimentos éticos sejam seguidos, conforme descrito em [Aspectos Éticos de Pesquisas com Pessoas e Termo de Consentimento](https://github.com/Interacao-Humano-Computador/2024.2-Grupo05/blob/main/docs/entregas/entrega_2/aspectos_eticos.md#aspectos-éticos-de-pesquisas-com-pessoas-e-termo-de-consentimento).  
+Durante a realização da avaliação do storyboard, será garantido que todos os procedimentos éticos sejam seguidos, conforme descrito em [Aspectos Éticos de Pesquisas com Pessoas e Termo de Consentimento](https://interacao-humano-computador.github.io/2024.2-Grupo05/entregas/entrega_2/aspectos_eticos/).  
 
 ### **Apresentação do Termo de Consentimento**  
 Antes do início de qualquer atividade, será apresentado aos participantes o termo de consentimento, que explicará:  
@@ -101,6 +109,18 @@ Antes do início de qualquer atividade, será apresentado aos participantes o te
 - O direito de recusar a participação ou se retirar a qualquer momento, sem prejuízo.  
 - A garantia de anonimato e confidencialidade das respostas e dados fornecidos.  
 - Informações de contato dos responsáveis pelo estudo para esclarecimento de dúvidas.  
+
+### Custos
+
+A realização das entrevistas deve ser feita de modo que não gere custos à equipe nem aos usuários. Para isso, elas serão realizadas online, utilizando as seguintes ferramentas:
+
+- [Google Meet](https://interacao-humano-computador.github.io/2024.2-Grupo05/entregas/entrega_1/ferramentas/);
+- [Perguntas para serem respondidas com a avaliação](#e-explorar-as-perguntas-especificas);
+- [Perguntas para serem respondidas na entrevista](#perguntas-aplicadas-para-cada-storyboard);
+- [Termo de Consentimento](#questoes-eticas);
+- [Teste Piloto](#teste-piloto);
+  
+É importante ressaltar que os equipamentos necessários serão quaisquer dispositivos que possuam acesso à internet, aplicativos de comunicação e navegadores de internet disponíveis para os envolvidos.
 
 ### **Consentimento Livre e Esclarecido**  
 A participação só ocorrerá mediante a assinatura do termo de consentimento. Caso o participante não concorde, ele será dispensado sem qualquer tipo de constrangimento ou pressão.  
@@ -134,7 +154,7 @@ Essa abordagem assegura que a pesquisa siga as diretrizes éticas de interação
 ## Roteiro de Entrevistas  
 
 ### **Declarações de Consentimento**  
-Antes de iniciar a entrevista, será apresentada ao participante a **[Declaração de Consentimento Livre e Esclarecido](https://github.com/Interacao-Humano-Computador/2024.2-Grupo05/blob/main/docs/entregas/entrega_2/aspectos_eticos.md#termo-de-consentimento-livre-e-esclarecido)**, garantindo a compreensão e obtenção do consentimento formal para participação.  
+Antes de iniciar a entrevista, será apresentada ao participante a **[Declaração de Consentimento Livre e Esclarecido](https://interacao-humano-computador.github.io/2024.2-Grupo05/entregas/entrega_2/aspectos_eticos/)**, garantindo a compreensão e obtenção do consentimento formal para participação.  
 
 ### **Apresentação do Storyboard**  
 O participante será introduzido ao storyboard, com uma breve explicação sobre:  
@@ -201,3 +221,4 @@ LICHESS. Interação Humano Computador. Distrito Federal, 2022. Disponível em: 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse)|09/12/2024| [Felipe Rodrigues](https://github.com/felipeJRdev) |  09/12/2024  |
+|1.1|Alterações significativas|[Felipe Rodrigues](https://github.com/felipeJRdev)|10/12/2024|  |   |

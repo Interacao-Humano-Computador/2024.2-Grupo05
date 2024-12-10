@@ -37,13 +37,13 @@ Na figura 3, storyboard apresentado trata da falta de conteúdo do FAQ para prob
 
 Autor: [João Vitor](https://github.com/Jauzimm), 2024.
 
-## Tarefa 4: .
+## Tarefa 4: Falta de mecanismos de busca.
 
-Na figura 4, .
+Na figura 4, é possível ver que o usuário tem dificuldade para encontrar algo no site por falta de mecanismos de busca.
 
-**Figura 4** - .
+**Figura 4** - Storyboard falta de mecanismos de busca.
 
-![Figura 4 - .](../../../assets/storyboard/.png)
+![Figura 4 - Falta de mecanismos de busca.](../../../assets/storyboard/storyboardBusca.png)
 
 Autor: [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
