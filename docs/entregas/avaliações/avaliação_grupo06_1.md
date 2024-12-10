@@ -88,6 +88,8 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
 
 **Link:** [Avaliação do grupo + 1](https://youtu.be/S3_gdCTLAyU)
 
+
+
 <font size="3"><p style="text-align: left">**Tabela 3** - Aspectos avaliados na entrega 3.</p></font>
 
 | | O github pages possui: | Resposta | Versão, data e horário da avaliação |
@@ -118,6 +120,29 @@ Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
 
+## Entrega 04
+
+<font size="3"><p style="text-align: left">**Tabela 4** - Aspectos avaliados na entrega 4.</p></font>
+
+| | O github pages possui: | Resposta | Versão, data e horário da avaliação |
+|-| ---------------------- | -------- | ----------------------------------- |
+| Itens do Desenvolvimento do projeto. | Todos os 9 itens:| Sim | 03/12/2024, 22:56 |
+| | 2 - O planejamento da avaliação segue o Framework DECIDE? | | |
+| | 3- Descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual) | | |
+| | 4 - Os métodos de avaliação a serem utilizados? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando os métodos de avaliação. Autor: | | |
+| | 5 - As questões práticas da avaliação (sobre o recrutamento dos usuários que participarão da avaliação (onde e o perfil), quantos usuários participarão da avaliação e a razão dessa quantidade, presencial real ou remota; a preparação e o uso dos equipamentos necessários, os prazos; o orçamento; recursos de mão-de-obra necessária para conduzir a avaliação)? | | |
+| | 6 - As questões éticas ( se os participantes da avaliação devem ser respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados da avaliação.)? | | |
+| | 7 - A estrutura do relatório do resultado da avaliação (os objetivos da avaliação; uma breve descrição do método de prototipação em papel; o número e o perfil de avaliadores e dos participantes; as tarefas executadas pelos participantes; lista de problemas encontrados etc)? | | |
+| | 8 - Um cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas? | | |
+| | 9 – cada desenho do StoryBoard está relacionado uma especificação do artefato da Análise de Tarefas? | | |
+| | 10 – quantidade de storyboards é igual a quantidade de integrantes do grupo? | | |
+| | 11 - A definição do teste piloto e data para realização do teste piloto antes da avaliação? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o teste piloto. Autor: | | |
+| | 12 - O resultado do teste piloto não será apresentado no resultado da avaliação? | | |
+| | 13 - Os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)? | | |
+| Importante | Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. | | |
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
+
 ## Bibliografia
 
 SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
@@ -132,4 +157,5 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.1   | Reavaliação após feedback | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) |   24/11/2024   |
 |  1.2   | Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |
 |  1.3   | Adição da avaliação do grupo +1, etapa 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 04/12/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 04/12/2024 |
+|  1.4   | Criação da tabela de avaliação 4 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/12/2024 |  |  |
 
