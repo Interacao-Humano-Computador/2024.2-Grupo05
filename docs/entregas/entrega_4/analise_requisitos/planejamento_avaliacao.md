@@ -20,7 +20,7 @@ Os objetivos específicos incluem:
 
 Será utilizado o framework DECIDE para o planejamento dessa avaliação, estruturando o processo em seis etapas a serem seguidas.
 
-![Figura do framework DECIDE](../../assets/Framework_DECIDE.jpeg)
+![Figura do framework DECIDE](../../../assets/Framework_DECIDE.jpeg)
 
 # FRAMEWORK DECIDE
 
