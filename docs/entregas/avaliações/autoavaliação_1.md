@@ -18,14 +18,6 @@ Nesta primeira entrega do projeto estão contidos os seguintes pontos:
 - Atas das reuniões;
 - Gravação da apresentação.
 
-### Link para a apresentação
-
-<font size="3"><p style="text-align: left">**Vídeo 1** - Apresentação da entrega 1.</p></font>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKWQ8WywFNY?si=6qIOqVE_-W7FWPR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Link:** [Apresentação](https://www.youtube.com/watch?v=aKWQ8WywFNY&t=1s&ab_channel=MarceloAdrian)
-
 ### Aspectos avaliados
 
 <font size="3"><p style="text-align: left">**Tabela 1** - Aspectos avaliados na entrega 1.</p></font>
@@ -63,7 +55,8 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 **Figura 1** - Gráfico das respostas avaliadas na entrega 1 </p>
 
-![Respostas](../../assets/AutoAV_Grafico.png)
+![Respostas](../../assets/AutoAV_Grafico1.png) </p>
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ---
 
@@ -109,6 +102,11 @@ Nesta segunda entrega do projeto estão contidos os seguintes pontos:
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
+**Figura 2** - Gráfico das respostas avaliadas na entrega 2 </p>
+
+![Respostas](../../assets/AutoAV_Grafico2.png) </p>
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
 ## Entrega 03
 
 Nesta terceira entrega do projeto estão contidos os seguintes pontos:
@@ -143,6 +141,53 @@ Nesta terceira entrega do projeto estão contidos os seguintes pontos:
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
+**Figura 3** - Gráfico das respostas avaliadas na entrega 3 </p>
+
+![Respostas](../../assets/AutoAV_Grafico3.png) </p>
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
+## Entrega 04
+
+Nesta quarta entrega do projeto estão contidos os seguintes pontos:
+
+- Planejamento da avaliação do Storyboard e Análise de tarefas
+- Planejamento do relato dos resultados da avaliação do Storyboard
+- Planejamento do relato dos resultados da avaliação da Análise de tarefas
+
+### Link para a apresentação
+
+<font size="3"><p style="text-align: left">**Vídeo 4** - Apresentação da entrega 4.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tjb-s9Sc0cg?si=VKMT7u_rGCSpjGqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Link:** [Apresentação](https://youtu.be/Tjb-s9Sc0cg)
+
+<font size="3"><p style="text-align: left">**Tabela 4** - Aspectos avaliados na entrega 4.</p></font>
+
+| | O github pages possui: | Resposta | Versão, data e horário da avaliação |
+|-| ---------------------- | -------- | ----------------------------------- |
+| Itens do Desenvolvimento do projeto. | Todos os 9 itens:| Sim | 10/12/2024, 21:56 |
+| | 2 - O planejamento da avaliação segue o Framework DECIDE? | sim | 1.1, 10/12/2024, 21:57 |
+| | 3- Descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual) | sim | 1.1, 10/12/2024, 21:58 |
+| | 4 - Os métodos de avaliação a serem utilizados? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando os métodos de avaliação. Autor: Simone Barbosa | sim | 1.1, 10/12/2024, 21:59 |
+| | 5 - As questões práticas da avaliação (sobre o recrutamento dos usuários que participarão da avaliação (onde e o perfil), quantos usuários participarão da avaliação e a razão dessa quantidade, presencial real ou remota; a preparação e o uso dos equipamentos necessários, os prazos; o orçamento; recursos de mão-de-obra necessária para conduzir a avaliação)? | sim | 1.1, 10/12/2024, 22:00 |
+| | 6 - As questões éticas ( se os participantes da avaliação devem ser respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados da avaliação.)? | sim | 1.0, 10/12/2024, 22:01 |
+| | 7 - A estrutura do relatório do resultado da avaliação (os objetivos da avaliação; uma breve descrição do método de prototipação em papel; o número e o perfil de avaliadores e dos participantes; as tarefas executadas pelos participantes; lista de problemas encontrados etc)? | sim | 1.1, 10/12/2024, 22:06 |
+| | 8 - Um cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas? | sim | 1.0, 10/12/2024, 22:07 |
+| | 9 – cada desenho do StoryBoard está relacionado uma especificação do artefato da Análise de Tarefas? | sim | 1.0, 10/12/2024, 22:07 |
+| | 10 – quantidade de storyboards é igual a quantidade de integrantes do grupo? | sim | 1.0, 10/12/2024, 22:09 |
+| | 11 - A definição do teste piloto e data para realização do teste piloto antes da avaliação? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o teste piloto. Autor: Simone Barbosa | sim | 1.0, 10/12/2024, 22:11 |
+| | 12 - O resultado do teste piloto não será apresentado no resultado da avaliação? | sim | 1.0, 10/12/2024, 22:12 |
+| | 13 - Os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)? | sim | 1.0, 10/12/2024, 22:08 |
+| Importante | Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. | sim | 10/12/2024, 21:54 |
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
+
+**Figura 4** - Gráfico das respostas avaliadas na entrega 4 </p>
+
+![Respostas](../../assets/AutoAV_Grafico4.png) </p>
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
 ## Bibliografia
 
 SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
@@ -158,3 +203,4 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.2   | Padronização de Referências Bibliográficas, Bibliografia e Autor(es) | [Felipe Rodrigues](https://github.com/felipeJRdev)  | 23/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   24/11/2024    |
 |  1.3   | Criação inicial da Autoavaliação 2 | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | 02/12/2024 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 |
 |  1.4   | Adição da autoavaliação 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 03/12/2024 |
+|  1.5   | Criação da tabela 4 e adição de gráficos | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   10/12/2024    |
