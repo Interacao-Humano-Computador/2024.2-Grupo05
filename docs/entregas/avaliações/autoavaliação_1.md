@@ -203,4 +203,4 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.2   | Padronização de Referências Bibliográficas, Bibliografia e Autor(es) | [Felipe Rodrigues](https://github.com/felipeJRdev)  | 23/11/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   24/11/2024    |
 |  1.3   | Criação inicial da Autoavaliação 2 | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | 02/12/2024 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 |
 |  1.4   | Adição da autoavaliação 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 03/12/2024 |
-|  1.5   | Criação da tabela 4 e adição de gráficos | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/12/2024 |  |  |
+|  1.5   | Criação da tabela 4 e adição de gráficos | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   10/12/2024    |
