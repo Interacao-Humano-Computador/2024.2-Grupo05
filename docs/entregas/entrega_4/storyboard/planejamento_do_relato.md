@@ -20,12 +20,19 @@ A avaliação dos storyboards foi realizada com o objetivo de:
 
 ### **Metodologia**
 A metodologia adotada para esta avaliação segue as etapas descritas no planejamento da avaliação:
+
 1. **Framework DECIDE:** O framework DECIDE será utilizado para orientar a avaliação, considerando os seguintes aspectos:
+
    - **D**efinir os objetivos da avaliação.
+
    - **E**stabelecer os critérios de decisão.
+
    - **C**olher as evidências necessárias.
+
    - **I**nterpretar os dados coletados.
+
    - **D**ocumentar os resultados de forma clara.
+   
    - **E**laborar recomendações baseadas nos resultados obtidos.
 
 2. **Testes Piloto e Entrevistas:** Durante o teste piloto e as entrevistas com usuários representativos do público-alvo do CD-MOJ, será avaliada a percepção dos participantes sobre os storyboards.
