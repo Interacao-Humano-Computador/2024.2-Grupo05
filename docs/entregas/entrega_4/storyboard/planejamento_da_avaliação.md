@@ -227,4 +227,4 @@ LICHESS. Interação Humano Computador. Distrito Federal, 2022. Disponível em: 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse)|09/12/2024| [Felipe Rodrigues](https://github.com/felipeJRdev) |  09/12/2024  |
-|1.1|Alterações significativas|[Felipe Rodrigues](https://github.com/felipeJRdev)|10/12/2024|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|12/12/2024|
+|1.1|Alterações significativas|[Felipe Rodrigues](https://github.com/felipeJRdev)|10/12/2024|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|10/12/2024|
