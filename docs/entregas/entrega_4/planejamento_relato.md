@@ -35,23 +35,23 @@ Baseado no livro simone barbosa existem os seguintes items que devem entrar no r
 
 Para a documentação do relato da avaliação deverá possuir os seguintes topicos listados abaixo:
 
-### Objetivo da avaliação
+### 1. Objetivo da avaliação
 
 Nesta fase, é necessario que o redator do documentoesclarecer o motivo pelo qual a avaliação está sendo conduzida e detalhar os objetivos que o grupo visa atingir com a análise de tarefas. Isso inclui justificar a relevância da avaliação, explicar as expectativas e metas definidas, além de apresentar uma visão geral do propósito e do contexto em que a avaliação está inserida.
 
-### Método de prototipação em papel
+### 2. Método de prototipação em papel
 
 Inclua uma breve descrição do método de prototipação em papel utilizado. Explique como o protótipo foi construído e de que maneira ele foi usado durante a avaliação para simular a interação dos participantes com o sistema.
 
-### O número e o perfil de avaliadores e dos participantes
+### 3. O número e o perfil de avaliadores e dos participantes
 
 No relato, deve-se incluir a quantidade de usuários e avaliadores presentes durante a avaliação. Além disso, é necessário indicar se os participantes se enquadram no perfil de usuário definido no projeto.
 
-### As tarefas executadas pelos participantes
+### 4. As tarefas executadas pelos participantes
 
 Liste as tarefas propostas para os participantes durante a avaliação, explicando brevemente cada uma. Inclua informações sobre os objetivos das tarefas e como elas se relacionam com os principais fluxos do sistema.
 
-### Problemas de usabilidade corrigidos
+### 5. Problemas de usabilidade corrigidos
 
 Apresente os problemas de usabilidade identificados e corrigidos durante os ciclos de avaliação e reprojeto. Para cada problema, informe:
 
@@ -65,9 +65,7 @@ Apresente os problemas de usabilidade identificados e corrigidos durante os cicl
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
 | | | | | |
 
-
-
-### Problemas de usabilidade ainda não corrigidos
+### 6. Problemas de usabilidade ainda não corrigidos
 
 Liste os problemas de usabilidade que não foram corrigidos, especificando:
 
@@ -81,12 +79,16 @@ Liste os problemas de usabilidade que não foram corrigidos, especificando:
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
 | | | | | |
 
-### Partes do sistema que podem ser melhor elaboradas
+### 7. Partes do sistema que podem ser melhor elaboradas
 
 Indique partes do sistema que poderiam ser mais bem elaboradas, mesmo que não tenham apresentado problemas graves de usabilidade. Sugerir melhorias no design, nas funcionalidades ou na experiência do usuário pode agregar valor ao projeto.
+
+## Bibliografia
+
+BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
 
 ## Histórico de Versão
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do planejamento do resultado | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 |  |  |
+|  1.0   | Criação do planejamento do resultado | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
