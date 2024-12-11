@@ -41,7 +41,7 @@ Com o objetivo definido, é necessário elaborar algumas perguntas específicas 
 | 3          | Qual seu nível de escolaridade?                                              | Resposta discursiva                      |
 | 4          | Qual a sua ocupação?                                                        | Resposta discursiva                      |
 | 5          | Qual seu grau de experiência com tecnologias?                               | [ ] Iniciante, [ ] Intermediário, [ ] Avançado, [ ] Especialista |
-| 6          | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnológicos? | [ ] Muito boa, [ ] Boa, [ ] Média, [ ] Ruim, [ ] Muito ruim |
+| 6          | Como você descreveria seu grau de experiência e facilidade em utilizar dispositivos tecnológicos? | [ ] Muito boa, [ ] Boa, [ ] Média, [ ] Ruim, [ ] Muito ruim |
 | 7          | Você utiliza o CDMOJ?                                                       | [ ] Sim, [ ] Não                         |
 | 8          | As etapas descritas na tarefa refletem sua experiência real com o CD-MOJ?    | [ ] Sim, [ ] Não                         |
 | 9          | Alguma etapa lhe pareceu confusa ou desnecessária? Qual?                     | Resposta discursiva                      |
@@ -119,4 +119,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avalia
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
-|  1.1   | Alteração nas perguntas | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 |  |  |
+|  1.1   | Alteração nas perguntas | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
