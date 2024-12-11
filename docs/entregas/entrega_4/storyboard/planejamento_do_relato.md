@@ -7,10 +7,15 @@ O relato de resultados tem como objetivo documentar os resultados obtidos a part
 
 ### **Objetivos da Avaliação**
 A avaliação dos storyboards foi realizada com o objetivo de:
+
 - **Verificar a clareza e coerência** na comunicação das propostas de solução apresentadas nos storyboards.
+
 - **Avaliar o alinhamento com as heurísticas de usabilidade de Nielsen**, identificando se as soluções propostas seguem princípios de design eficiente e eficaz.
+
 - **Analisar a usabilidade do storyboard** como ferramenta para guiar implementações no site, verificando sua aplicabilidade prática no processo de desenvolvimento.
+
 - **Observar a estética e o apelo visual**, garantindo que as soluções propostas sejam atraentes e intuitivas para os usuários.
+
 - **Avaliar a capacidade de resolução dos problemas identificados no CD-MOJ**, garantindo que o storyboard aborde as questões de usabilidade e navegação de forma clara e eficiente.
 
 ### **Metodologia**

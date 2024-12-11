@@ -5,11 +5,17 @@
 O planejamento da avaliação de storyboards é uma etapa crucial, pois assegura que os elementos visuais, narrativos e funcionais atendam aos requisitos do projeto e às expectativas do público-alvo. Para estruturar essa avaliação, utilizamos o framework **DECIDE**, uma metodologia aplicada na Interação Humano-Computador (IHC) que fornece um conjunto de etapas sistemáticas para conduzir avaliações. 
 
 O framework DECIDE é composto por seis fases principais: 
+
 - D: **Determinar os objetivos gerais da avaliação**
+
 - E: **Explorar as perguntas específicas**
+
 - C: **Escolher os métodos de avaliação**
+
 - I: **Identificar os aspectos práticos**
+
 - D: **Decidir como lidar com questões éticas** 
+
 - E: **Explorar como interpretar os dados coletados**
 
 ## Metodologia
