@@ -38,11 +38,13 @@ nav:
           - Metas de usabilidade: entregas/entrega_3/metas_de_usabilidade.md
           - Entrega: entregas/entrega_3/entrega_3.md
       - Design, Avaliação e Desenvolvimento:
-          - Planejamento da Avaliação do Storyboard: entregas/entrega_4/storyboard/planejamento_da_avaliação.md
-          - Planejamento do Relato dos Resultados do Storyboard: entregas/entrega_4/storyboard/planejamento_do_relato.md
-          - Storyboards: entregas/entrega_4/storyboard/storyboards.md
-          - Planejamento da Avaliação da Análise de Tarefas: entregas/entrega_4/analise_requisito/planejamento_avaliacao.md
-          - Planejamento do relato de resultados da avaliação da análise de tarefas: entregas/entrega_4/analise_requisito/planejamento_relato.md
+          - Storyboard:
+              - Planejamento da Avaliação do Storyboard: entregas/entrega_4/storyboard/planejamento_da_avaliação.md
+              - Planejamento do Relato dos Resultados do Storyboard: entregas/entrega_4/storyboard/planejamento_do_relato.md
+              - Storyboards: entregas/entrega_4/storyboard/storyboards.md
+          - Analise de tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas: entregas/entrega_4/analise_requisito/planejamento_avaliacao.md
+              - Planejamento do relato de resultados da avaliação da análise de tarefas: entregas/entrega_4/analise_requisito/planejamento_relato.md
       - Avaliações:
           - Autoavaliação: entregas/avaliações/autoavaliação_1.md
           - Avaliação Grupo 6: entregas/avaliações/avaliação_grupo06_1.md
