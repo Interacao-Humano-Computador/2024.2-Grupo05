@@ -126,22 +126,29 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
 
 | | O github pages possui: | Resposta | Versão, data e horário da avaliação |
 |-| ---------------------- | -------- | ----------------------------------- |
-| Itens do Desenvolvimento do projeto. | Todos os 9 itens:| Sim | 03/12/2024, 22:56 |
-| | 2 - O planejamento da avaliação segue o Framework DECIDE? | | |
-| | 3- Descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual) | | |
-| | 4 - Os métodos de avaliação a serem utilizados? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando os métodos de avaliação. Autor: | | |
-| | 5 - As questões práticas da avaliação (sobre o recrutamento dos usuários que participarão da avaliação (onde e o perfil), quantos usuários participarão da avaliação e a razão dessa quantidade, presencial real ou remota; a preparação e o uso dos equipamentos necessários, os prazos; o orçamento; recursos de mão-de-obra necessária para conduzir a avaliação)? | | |
-| | 6 - As questões éticas ( se os participantes da avaliação devem ser respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados da avaliação.)? | | |
-| | 7 - A estrutura do relatório do resultado da avaliação (os objetivos da avaliação; uma breve descrição do método de prototipação em papel; o número e o perfil de avaliadores e dos participantes; as tarefas executadas pelos participantes; lista de problemas encontrados etc)? | | |
-| | 8 - Um cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas? | | |
-| | 9 – cada desenho do StoryBoard está relacionado uma especificação do artefato da Análise de Tarefas? | | |
-| | 10 – quantidade de storyboards é igual a quantidade de integrantes do grupo? | | |
-| | 11 - A definição do teste piloto e data para realização do teste piloto antes da avaliação? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o teste piloto. Autor: | | |
-| | 12 - O resultado do teste piloto não será apresentado no resultado da avaliação? | | |
-| | 13 - Os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)? | | |
-| Importante | Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. | | |
+| Itens do Desenvolvimento do projeto. | Todos os 9 itens:| Sim | 11/12/2024, 22:56 |
+| | 2 - O planejamento da avaliação segue o Framework DECIDE? | sim | 1.0, 11/12/2024, 20:21 |
+| | 3- Descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual) | sim | 1.0, 11/12/2024, 20:22 |
+| | 4 - Os métodos de avaliação a serem utilizados? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando os métodos de avaliação. Autor: | sim | 1.0, 11/12/2024, 20:23 |
+| | 5 - As questões práticas da avaliação (sobre o recrutamento dos usuários que participarão da avaliação (onde e o perfil), quantos usuários participarão da avaliação e a razão dessa quantidade, presencial real ou remota; a preparação e o uso dos equipamentos necessários, os prazos; o orçamento; recursos de mão-de-obra necessária para conduzir a avaliação)? | sim | 1.0, 11/12/2024, 20:24 |
+| | 6 - As questões éticas ( se os participantes da avaliação devem ser respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados da avaliação.)? | sim | 1.0, 11/12/2024, 20:26  |
+| | 7 - A estrutura do relatório do resultado da avaliação (os objetivos da avaliação; uma breve descrição do método de prototipação em papel; o número e o perfil de avaliadores e dos participantes; as tarefas executadas pelos participantes; lista de problemas encontrados etc)? | incompleto | 1.0, 11/12/2024, 20:31 |
+| | 8 - Um cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas? | incompleto | 1.0, 11/12/2024, 20:33 |
+| | 9 – cada desenho do StoryBoard está relacionado uma especificação do artefato da Análise de Tarefas? | sim | 1.5, 11/12/20:35 |
+| | 10 – quantidade de storyboards é igual a quantidade de integrantes do grupo? | sim | 1.5, 11/12/2024, 20:36 |
+| | 11 - A definição do teste piloto e data para realização do teste piloto antes da avaliação? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o teste piloto. Autor: | sim | 1.0, 11/12/2024, 20:38 |
+| | 12 - O resultado do teste piloto não será apresentado no resultado da avaliação? | sim | 1.0, 11/12/2024, 20:39 |
+| | 13 - Os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)? | sim | 1.0, 11/12/2024, 20:41 |
+| Importante | Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. | sim | 11/12/2024, 20:42 |
 
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
+
+**Figura 4** - Gráfico das respostas avaliadas na entrega 4 </p>
+
+![Respostas](../../assets/AV_G6_Grafico4.png)
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024
+
 
 ## Bibliografia
 
@@ -157,5 +164,5 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.1   | Reavaliação após feedback | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 24/11/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) |   24/11/2024   |
 |  1.2   | Padronização de Referências Bibliográficas, Bibliografia e Autor(es)|[Felipe Rodrigues](https://github.com/felipeJRdev)|23/11/2024|  [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  24/11/2024 |
 |  1.3   | Adição da avaliação do grupo +1, etapa 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 04/12/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 04/12/2024 |
-|  1.4   | Criação da tabela de avaliação 4 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/12/2024 |  |  |
+|  1.4   | Realização da avaliação 4 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 11/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 11/12/2024 |
 
