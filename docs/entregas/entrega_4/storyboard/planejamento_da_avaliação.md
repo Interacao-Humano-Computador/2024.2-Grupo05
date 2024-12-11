@@ -142,7 +142,7 @@ Essa abordagem assegura que a pesquisa siga as diretrizes éticas de interação
 **Título:** Avaliação da Interação Humano-Computador da Plataforma CD-MOJ NAQUADAH.
 **Projeto:** Grupo 5 - Interação Humano-Computador  
 
-**Descrição do Estudo:** Estamos realizando uma pesquisa acerca dos aspectos de **Interação Humano-Computador** da plataforma **CD-MOJ NAQUADAH**, visando avaliar e propor melhorias no sistema. Solicitamos sua colaboração na realização de uma atividade relacionada ao estudo, com duração estimada de **[tempo estimado]**.  
+**Descrição do Estudo:** Estamos realizando uma pesquisa acerca dos aspectos de **Interação Humano-Computador** da plataforma **CD-MOJ NAQUADAH**, visando avaliar e propor melhorias no sistema. Solicitamos sua colaboração na realização de uma atividade relacionada ao estudo, com duração estimada de 20 minutos.  
 
 #### **Informações Relevantes:**  
 1. **Participação voluntária:** Sua participação é **inteiramente voluntária**, e você poderá interrompê-la a qualquer momento sem necessidade de justificativa ou prejuízo de qualquer natureza.  
@@ -221,4 +221,4 @@ LICHESS. Interação Humano Computador. Distrito Federal, 2022. Disponível em: 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse)|09/12/2024| [Felipe Rodrigues](https://github.com/felipeJRdev) |  09/12/2024  |
-|1.1|Alterações significativas|[Felipe Rodrigues](https://github.com/felipeJRdev)|10/12/2024|  |   |
+|1.1|Alterações significativas|[Felipe Rodrigues](https://github.com/felipeJRdev)|10/12/2024|[Marcelo Adrian](https://github.com/Marcelo-Adrian)|12/12/2024|
