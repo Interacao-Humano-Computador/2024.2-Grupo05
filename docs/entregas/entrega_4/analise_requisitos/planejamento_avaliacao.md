@@ -34,13 +34,22 @@ Com o objetivo definido, é necessário elaborar algumas perguntas específicas 
 
 <font size="3"><p style="text-align: left">**Tabela 1**: Tabela de perguntas especificas a serem respondidas durante a avaliação.</p></font>
 
-| Número | Pergunta | Resposta |
-|:------:|:--------:|:--------:|
-| 1 | As etapas descritas na tarefa refletem sua experiência real com o CD-MOJ? | [ ] Sim, [ ] Não |
-| 2 | Alguma etapa lhe pareceu confusa ou desnecessária? Qual? | Pergunta discursiva |
-| 3 | Quais dificuldades você enfrentou ao realizar a tarefa descrita? | Resposta discursiva |
-| 4 | Há algo que você sugere incluir ou modificar nas etapas apresentadas? | Pergunta discursiva |
-| 5 | A interface do sistema contribuiu para a realização eficiente da tarefa? Por quê? | Pergunta discursiva |
+| **Número** | **Pergunta**                                                                 | **Resposta**                             |
+|:----------:|:----------------------------------------------------------------------------:|:----------------------------------------:|
+| 1          | Qual o seu nome?                                                            | Resposta discursiva                      |
+| 2          | Quantos anos você tem?                                                      | Resposta discursiva                      |
+| 3          | Qual seu nível de escolaridade?                                              | Resposta discursiva                      |
+| 4          | Qual a sua ocupação?                                                        | Resposta discursiva                      |
+| 5          | Qual seu grau de experiência com tecnologias?                               | [ ] Iniciante, [ ] Intermediário, [ ] Avançado, [ ] Especialista |
+| 6          | Como você descreveria seu grau de experiência e facilidade em utilizar dispositivos tecnológicos? | [ ] Muito boa, [ ] Boa, [ ] Média, [ ] Ruim, [ ] Muito ruim |
+| 7          | Você utiliza o CDMOJ?                                                       | [ ] Sim, [ ] Não                         |
+| 8          | As etapas descritas na tarefa refletem sua experiência real com o CD-MOJ?    | [ ] Sim, [ ] Não                         |
+| 9          | Alguma etapa lhe pareceu confusa ou desnecessária? Qual?                     | Resposta discursiva                      |
+| 10         | Quais dificuldades você enfrentou ao realizar a tarefa descrita?             | Resposta discursiva                      |
+| 11         | Há algo que você sugere incluir ou modificar nas etapas apresentadas?        | Resposta discursiva                      |
+| 12         | A interface do sistema contribuiu para a realização eficiente da tarefa? Por quê? | Resposta discursiva                      |
+
+
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
@@ -73,11 +82,11 @@ Cada entrevistador conduzirá uma sessão com duração aproximada de 20 minutos
 
 | Entrevistador(es)                       | Entrevistado(s)           | Horário de Início | Horário de Fim | Data       | Local              |
 |:--------------------------------------:|:-------------------------:|:----------------:|:--------------:|:----------:|:------------------:|
-| [Felipe Rodrigues](https://github.com/felipeJRdev)  |  | A definir | A definir | 18/12/2024 | Plataforma Google Meet |
-| [Jéssica Eveline](https://github.com/xzxjesse)      |  | A definir | A definir | 18/12/2024 | Plataforma Google Meet |
-| [João Vitor](https://github.com/Jauzimm)            |  | A definir | A definir | 18/12/2024 | Plataforma Google Meet  |
-| [Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  | A definir | A definir | 18/12/2024 | Plataforma Google Meet  |
-| [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  | A definir | A definir | 18/12/2024 | Plataforma Google Meet |
+| [Felipe Rodrigues](https://github.com/felipeJRdev)  |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet |
+| [Jéssica Eveline](https://github.com/xzxjesse)      |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet |
+| [João Vitor](https://github.com/Jauzimm)            |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet  |
+| [Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet  |
+| [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet |
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
@@ -88,6 +97,7 @@ Os participantes serão informados sobre os objetivos da avaliação e o uso de 
 ## E - Avaliar (Evaluate)
 
 Após a coleta de dados, as respostas serão analisadas para identificar padrões e discrepâncias. O avaliador considerará a confiabilidade dos dados, a validade interna, externa e ecológica do estudo, garantindo que os resultados sejam consistentes, precisos e aplicáveis a contextos semelhantes. Os problemas identificados serão classificados por gravidade, e as sugestões dos participantes serão priorizadas para a implementação de melhorias no CD-MOJ.
+
 ## Planejamento do Teste Piloto
 
 Antes de realizar a avaliação completa, é fundamental conduzir um teste piloto. Esse teste tem como objetivo validar o planejamento da avaliação, garantir que todos os procedimentos estão claros e funcionais, e permitir ajustes necessários. Além disso, o teste piloto ajuda a identificar possíveis falhas nos métodos, questões de usabilidade e a eficácia do roteiro de entrevista. Segue a tabela abaixo com a marcação do teste piloto.
@@ -109,3 +119,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avalia
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
+|  1.1   | Alteração nas perguntas | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
