@@ -34,20 +34,23 @@ Com o objetivo definido, é necessário elaborar algumas perguntas específicas 
 
 <font size="3"><p style="text-align: left">**Tabela 1**: Tabela de perguntas especificas a serem respondidas durante a avaliação.</p></font>
 
+# Formulário - Análise de Tarefa no CD-MOJ
+
 | **Número** | **Pergunta**                                                                 | **Resposta**                             |
-|:----------:|:----------------------------------------------------------------------------:|:----------------------------------------:|
+|------------|------------------------------------------------------------------------------|------------------------------------------|
 | 1          | Qual o seu nome?                                                            | Resposta discursiva                      |
 | 2          | Quantos anos você tem?                                                      | Resposta discursiva                      |
-| 3          | Qual seu nível de escolaridade?                                              | Resposta discursiva                      |
-| 4          | Qual a sua ocupação?                                                        | Resposta discursiva                      |
-| 5          | Qual seu grau de experiência com tecnologias?                               | [ ] Iniciante, [ ] Intermediário, [ ] Avançado, [ ] Especialista |
-| 6          | Como você descreveria seu grau de experiência e facilidade em utilizar dispositivos tecnológicos? | [ ] Muito boa, [ ] Boa, [ ] Média, [ ] Ruim, [ ] Muito ruim |
-| 7          | Você utiliza o CDMOJ?                                                       | [ ] Sim, [ ] Não                         |
-| 8          | As etapas descritas na tarefa refletem sua experiência real com o CD-MOJ?    | [ ] Sim, [ ] Não                         |
-| 9          | Alguma etapa lhe pareceu confusa ou desnecessária? Qual?                     | Resposta discursiva                      |
-| 10         | Quais dificuldades você enfrentou ao realizar a tarefa descrita?             | Resposta discursiva                      |
-| 11         | Há algo que você sugere incluir ou modificar nas etapas apresentadas?        | Resposta discursiva                      |
+| 3          | Qual o seu nível de escolaridade?                                           | Resposta discursiva                      |
+| 4          | Qual é a sua ocupação?                                                     | Resposta discursiva                      |
+| 5          | Você já utilizou algum juiz online?                                         | [ ] Sim, [ ] Não                         |
+| 6          | Você conhece o CD-MOJ?                                                     | [ ] Sim, [ ] Não                         |
+| 7          | Você utiliza o CD-MOJ?                                                     | [ ] Sim, [ ] Não                         |
+| 8          | Qual é o seu objetivo principal ao utilizar o CD-MOJ?                      | Resposta discursiva                      |
+| 9         | As etapas descritas na tarefa refletem sua experiência real com o CD-MOJ?   | [ ] Sim, [ ] Não                         |
+| 10         | Alguma etapa da tarefa lhe pareceu confusa ou desnecessária? Qual?         | Resposta discursiva                      |
+| 11         | Quais dificuldades você enfrentou ao realizar a tarefa descrita?           | Resposta discursiva                      |
 | 12         | A interface do sistema contribuiu para a realização eficiente da tarefa? Por quê? | Resposta discursiva                      |
+| 13         | Há algo que você sugere incluir ou modificar nas etapas apresentadas?       | Resposta discursiva                      |
 
 
 
@@ -120,3 +123,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avalia
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
 |  1.1   | Alteração nas perguntas | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
+|  1.2   | Correção e alteração nas perguntas  | [João Vitor](https://github.com/Jauzimm) | 15/12/2024 |  |  |
