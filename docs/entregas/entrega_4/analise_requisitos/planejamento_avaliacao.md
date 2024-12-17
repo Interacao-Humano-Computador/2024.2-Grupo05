@@ -42,14 +42,14 @@ Com o objetivo definido, é necessário elaborar algumas perguntas específicas 
 | 2          | Quantos anos você tem?                                                      | Resposta discursiva                      |
 | 3          | Qual o seu nível de escolaridade?                                           | Resposta discursiva                      |
 | 4          | Qual é a sua ocupação?                                                     | Resposta discursiva                      |
-| 5          | Você já utilizou algum juiz online?                                         | [ ] Sim, [ ] Não                         |
+| 5          | Você já utilizou algum juiz online? Se sim, qual?                                         | Resposta discursiva                      |
 | 6          | Você conhece o CD-MOJ?                                                     | [ ] Sim, [ ] Não                         |
 | 7          | Você utiliza o CD-MOJ?                                                     | [ ] Sim, [ ] Não                         |
 | 8          | Qual é o seu objetivo principal ao utilizar o CD-MOJ?                      | Resposta discursiva                      |
 | 9         | As etapas descritas na tarefa refletem sua experiência real com o CD-MOJ?   | [ ] Sim, [ ] Não                         |
 | 10         | Alguma etapa da tarefa lhe pareceu confusa ou desnecessária? Qual?         | Resposta discursiva                      |
-| 11         | Quais dificuldades você enfrentou ao realizar a tarefa descrita?           | Resposta discursiva                      |
-| 12         | A interface do sistema contribuiu para a realização eficiente da tarefa? Por quê? | Resposta discursiva                      |
+| 11         | Você enfrentou alguma dificuldade ao realizar as tarefas descritas? Se sim, qual?           | Resposta discursiva                      | 
+| 12         | Você achou a interface intuitiva para a realização eficiente das tarefas? Não, por quê? | Resposta discursiva                      |
 | 13         | Há algo que você sugere incluir ou modificar nas etapas apresentadas?       | Resposta discursiva                      |
 
 
