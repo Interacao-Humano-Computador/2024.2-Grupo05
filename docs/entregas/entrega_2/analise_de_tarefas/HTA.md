@@ -93,52 +93,38 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
-### **Problema com o FAQ**
+### **Submeter uma questão no treinamento livre.**
 
 #### **Diagrama HTA:**
 
-```plaintext
-Tarefa Principal: Resolver o problema com o FAQ e entregar a atividade da disciplina
-|
-|--- 1. O usuário acessa o site do CD-MOJ
-|--- 2. O usuário navega até o contest da disciplina cursada
-|    |
-|    |--- 2.1 O usuário acessa o contest
-|    |--- 2.2 O usuário começa a analisar as questões
-|    |--- 2.3 O usuário realiza as questões
-|--- 3. O usuário se depara com o erro "Time Limit Exceeded, 0p"
-|--- 4. O usuário percorre o FAQ do CD-MOJ
-|--- 5. O usuário não encontra explicações sobre o problema
-|--- 6. O usuário busca soluções em fóruns
-|--- 7. O usuário compreende o que aconteceu e resolve o problema
-|--- 8. O usuário reenvia sua atividade
-```
+**Figura 3** - Diagrama Submeter uma questão no treinamento livre.
+
+![Figura 3 - Diagrama Submeter uma questão no treinamento livre.](../../../assets/diagramas/hta_diagramaSubmeterTreino.jpeg)
 
 Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
 
 #### **Legenda do Diagrama:**
 
-- **Tarefa Principal**: A tarefa principal a ser realizada é resolver o problema com o FAQ e entregar a atividade.
+- **Tarefa Principal**: A tarefa principal a ser realizada é submeter uma questão no treino livre.
 - **Sub-tarefas**: As tarefas que devem ser realizadas para completar a tarefa principal, divididas em etapas menores.
 - **Setas**: Indicam a sequência de execução das tarefas.
+- **Quadrados com linha abaixo**: Indica uma operação que será realizada.
 
 #### **Representação em Tabela (HTA)**
 
-**Tabela 3:** Tabela HTA Problema com o FAQ.
+**Tabela 3:** Tabela HTA Submeter uma questão no treinamento livre.
 
 | **Número da Tarefa** | **Descrição da Tarefa**                                   | **Dependência** |
 | -------------------- | --------------------------------------------------------- | --------------- |
-| 1                    | O usuário acessa o site do CD-MOJ                         | Nenhuma         |
-| 2                    | O usuário navega até o contest da disciplina cursada      | 1               |
-| 2.1                  | O usuário acessa o contest                                | 2               |
-| 2.2                  | O usuário começa a analisar as questões                   | 2.1             |
-| 2.3                  | O usuário realiza as questões                             | 2.2             |
-| 3                    | O usuário se depara com o erro "Time Limit Exceeded, 0p"  | 2.3             |
-| 4                    | O usuário percorre o FAQ do CD-MOJ                        | 3               |
-| 5                    | O usuário não encontra explicações sobre o problema       | 4               |
-| 6                    | O usuário busca soluções em fóruns                        | 5               |
-| 7                    | O usuário compreende o que aconteceu e resolve o problema | 6               |
-| 8                    | O usuário reenvia sua atividade                           | 7               |
+| 0     | Submeter uma questão no treinamento livre. | Nenhuma |
+| 1     |  Acessar o treinamento livre.   | Nenhuma |
+| 2     | Selecionar a questão de interesse. | 1 |
+| 3     | Se cadastrar. | 2 |
+| 3.1   | Acessar o mojinho no telegram. | 3 |
+| 3.1.1 | Enviar mensagem "participar treino". | 3.1 |
+| 3.1.2 | Preencher os dados de cadastro.| 3.1 |
+| 3.2   | Preencher os dados de cadastro. | 3 |
+| 4   | Selecionar o arquivo | 3 |
 
 Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
 
@@ -206,7 +192,7 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 #### **Representação em Tabela (HTA)**
 
-**Tabela 5:** Tabela HTA Ausência de informações.
+**Tabela 5:** Tabela HTA Ausência de informações em submissões erradas.
 
 | **Número da Tarefa** | **Descrição da Tarefa**                                                      | **Dependência** |
 | -------------------- | ---------------------------------------------------------------------------- | --------------- |
