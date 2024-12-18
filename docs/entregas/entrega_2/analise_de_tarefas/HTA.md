@@ -15,20 +15,9 @@ A análise foi conduzida exclusivamente com a metodologia HTA, alinhada às boas
 
 #### **Diagrama HTA:**
 
-```plaintext
-Tarefa Principal: Garantir feedback em tempo real durante a análise de submissões
-| 
-|--- 1. O usuário acessa a plataforma CD-MOJ
-|--- 2. O usuário submete sua solução para o problema
-|    |
-|    |--- 2.1 O sistema exibe status inicial "Not answered yet"
-|    |--- 2.2 O usuário aguarda feedback
-|--- 3. O usuário recarrega a página manualmente
-|--- 4. O sistema exibe o resultado final ("Accepted", "Wrong Answer", etc.)
-|--- 5. O usuário não recebe feedback sobre o progresso da análise
-|--- 6. O sistema não fornece atualizações automáticas
-|--- 7. O usuário se sente frustrado e desmotivado
-```
+**Figura 1** - Diagrama HTA Falta de Feedback.
+
+![Figura 1 - Diagrama HTA Falta de Feedback.](../../../assets/diagramas/hta_diagramaFeedback.png)
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
@@ -37,6 +26,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 - **Tarefa Principal**: A tarefa central a ser alcançada, neste caso, garantir feedback em tempo real durante a análise de submissões.
 - **Sub-tarefas**: Dividem o processo em etapas menores que devem ser realizadas para completar a tarefa principal.
 - **Setas**: Indicam a sequência de execução das tarefas.
+- **Quadrados com linha abaixo**: Indica uma operação que será realizada.
 
 #### **Representação em Tabela (HTA)**
 
@@ -44,15 +34,24 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 | **Número da Tarefa** | **Descrição da Tarefa**                                              | **Dependência** |
 | -------------------- | -------------------------------------------------------------------- | --------------- |
-| 1                    | O usuário acessa a plataforma CD-MOJ                                 | Nenhuma         |
-| 2                    | O usuário submete sua solução para o problema                        | 1               |
-| 2.1                  | O sistema exibe status inicial "Not answered yet"                    | 2               |
-| 2.2                  | O usuário aguarda feedback                                           | 2.1             |
-| 3                    | O usuário recarrega a página manualmente                             | 2.2             |
-| 4                    | O sistema exibe o resultado final ("Accepted", "Wrong Answer", etc.) | 3               |
-| 5                    | O usuário não recebe feedback sobre o progresso da análise           | 4               |
-| 6                    | O sistema não fornece atualizações automáticas                       | 5               |
-| 7                    | O usuário se sente frustrado e desmotivado                           | 6               |
+| 0                    | Falta de feedback em tempo real durante a análise de submissões.                                 | Nenhuma         |
+| 1                    | Localizar treino livre.                         | Nenhuma               |
+| 1.1                  | Entrar no treino livre.                    | 1               |
+| 2                  | Localizar mensagem de instrução para conseguir login e senha.                                           | 1.1             |
+| 2.1                    | Clicar para abrir o bot do telegram. | 2             |
+| 2.2                    | Realizar login no telegram. | 2.1               |
+| 2.3                    |  Enviar comando para o bot no telegram.  |   2.2  |
+| 3                    | Utilizar login e senha recebidos do bot para realizar login. | 2.3 |
+| 3.1                    | Selecionar o contest para realizar o login. | 3      |
+| 3.2                    | Realizar login. | 3.1      |
+| 4                    | 4. Submeter um código para avaliação. | 3.2      |
+| 4.1                    | 4.1. Clicar em escolher arquivo. | 4      |
+| 4.2                    | Encontrar e submeter arquivo. | 4.1      |
+| 5                    | Verificar o resultado da análise do código. | 4.1      |
+| 5.1                    | Recarregar a página. | 5      |
+| 5.2                    | Enviar novamente o arquivo. | 5      |
+
+
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
@@ -64,25 +63,9 @@ O HTA divide o processo em tarefas hierárquicas e sub-tarefas, mostrando a rela
 
 #### **Diagrama HTA:**
 
-```plaintext
-Tarefa Principal: Trocar a senha da conta
-|
-|--- 1. Acessar o site do CD-MOJ
-|--- 2. Navegar até o painel de configurações de conta
-|    |
-|    |--- 2.1 Localizar opção "Alterar Senha"
-|    |--- 2.2 Clicar na opção "Alterar Senha"
-|--- 3. Inserir a senha atual
-|--- 4. Inserir a nova senha
-|    |
-|    |--- 4.1 Atentar-se aos critérios de segurança
-|    |--- 4.2 Confirmar a nova senha
-|--- 5. O sistema valida a senha
-|    |
-|    |--- 5.1 Se a senha for fraca, mostrar mensagem de erro
-|    |--- 5.2 Se a senha for forte, confirmar alteração
-|--- 6. Confirmar alteração de senha
-```
+**Figura 2** - Diagrama Troca de Senha.
+
+![Figura 2 - Diagrama Troca de Senha.](../../../assets/diagramas/hta_diagramaTrocaSenha.jpeg)
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
@@ -98,18 +81,15 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
 | **Número da Tarefa** | **Descrição da Tarefa**                        | **Dependência** |
 | -------------------- | ---------------------------------------------- | --------------- |
-| 1                    | Acessar o site do CD-MOJ                       | Nenhuma         |
-| 2                    | Navegar até o painel de configurações de conta | 1               |
-| 2.1                  | Localizar opção "Alterar Senha"                | 2               |
-| 2.2                  | Clicar na opção "Alterar Senha"                | 2.1             |
-| 3                    | Inserir a senha atual                          | 2.2             |
-| 4                    | Inserir a nova senha                           | 3               |
-| 4.1                  | Atentar-se aos critérios de segurança          | 4               |
-| 4.2                  | Confirmar a nova senha                         | 4.1             |
-| 5                    | O sistema valida a senha                       | 4.2             |
-| 5.1                  | Se a senha for fraca, mostrar mensagem de erro | 5               |
-| 5.2                  | Se a senha for forte, confirmar alteração      | 5               |
-| 6                    | Confirmar alteração de senha                   | 5.2             |
+| 1                    | Acessar o site do CD-MOJ.                      | Nenhuma         |
+| 1.1                  | Informar as credenciais do CD-MOJ.             | 1               |
+| 2                    | Ir até o painel de configurações da conta.     | 1.1             |
+| 2.1                  | Localizar a opção "Alterar Senha".             | 2               |
+| 2.2                  | Clicar na opção "Alterar Senha".               | 2.1             |
+| 3                    | Preencher os campos de troca de senha.         | 2.2             |
+| 3.1                  | Informar a senha atual.                        | 3               |
+| 3.2                  | Inserir a nova senha.                          | 3.1             |
+| 3.3                  | Confirmar a troca de senha.                    | 3.2             |
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
@@ -211,17 +191,9 @@ Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
 #### **Diagrama HTA:**
 
-```plaintext
-Tarefa Principal: Encontrar casos de teste que gerem erros no algoritmo para análise
-|
-|--- 1. O usuário acessa a plataforma CD-MOJ
-|--- 2. O usuário envia sua solução da atividade
-|--- 3. O usuário recebe a mensagem "Wrong Answer 50p"
-|--- 4. O usuário procura outros conjuntos de entradas e saídas diferentes dos fornecidos
-|--- 5. O usuário entra em contato com o Mojinho pelo Telegram
-|--- 6. O usuário recebe outros conjuntos de entradas e saídas para testar sua solução
-|--- 7. O usuário identifica os casos em que seu código apresenta defeitos e faz as correções
-```
+**Figura 5** - Diagrama Ausência de informações em submissões erradas.
+
+![Figura 5 - Diagrama Ausência de informações em submissões erradas.](../../../assets/diagramas/hta_diagramaAusenciaInfo.jpeg)
 
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
@@ -230,6 +202,7 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 - **Tarefa Principal**: O objetivo é encontrar os casos de teste que geram erros no algoritmo para análise e correção.
 - **Sub-tarefas**: São as etapas que o usuário segue para completar a tarefa.
 - **Setas**: Indicam a sequência das ações.
+- **Quadrados com linha abaixo**: Indica uma operação que será realizada.
 
 #### **Representação em Tabela (HTA)**
 
@@ -237,13 +210,17 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
 | **Número da Tarefa** | **Descrição da Tarefa**                                                      | **Dependência** |
 | -------------------- | ---------------------------------------------------------------------------- | --------------- |
-| 1                    | O usuário acessa a plataforma CD-MOJ                                         | Nenhuma         |
-| 2                    | O usuário envia sua solução da atividade                                     | 1               |
-| 3                    | O usuário recebe a mensagem "Wrong Answer 50p"                               | 2               |
-| 4                    | O usuário procura outros conjuntos de entradas e saídas                      | 3               |
-| 5                    | O usuário entra em contato com o Mojinho pelo Telegram                       | 4               |
-| 6                    | O usuário recebe outros conjuntos de entradas e saídas para testar a solução | 5               |
-| 7                    | O usuário identifica os casos de erro e faz as correções no código           | 6               |
+| 0             | Receber feedback de questões.                 | Nenhuma         |
+| 1             | Acessar o contest.                             | 1               |
+| 2             | Fazer login na plataforma.    | 1               |
+| 2.1           | Inserir as credenciais.   | 2               |
+| 2.2           | Adiquirir as credenciais com o mojinho.   | 2               |
+| 2.2.1         | Logar com as credenciais adiquiridas. | 2.2               |
+| 3             | Selecionar a questão. | 2               |
+| 4             | Fazer a submissão. |  3             |
+| 4.1           | Enviar o código de submissão para o Mojinho. | 4             |
+| 4.1.1         | Refatorar o código com base no feedback recebido. | 4.1             |
+| 4.2           | Submissão aceita. | 4             |
 
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 
