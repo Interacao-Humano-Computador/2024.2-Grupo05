@@ -128,24 +128,13 @@ Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
 
 Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
 
-### **Falta de mecanismos de busca e acesso a enunciados de competições passadas**
+### **Refazer uma questão no historico de questões tentadas**
 
 #### **Diagrama HTA:**
 
-```plaintext
-Tarefa Principal: Revisitar competições passadas no CD-MOJ para estudar e se preparar para futuros contests
-|
-|--- 1. O usuário acessa a plataforma CD-MOJ
-|--- 2. O usuário navega até a seção "Past"
-|    |
-|    |--- 2.1 O usuário encontra a página de competições passadas
-|    |--- 2.2 O usuário nota a falta de mecanismos de busca ou filtros
-|    |--- 2.3 O usuário navega manualmente por vários minutos
-|--- 3. O usuário encontra a competição de interesse
-|--- 4. O usuário tenta acessar o enunciado das questões
-|--- 5. O usuário descobre que é necessário login externo para acessar o enunciado
-|--- 6. O usuário se frustra e desiste da plataforma
-```
+**Figura 4** - Diagrama Refazer uma questão no historico.
+
+![Figura 4 - Diagrama Refazer uma questão no historico.](../../../assets/diagramas/HTA_Marcelo_Adrian.drawio.png)
 
 Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
@@ -159,17 +148,19 @@ Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
 **Tabela 4:** Tabela HTA Falta de mecanismos de busca.
 
-| **Número da Tarefa** | **Descrição da Tarefa**                                                    | **Dependência** |
-| -------------------- | -------------------------------------------------------------------------- | --------------- |
-| 1                    | O usuário acessa a plataforma CD-MOJ                                       | Nenhuma         |
-| 2                    | O usuário navega até a seção "Past"                                        | 1               |
-| 2.1                  | O usuário encontra a página de competições passadas                        | 2               |
-| 2.2                  | O usuário nota a falta de mecanismos de busca ou filtros                   | 2.1             |
-| 2.3                  | O usuário navega manualmente por vários minutos                            | 2.2             |
-| 3                    | O usuário encontra a competição de interesse                               | 2.3             |
-| 4                    | O usuário tenta acessar o enunciado das questões                           | 3               |
-| 5                    | O usuário descobre que é necessário login externo para acessar o enunciado | 4               |
-| 6                    | O usuário se frustra e desiste da plataforma                               | 5               |
+| **Número da Tarefa** | **Descrição da Tarefa**                                                                       | **Dependência** |
+| -------------------- | --------------------------------------------------------------------------------------------- | --------------- |
+| 1                    | O usuário acessa a aba de conquistas                                                         | Nenhuma         |
+| 1.1                  | O usuário acessa o CD-MOJ                                                                    | 1               |
+| 1.2                  | O usuário acessa a aba de treino livre                                                       | 1               |
+| 1.3                  | O usuário retorna à aba de conquistas                                                        | 1.2             |
+| 2                    | O usuário faz login na plataforma                                                            | Nenhuma         |
+| 2.1                  | O usuário insere as credenciais manualmente                                                  | 2               |
+| 2.2                  | O usuário obtém as credenciais com um bot no Telegram                                         | 2               |
+| 2.3                  | O usuário insere as credenciais obtidas pelo bot                                              | 2.2             |
+| 3                    | O usuário escolhe uma questão na plataforma                                                  | Nenhuma         |
+| 3.1                  | O usuário seleciona a questão desejada na lista                                              | 3               |
+| 3.2                  | O usuário refaz a submissão para a questão escolhida                                          | 3.1             |
 
 Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
