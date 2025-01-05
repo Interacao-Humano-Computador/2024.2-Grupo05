@@ -103,7 +103,7 @@ A gravação do teste piloto está disponível pelo YouTube:
 ### Felipe Rodrigues
 
 - **Termo de Consentimento Livre e Esclarecido**  
-  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho:  
+  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte link: [Termo de Consentimento - Felipe Rodrigues](./termos_de_consentimento/TermoDeConsentimento_FelipeRodrigues.pdf)  
 
 - **Gravação da Entrevista** 
   A gravação da entrevista pode ser assistida abaixo:
@@ -113,7 +113,7 @@ A gravação do teste piloto está disponível pelo YouTube:
 ### João Vitor
 
 - **Termo de Consentimento Livre e Esclarecido**  
-  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho:  
+  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho:  [Termo de Consentimento - João Vitor](./termos_de_consentimento/TermoDeConsentimento_JoaoVitor.pdf)
 
 - **Gravação da Entrevista** 
   A gravação da entrevista pode ser assistida abaixo:
@@ -123,8 +123,7 @@ A gravação do teste piloto está disponível pelo YouTube:
 ### Jéssica Eveline  
 
 - **Termo de Consentimento Livre e Esclarecido**  
-  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho:  
-  [Termo de Consentimento - Jéssica Eveline (PDF)](entrega_5/termos_de_consentimento/TermoDeConsentimento_JessicaEveline.pdf)  
+  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte link: [Termo de Consentimento - Jéssica Eveline](./termos_de_consentimento/TermoDeConsentimento_JessicaEveline.pdf)
 
 - **Gravação da Entrevista**  
   A gravação da entrevista pode ser assistida abaixo:  
@@ -134,7 +133,7 @@ A gravação do teste piloto está disponível pelo YouTube:
 ### Marcelo Adrian
 
 - **Termo de Consentimento Livre e Esclarecido**  
-  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho:  
+  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho: [Termo de Consentimento - Marcelo Adrian](./termos_de_consentimento/TermoDeConsentimento_MarceloAdrian.pdf)
 
 - **Gravação da Entrevista** 
   A gravação da entrevista pode ser assistida abaixo: 
@@ -144,7 +143,7 @@ A gravação do teste piloto está disponível pelo YouTube:
 ### Ruan Carvalho
 
 - **Termo de Consentimento Livre e Esclarecido**  
-  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho:  
+  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho: [Termo de Consentimento - Ruan Carvalho](./termos_de_consentimento/TermoDeConsentimento_RuanCarvalho.pdf)
 
 - **Gravação da Entrevista** 
   A gravação da entrevista pode ser assistida abaixo:
