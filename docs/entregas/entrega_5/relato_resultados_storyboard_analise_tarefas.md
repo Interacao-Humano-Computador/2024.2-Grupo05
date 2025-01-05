@@ -1,12 +1,15 @@
 # Relato dos Resultados do Storyboard e da Análise de Tarefas  
 
 ## Introdução  
+
 O relato documenta os resultados obtidos a partir da avaliação de usabilidade do CD-MOJ, conduzida por meio de storyboards e análise de tarefas. Os storyboards, como protótipos de baixa fidelidade, ilustram cenários de uso representativos que destacam a interação dos usuários com o sistema em situações reais. Este documento busca identificar problemas de usabilidade, validar os cenários representados e propor melhorias baseadas nos dados coletados.  
 
 ## Objetivo  
+
 A avaliação teve como objetivo verificar a correspondência entre os cenários descritos pelos storyboards e as experiências reais dos usuários do CD-MOJ. Além disso, buscou-se identificar problemas e oportunidades de melhoria dos StoryBoards e HTAs, com foco em aumentar sua eficiência, eficácia e satisfação.  
 
 ## Metodologia  
+
 A metodologia adotada baseou-se em entrevistas qualitativas, conforme descrito por Barbosa e Silva (2010), e na análise de tarefas. Essa abordagem permitiu coletar dados profundos sobre as experiências individuais dos participantes ao interagirem com os artefatos elaborados.  
 
 Os storyboards foram utilizados como ferramenta para contextualizar os cenários de uso durante as entrevistas, enquanto a análise de tarefas investigou os fluxos de interação e os desafios enfrentados pelos usuários.   
@@ -14,9 +17,11 @@ Os storyboards foram utilizados como ferramenta para contextualizar os cenários
 ## Entrevistas  
 
 ### Participantes  
+
 Foram realizadas entrevistas com 5 estudantes de graduação da Universidade de Brasília, vinculados à comunidade FCTE-UnB. Os participantes majoritariamente tinham familiaridade com o CD-MOJ e outros juizes online. Cada tarefa foi avaliada quanto à sua facilidade de entendimento, clareza e alinhamento com os objetivos do cenário. 
 
 ### Teste Piloto  
+
 O teste piloto foi conduzido por João Vitor e Jéssica Eveline, integrantes do grupo 05, com o objetivo de identificar possíveis problemas técnicos, como falhas de som e imagem, além de confirmar o tempo de execução da entrevista, que durou cerca de 10 minutos. Também foi avaliada a dinâmica das entrevistas, considerando os seguintes aspectos:  
 
 1. **Termo de Consentimento Livre e Esclarecido (TCLE):**  
@@ -96,6 +101,7 @@ O teste piloto foi conduzido por João Vitor e Jéssica Eveline, integrantes do 
    - Há algo que você sugere incluir ou modificar nas etapas apresentadas?  
 
 #### Gravação da Entrevista  
+
 A gravação do teste piloto está disponível pelo YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ba_qDvry4mI" title="Gravação da Entrevista - Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -151,9 +157,11 @@ A gravação do teste piloto está disponível pelo YouTube:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UMA3r5kAFsw" title="Gravação da Entrevista - Ruan Carvalho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusão  
+
 A avaliação de usabilidade, conduzida por meio de storyboards e análise de tarefas, proporcionou uma visão detalhada sobre as fortalezas e fragilidades dos artefatos desenvolvidos pelo grupo. Através dessa abordagem, foi possível identificar não apenas as problemáticas associadas ao design e fluxo de navegação, mas também os aspectos positivos, como a clareza e a lógica das sequências apresentadas nos storyboards. As informações obtidas durante as entrevistas e a análise das tarefas permitiram direcionar melhorias no projeto, contribuindo para um refinamento contínuo da experiência do usuário e um melhor alinhamento com as expectativas do público-alvo.
 
 ## Bibliografia  
+
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. *Interação Humano-Computador*. Rio de Janeiro: Elsevier Editora, 2010.  
 
 INTERAÇÃO HUMANO-COMPUTADOR. Avaliação de Storyboard - Ponto de Controle 5. 2020. Disponível em: https://github.com/Interacao-Humano-Computador/2020.1-BCE/blob/master/docs/pages/ponto_de_controle_5/avaliacao_storyboard.md. Acesso em: 4 jan. 2025.
@@ -164,8 +172,8 @@ INTERAÇÃO HUMANO-COMPUTADOR. Relato de Resultados - Storyboard. 2022. Disponí
 
 ## Histórico de Versões
 
-<font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 1** - Histórico de versões.</p></font>
 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse)|04/01/2025|  |  |
+|1.0|Criação do documento|[Jéssica Eveline](https://github.com/xzxjesse)|04/01/2025|[João Vitor](https://github.com/Jauzimm)| 05/01/2025 |
