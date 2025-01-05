@@ -80,7 +80,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](ht
 
 ## D - Decidir como lidar com as questões éticas
 
-Os participantes serão informados sobre os objetivos da avaliação e o uso de suas respostas. Um [termo de consentimento](/docs/entregas/entrega_2/aspectos_eticos.md#termo-de-consentimento) será apresentado, garantindo o sigilo e a utilização ética das informações coletadas.
+Os participantes serão informados sobre os objetivos da avaliação e o uso de suas respostas. Um [termo de consentimento](https://interacao-humano-computador.github.io/2024.2-Grupo05/entregas/entrega_2/aspectos_eticos/#termo-de-consentimento) será apresentado, garantindo o sigilo e a utilização ética das informações coletadas.
 
 ## E - Avaliar (Evaluate)
 
