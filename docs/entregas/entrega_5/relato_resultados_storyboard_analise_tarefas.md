@@ -108,6 +108,8 @@ A gravação do teste piloto está disponível pelo YouTube:
 - **Gravação da Entrevista** 
   A gravação da entrevista pode ser assistida abaixo:
 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_ozc0bRrxZ0" title="Gravação da Entrevista - Marcelo Adrian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### João Vitor
 
 - **Termo de Consentimento Livre e Esclarecido**  
@@ -135,7 +137,9 @@ A gravação do teste piloto está disponível pelo YouTube:
   O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho:  
 
 - **Gravação da Entrevista** 
-  A gravação da entrevista pode ser assistida abaixo:
+  A gravação da entrevista pode ser assistida abaixo: 
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7JmDqNpbH1M" title="Gravação da Entrevista - Marcelo Adrian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Ruan Carvalho
 
