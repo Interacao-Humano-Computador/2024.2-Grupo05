@@ -2,17 +2,21 @@
 
 ## Introdução
 
+A avaliação de protótipos é essencial no design centrado no usuário, permitindo identificar problemas de usabilidade e validar soluções antes de avançar para estágios mais complexos. Este documento apresenta o planejamento da avaliação de protótipos de papel, um método eficaz e acessível para explorar ideias iniciais e coletar feedback dos usuários, utilizando o framework DECIDE para estruturar o processo e garantir resultados aplicáveis ao aprimoramento do protótipo.
 
 ## Objetivo
 
+O objetivo desta avaliação é validar a usabilidade e a eficácia do protótipo de papel desenvolvido, identificando problemas na interface e na interação com o usuário, bem como avaliando diferentes ideias e alternativas de design. O foco é coletar impressões sobre a clareza e a praticidade do protótipo.
 
 ## Metodologia
 
 Será utilizado o framework DECIDE para o planejamento dessa avaliação, estruturando o processo em seis etapas a serem seguidas.
 
+<font size="3"><p style="text-align: left">**Figura 1** - Framework DECIDE.</p></font>
+
 ![Figura do framework DECIDE](../../../assets/Framework_DECIDE.jpeg)
 
-# FRAMEWORK DECIDE
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm), 2025.
 
 ## D - Determinar os objetivos
 
@@ -24,6 +28,8 @@ Determinar os objetivos de IHC é essencial para criar interfaces eficientes, ac
 
 Explorar as perguntas a serem respondidas é fundamental para orientar a avaliação de IHC, pois elas ajudam a entender como cada protótipo impacta a experiência do usuário, identificando quais elementos funcionam bem e quais precisam ser ajustados. O uso do protótipo de papel permite testar essas perguntas de forma rápida e econômica, facilitando a exploração de diferentes alternativas de design e a identificação de problemas na interface antes de avançar para versões mais complexas. Ele proporciona feedback imediato dos usuários, possibilitando ajustes rápidos e assegurando que o design esteja alinhado com as expectativas e necessidades do público-alvo.
 
+<font size="3"><p style="text-align: left">**Tabela 1**: Perguntas do pontos escolhidos.</p></font>
+
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |:------------:|-------------------------|---------------|
 | **ideias e alternativas de design** | Qual das alternativas é mais eficiente para os usuários? |  |
@@ -34,6 +40,8 @@ Explorar as perguntas a serem respondidas é fundamental para orientar a avalia�
 | | Algum elemento do protótipo impede que o usuário complete suas tarefas simuladas? |  |
 | | O usuário entende o que deve fazer em seguida? |  |
 
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm), 2025.
+
 ## C - Escolher (Choose)
 
 Para avaliar os protótipos, será utilizado o método de investigação, que inclui observação dos usuários ao interagir com o protótipo de papel. Esse método permite entender as percepções, preferências e dificuldades dos usuários, ajudando a identificar problemas no design e na interação.
@@ -41,20 +49,24 @@ Para avaliar os protótipos, será utilizado o método de investigação, que in
 ## I - Identificar e Administrar as Questões Práticas da Avaliação
 
 ### Recrutamento
+
 Para o recrutamento, serão selecionadas cinco pessoas, uma para cada protótipo de papel desenvolvido pelos integrantes do grupo. O público-alvo será definido com base no perfil de usuário identificado durante a análise de requisitos. As entrevistas serão conduzidas de forma presencial, garantindo a realização adequada das atividades planejadas.
 
 ### Preparação
+
 Os entrevistadores realizarão um teste piloto para assegurar que as dinâmicas e os materiais estão em conformidade com os objetivos da avaliação. Durante a avaliação formal, os entrevistadores seguirão um roteiro estruturado de perguntas para conduzir as entrevistas.
 
 Os entrevistadores serão responsáveis pela aplicação das perguntas e pelo registro das respostas dos usuários. As entrevistas incluirão atividades relacionadas aos artefatos dos protótipos de papel. Os papéis podem ser divididos entre uma ou duas pessoas, com uma pessoa formulando as perguntas e outra coletando as respostas.
 
 ### Custos
+
 Os recursos necessários para a avaliação incluem dispositivos com acesso à internet, como notebooks ou computadores, para gravação das entrevistas e documentação dos resultados. Além disso, os custos abrangem o deslocamento até o local da entrevista e os equipamentos utilizados, quando aplicável.
 
 ### Prazos
+
 Cada entrevistador conduzirá uma sessão com duração aproximada de 10 minutos. O cronograma será ajustado conforme a disponibilidade dos participantes, com todas as sessões previstas para ocorrerem no intervalo entre os dias 06 e 14 de janeiro de 2025.
 
-### Tabela 1: Cronograma da Entrevista
+<font size="3"><p style="text-align: left">**Tabela 2**: Cronograma da Entrevista.</p></font>
 
 | Entrevistador(es)                       | Entrevistado(s)           | Horário de Início | Horário de Fim | Data       | Local                                      |
 |:--------------------------------------:|:-------------------------:|:----------------:|:--------------:|:----------:|:------------------------------------------:|
@@ -78,17 +90,13 @@ Após a coleta de dados, as respostas serão analisadas para identificar padrõe
 
 Antes de realizar a avaliação completa, é fundamental conduzir um teste piloto. Esse teste tem como objetivo validar o planejamento da avaliação, garantir que todos os procedimentos estão claros e funcionais, e permitir ajustes necessários. Além disso, o teste piloto ajuda a identificar possíveis falhas nos métodos, questões de usabilidade e a eficácia do roteiro de entrevista. Segue a tabela abaixo com a marcação do teste piloto.
 
-<font size="3"><p style="text-align: left">**Tabela 2**: Tabela do planejamento do teste piloto.</p></font>
+<font size="3"><p style="text-align: left">**Tabela 3**: Tabela do planejamento do teste piloto.</p></font>
 
 | Ordem | Data       | Horário de Início e Fim | Local                              | Entrevistadores | Entrevistado |
 |:-----:|:----------:|:-----------------------:|:----------------------------------:|:---------------:|:------------:|
 |   1   | A definir | A definir          | Universidade de Brasília Campus Gama | A definir | A definir |
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm), 2025.
-
-## Resultado do teste piloto
-
-
 
 ## Bibliografia
 
