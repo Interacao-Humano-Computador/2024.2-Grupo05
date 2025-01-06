@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A avaliação de protótipos é essencial no design centrado no usuário, permitindo identificar problemas de usabilidade e validar soluções antes de avançar para estágios mais complexos. Este documento apresenta o planejamento da avaliação de protótipos de papel, um método eficaz e acessível para explorar ideias iniciais e coletar feedback dos usuários, utilizando o framework DECIDE para estruturar o processo e garantir resultados aplicáveis ao aprimoramento do protótipo.
+A avaliação de protótipos desempenha um papel crucial no design centrado no usuário, ao enfatizar a identificação de problemas de usabilidade e a validação de soluções antes de prosseguir para etapas mais avançadas. Este documento apresenta o planejamento da avaliação de protótipos de papel, um método eficaz e acessível para explorar ideias iniciais e coletar feedback dos usuários, utilizando o framework DECIDE para estruturar o processo e garantir resultados aplicáveis ao aprimoramento do protótipo.
 
 ## Objetivo
 
@@ -26,7 +26,9 @@ Determinar os objetivos de IHC é essencial para criar interfaces eficientes, ac
 
 ## E - Explorar as perguntas
 
-Explorar as perguntas a serem respondidas é fundamental para orientar a avaliação de IHC, pois elas ajudam a entender como cada protótipo impacta a experiência do usuário, identificando quais elementos funcionam bem e quais precisam ser ajustados. O uso do protótipo de papel permite testar essas perguntas de forma rápida e econômica, facilitando a exploração de diferentes alternativas de design e a identificação de problemas na interface antes de avançar para versões mais complexas. Ele proporciona feedback imediato dos usuários, possibilitando ajustes rápidos e assegurando que o design esteja alinhado com as expectativas e necessidades do público-alvo.
+Explorar as perguntas a serem respondidas é fundamental para orientar a avaliação de IHC, pois essas questões fornecem diretrizes claras para compreender o impacto do protótipo na experiência do usuário. 
+Elas são cruciais para identificar elementos que funcionam bem, aqueles que necessitam de ajustes e para assegurar que o design esteja alinhado com as necessidades do público-alvo. 
+O uso do protótipo de papel facilita a análise ao permitir testes rápidos e econômicos, garantindo feedback imediato e promovendo iterações ágeis e efetivas no design.
 
 <font size="3"><p style="text-align: left">**Tabela 1**: Perguntas do pontos escolhidos.</p></font>
 
@@ -60,7 +62,7 @@ Os entrevistadores serão responsáveis pela aplicação das perguntas e pelo re
 
 ### Custos
 
-Os recursos necessários para a avaliação incluem dispositivos com acesso à internet, como notebooks ou computadores, para gravação das entrevistas e documentação dos resultados. Além disso, os custos abrangem o deslocamento até o local da entrevista e os equipamentos utilizados, quando aplicável.
+Os recursos necessários incluem dispositivos com acesso à internet para gravação das entrevistas, ferramentas de captura de áudio e vídeo para registro detalhado, além de softwares para organização e análise dos dados coletados. Custos adicionais incluem deslocamento até o local da entrevista, impressão de materiais de apoio, como roteiros e questionários, e equipamentos adicionais, como tripés ou gravadores de voz, quando aplicável.
 
 ### Prazos
 
@@ -88,7 +90,7 @@ Após a coleta de dados, as respostas serão analisadas para identificar padrõe
 
 ## Planejamento do teste piloto
 
-Antes de realizar a avaliação completa, é fundamental conduzir um teste piloto. Esse teste tem como objetivo validar o planejamento da avaliação, garantir que todos os procedimentos estão claros e funcionais, e permitir ajustes necessários. Além disso, o teste piloto ajuda a identificar possíveis falhas nos métodos, questões de usabilidade e a eficácia do roteiro de entrevista. Segue a tabela abaixo com a marcação do teste piloto.
+Antes de realizar a avaliação completa, é fundamental conduzir um teste piloto. Esse teste tem como objetivo validar o planejamento da avaliação, garantindo que os objetivos estejam bem definidos e que todos os procedimentos sejam claros e funcionais. Ele permite identificar e corrigir possíveis falhas nos métodos, avaliar a eficácia do roteiro de entrevista e assegurar que os materiais e dinâmicas atendam às expectativas do processo de avaliação.
 
 <font size="3"><p style="text-align: left">**Tabela 3**: Tabela do planejamento do teste piloto.</p></font>
 
@@ -106,4 +108,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev) | 04/01/2025 |  |  |
+|  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev) | 04/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 05/01/2024 |
