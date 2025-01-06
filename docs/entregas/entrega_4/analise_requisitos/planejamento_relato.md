@@ -2,93 +2,78 @@
 
 ## Introdução
 
-Este documento tem como objetivo estruturar o planejamento e o relato dos resultados da avaliação de usabilidade realizada por meio da análise de tarefas. A abordagem considera os elementos fundamentais descritos no livro de Simone Barbosa, com foco em garantir que todos os aspectos relevantes sejam devidamente documentados.
+A avaliação visa identificar problemas e oportunidades de melhoria na interação dos usuários com o sistema, através de um processo organizado que inclui o estudo das tarefas realizadas pelos participantes, seus perfis, e as dificuldades encontradas.
 
 ## Objetivo
 
-O objetivo deste documento é orientar o registro dos resultados obtidos durante a avaliação de usabilidade, permitindo a identificação de problemas, o acompanhamento das correções realizadas e a priorização de melhorias futuras. Com isso, busca-se garantir que o sistema atenda de forma eficiente, eficaz e satisfatória às demandas do público-alvo, promovendo uma experiência de usuário de qualidade.
-
+O objetivo deste planejamento é guiar o processo de avaliação de usabilidade, registrando e analisando as tarefas realizadas pelos participantes. Através disso, será possível identificar pontos de melhoria, problemas de usabilidade, e gerar sugestões que possam aprimorar a experiência do usuário com o sistema, com base nas observações feitas durante a análise das tarefas executadas.
 
 ## Metodologia
 
-Baseado no livro simone barbosa existem os seguintes items que devem entrar no relato dos resultados:
+Com base no livro de Simone Barbosa e adaptando alguns pontos, os seguintes elementos devem ser incorporados no relato dos resultados:
 
 - Os objetivos da avaliação;
-- Uma breve descrição do método de prototipação em papel;
-- O número e o perfil de avaliadores e dos participantes;
-- As tarefas executadas pelos participantes;
-- Uma lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto, indicando:
-    - Local onde ocorreu;
-    - Fatores de usabilidade prejudicados;
-    - Descrição e justificativa do problema;
-    - Correção realizada no protótipo em papel;
-    - Indicação se o problema voltou a ocorrer depois da correção;
-- Uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
-    - Local onde ocorreu;
-    - Fatores de usabilidade prejudicados;
-    - Descrição e justificativa do problema;
-    - Prioridade para correção;
-    - Sugestões de correção;
-- Indicações de partes do sistema que podem ser mais bem elaboradas.
+- Local da avaliação;
+- Tarefas executadas pelos participantes;
+- Dados coletados durante a entrevista;
+- Lista de problemas encontrados durante a avaliação;
+- Documentação da avaliação.
 
 ## Documentação
 
-Para a documentação do relato da avaliação deverá possuir os seguintes topicos listados abaixo:
+### 1. Objetivos da Avaliação
 
-### 1. Objetivo da avaliação
+Nesta seção, deve ser apresentada uma definição clara dos propósitos da análise de tarefas. Explicar o motivo pelo qual a avaliação está sendo realizada e quais resultados se espera alcançar com a análise das tarefas executadas pelos participantes.
 
-Nesta fase, é necessario que o redator do documentoesclarecer o motivo pelo qual a avaliação está sendo conduzida e detalhar os objetivos que o grupo visa atingir com a análise de tarefas. Isso inclui justificar a relevância da avaliação, explicar as expectativas e metas definidas, além de apresentar uma visão geral do propósito e do contexto em que a avaliação está inserida.
+### 2. Local da Avaliação
 
-### 2. Método de prototipação em papel
+Descrever o ambiente onde a avaliação foi realizada. Isso pode incluir informações sobre o local físico as condições do espaço (ex: ambiente controlado ou situações do cotidiano) e qualquer outro fator que possa ter impactado a avaliação. Detalhar também a infraestrutura utilizada, como computadores, ferramentas de gravação ou qualquer outro recurso essencial para a execução da avaliação.
 
-Inclua uma breve descrição do método de prototipação em papel utilizado. Explique como o protótipo foi construído e de que maneira ele foi usado durante a avaliação para simular a interação dos participantes com o sistema.
+### 3. Tarefas Executadas pelos Participantes
 
-### 3. O número e o perfil de avaliadores e dos participantes
+Quais atividades os participantes realizaram durante a avaliação? Qual tarefa foi analisada e de que forma foi conduzida a análise?
 
-No relato, deve-se incluir a quantidade de usuários e avaliadores presentes durante a avaliação. Além disso, é necessário indicar se os participantes se enquadram no perfil de usuário definido no projeto.
+### 4. Dados coletados durante a entrevista
 
-### 4. As tarefas executadas pelos participantes
+Nesta seção, serão apresentados o número e o perfil dos participantes quanto os dados coletados durante a avaliação. Além disso, serão apresentadas as perguntas feitas aos participantes, divididas entre análise de perfil e análise do fluxo de tarefas (HTA), com o intuito de investigar as experiências, dificuldades e sugestões de melhorias dos participantes ao interagir com o sistema.
 
-Liste as tarefas propostas para os participantes durante a avaliação, explicando brevemente cada uma. Inclua informações sobre os objetivos das tarefas e como elas se relacionam com os principais fluxos do sistema.
+#### Perguntas para Análise do Perfil do Entrevistado
 
-### 5. Problemas de usabilidade corrigidos
+| Pergunta | Resposta |
+|----------|----------|
+| Qual o seu nome? | [Resposta discursiva] |
+| Quantos anos você tem? | [Resposta discursiva] |
+| Qual a sua ocupação? | [Resposta discursiva] |
+| Qual o seu nível de escolaridade? | [Resposta discursiva] |
+| Você já utilizou algum juiz online? Se sim, qual? | [Resposta discursiva] |
+| Você conhece o CD-MOJ? | [ ] Sim [ ] Não |
+| Você utiliza o CD-MOJ? Se sim, qual o seu objetivo ao utilizar a plataforma? | [ ] Sim [ ] Não |
 
-Apresente os problemas de usabilidade identificados e corrigidos durante os ciclos de avaliação e reprojeto. Para cada problema, informe:
+#### Perguntas sobre o HTA
 
-- **Local**: Indique o local onde o problema foi identificado, como uma tela, funcionalidade ou elemento específico do sistema.
-- **Fatores de Usabilidade Prejudicados**: Descreva os aspectos de usabilidade comprometidos, como eficiência (tempo ou esforço necessário para concluir a tarefa), eficácia (capacidade de realizar a tarefa corretamente) ou satisfação (experiência percebida pelo usuário).
-- **Descrição e Justificativa do Problema**: Forneça uma descrição detalhada do problema, explicando o que foi observado e justificando por que ele é considerado uma barreira para o usuário.
-- **Correção Implementada**: Explique a solução aplicada no protótipo em papel, detalhando o que foi alterado para resolver o problema.
-- **Status Após Correção**: Registre se o problema foi completamente resolvido ou se voltou a ocorrer em ciclos subsequentes de avaliação.
+| Pergunta | Resposta |
+|----------|----------|
+| As etapas descritas no diagrama representam bem um fluxo de navegação para a realização da tarefa analisada? | [ ] Sim [ ] Não |
+| Alguma etapa da tarefa lhe pareceu desnecessária? Se sim, qual? | [ ] Sim [ ] Não |
+| Você encontrou alguma dificuldade de compreender a tarefa apresentada? Se sim, qual? | [ ] Sim [ ] Não |
+| Em sua navegação, você acredita que conseguiria concluir a tarefa sem dificuldades? Se não, por quê? | [ ] Sim [ ] Não |
+| Há algo que você sugere incluir ou modificar nas etapas apresentadas? | Resposta discursiva |
 
-| **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Correção Implementada**                       | **Status Após Correção** |
-|-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
-| | | | | |
+### 5. Problemas de Usabilidade Identificados
 
-### 6. Problemas de usabilidade ainda não corrigidos
+Relate os problemas de usabilidade encontrados durante a avaliação. Para cada problema, deve-se apresentar uma descrição detalhada do que foi observado, os fatores de usabilidade prejudicados (como eficiência e satisfação) e a justificativa para considerar esses problemas críticos para a experiência do usuário. Além disso, se houver soluções já implementadas ou propostas para resolver os problemas, devem ser descritas de forma clara.
 
-Liste os problemas de usabilidade que não foram corrigidos, especificando:
+### 6. Documentação da Avaliação
 
-- **Local**: Informe onde o problema ocorre, como uma tela, funcionalidade ou elemento específico do sistema.
-- **Fatores de Usabilidade Prejudicados**: Identifique os aspectos de usabilidade impactados, como eficiência, eficácia ou satisfação.
-- **Descrição e Justificativa do Problema**: Descreva o problema em detalhes, explicando por que ele é uma barreira e sua relevância para a experiência do usuário.
-- **Prioridade**: Classifique a prioridade de correção como alta, média ou baixa, considerando a gravidade do impacto e a frequência com que o problema ocorre.
-- **Sugestões de Correção**: Apresente ideias para corrigir o problema, mesmo que ainda não tenham sido implementadas, para orientar futuras revisões no design.
-
-| **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Prioridade**                       | **Sugestões de Correção** |
-|-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
-| | | | | |
-
-### 7. Partes do sistema que podem ser melhor elaboradas
-
-Indique partes do sistema que poderiam ser mais bem elaboradas, mesmo que não tenham apresentado problemas graves de usabilidade. Sugerir melhorias no design, nas funcionalidades ou na experiência do usuário pode agregar valor ao projeto.
+Nesta seção, deve ser incluído o vídeo do registro da avaliação, que serve como documentação visual do processo. Esse registro visual é fundamental para garantir que os detalhes da avaliação sejam preservados para futuras análises, além de proporcionar uma referência clara e acessível para outros membros da equipe.
 
 ## Bibliografia
 
-BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
+BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. *Planejamento da avaliação de IHC*. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
 
 ## Histórico de Versão
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento do resultado | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
+|  1.1   | Correção do planejamento de resultado | [João Vitor](https://github.com/Jauzimm) | 05/01/2025 |  |  |
