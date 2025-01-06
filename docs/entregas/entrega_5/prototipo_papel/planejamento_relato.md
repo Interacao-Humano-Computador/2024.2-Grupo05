@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Este documento tem como objetivo estruturar o planejamento e o relato dos resultados da avaliação de usabilidade realizada por meio do Protótipo de Papel. A abordagem considera os elementos fundamentais descritos no livro <a id="anchor_1" href="#FRM1">^1^</a>  Interação Humano-Computador de Simone Diniz Junqueira Barbosa e Bruno Santana da Silva, com foco em garantir que todos os aspectos relevantes sejam devidamente documentados.
+Este documento visa estruturar o planejamento e a documentação dos resultados da avaliação de usabilidade conduzida com os Protótipos de Papel. A abordagem considera os elementos fundamentais descritos no livro <a id="anchor_1" href="#FRM1">^1^</a>  Interação Humano-Computador de Simone Diniz Junqueira Barbosa e Bruno Santana da Silva, com foco em garantir que todos os aspectos relevantes sejam devidamente documentados.
 
 ## Objetivo
 
-O objetivo deste documento é orientar o registro dos resultados obtidos durante a avaliação, permitindo a identificação de problemas, o acompanhamento das correções realizadas e a priorização de melhorias futuras. Com isso, busca-se garantir que o sistema atenda de forma eficiente, eficaz e satisfatória às demandas do público-alvo, promovendo uma experiência de usuário de qualidade.
+Este documento tem como objetivo orientar o registro dos resultados da avaliação, permitindo identificar problemas, acompanhar correções realizadas e priorizar melhorias futuras. Com isso, busca-se garantir que o sistema atenda de forma eficiente, eficaz e satisfatória às demandas do público-alvo, promovendo uma experiência de usuário de qualidade.
 
 
 ## Metodologia
@@ -91,4 +91,4 @@ Indique partes do sistema que poderiam ser mais bem elaboradas, mesmo que não t
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do planejamento do resultado | [Felipe Rodrigues](https://github.com/felipeJRdev) | 05/01/2025 |  |  |
+|  1.0   | Criação do planejamento do resultado | [Felipe Rodrigues](https://github.com/felipeJRdev) | 05/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 05/01/2025 |
