@@ -188,6 +188,29 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2024.
 ![Respostas](../../assets/AutoAV_Grafico4.png) </p>
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
+## Entrega 05
+
+
+
+<font size="3"><p style="text-align: left">**Tabela 5** - Aspectos avaliados na entrega 5.</p></font>
+
+| Item | Pergunta                                                                                   | Resposta | Versão, data e horário da avaliação | Referência |
+|------|-------------------------------------------------------------------------------------------|----------|--------------------------------------|-------------|
+| 1    | O teste-piloto foi realizado, seguindo a estrutura planejada, e está devidamente documentado? | Sim      |  1.0, 05/01/2025 e 22:30                                    |             |
+| 2    | As entrevistas foram gravadas, disponibilizadas para análise?                             | Sim      | 1.0, 05/01/2025 e 22:30                                      |             |
+| 3    | Conduziram-se em conformidade com os critérios estabelecidos no termo de consentimento informado? | Sim      |       1.0, 05/01/2025 e 22:30                                |             |
+| 4    | Os storyboards e as análises de tarefas foram apresentados aos entrevistados de forma clara e compreensível no decorrer das entrevistas? | Sim      |    1.0, 05/01/2025 e 22:30                                   |             |
+| 5    | Os participantes recrutados representam adequadamente o público-alvo?                    | Sim      |    1.0, 05/01/2025 e 22:30                                   |             |
+| 6    | O storyboard e as análises de tarefas refletem de forma detalhada as funcionalidades propostas? | Sim      |    1.0, 05/01/2025 e 22:30                                   |             |
+| 7    | O planejamento do protótipo de papel segue o framework DECIDE?                            | Sim      |    1.0, 05/01/2025 e 22:30                                   |             |
+| 8    | Foi definida uma estrutura para o teste-piloto?                                           | Sim      |    1.0, 05/01/2025 e 22:30                                   |             |
+| 9    | O storyboard e as análises de tarefas refletem de forma detalhada as funcionalidades propostas? | Sim      |     1.0, 05/01/2025 e 22:30                                  |             |
+| 10   | O planejamento da avaliação e do relato do protótipo de papel possui um cronograma definido? | Sim      |         1.0, 05/01/2025 e 22:30                              |             |
+| 11   | As questões éticas estão inclusas no planejamento de avaliação do protótipo de papel?     | Sim      |     1.0, 05/01/2025 e 22:30                                  |             |
+
+
+Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
+
 ## Bibliografia
 
 SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Humano Computador, 2° semestre de 2024. Disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf).
@@ -204,3 +227,4 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.3   | Criação inicial da Autoavaliação 2 | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | 02/12/2024 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 |
 |  1.4   | Adição da autoavaliação 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 03/12/2024 |
 |  1.5   | Criação da tabela 4 e adição de gráficos | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   10/12/2024    |
+|  1.5   | Criação da tabela 5 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 05/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |   05/01/2025    |
