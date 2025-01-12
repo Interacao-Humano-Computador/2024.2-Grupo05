@@ -6,7 +6,7 @@ A avaliação de protótipos desempenha um papel crucial no design centrado no u
 
 ## Objetivo
 
-O objetivo desta avaliação é validar a usabilidade e a eficácia do protótipo de papel desenvolvido, identificando problemas na interface e na interação com o usuário, bem como avaliando diferentes ideias e alternativas de design. O foco é coletar impressões sobre a clareza e a praticidade do protótipo.
+O objetivo desta avaliação é validar a usabilidade e a eficácia do protótipo de papel desenvolvido, identificando problemas na interface e na interação com o usuário. O foco é coletar impressões sobre a clareza e a praticidade do protótipo.
 
 ## Metodologia
 
@@ -15,32 +15,26 @@ Será utilizado o framework DECIDE para o planejamento dessa avaliação, estrut
 <font size="3"><p style="text-align: left">**Figura 1** - Framework DECIDE.</p></font>
 
 ![Figura do framework DECIDE](../../../assets/Framework_DECIDE.jpeg)
-
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm), 2025.
 
 ## D - Determinar os objetivos
 
-Determinar os objetivos de IHC é essencial para criar interfaces eficientes, acessíveis e alinhadas às necessidades dos usuários. Nesta avaliação, o foco será no protótipo de papel, uma ferramenta de prototipagem de baixo custo e baixa fidelidade, que permite explorar rapidamente ideias e identificar oportunidades de melhoria. Os principais pontos a serem abordados são:
-- **Ideias e alternativas de design**: Serão exploradas soluções que melhor atendam às expectativas dos usuários e promovam clareza e satisfação.
+Determinar os objetivos de IHC é essencial para criar interfaces eficientes, acessíveis e alinhadas às necessidades dos usuários. Nesta avaliação, o foco será no protótipo de papel, uma ferramenta de prototipagem de baixo custo e baixa fidelidade, que permite explorar rapidamente ideias e identificar oportunidades de melhoria. O principal ponto a ser abordado é:
+
 - **Problemas na interação e na interface**: Identificar e corrigir barreiras que dificultam o uso, contribuindo para uma experiência mais intuitiva.
 
 ## E - Explorar as perguntas
 
-Explorar as perguntas a serem respondidas é fundamental para orientar a avaliação de IHC, pois essas questões fornecem diretrizes claras para compreender o impacto do protótipo na experiência do usuário. 
-Elas são cruciais para identificar elementos que funcionam bem, aqueles que necessitam de ajustes e para assegurar que o design esteja alinhado com as necessidades do público-alvo. 
-O uso do protótipo de papel facilita a análise ao permitir testes rápidos e econômicos, garantindo feedback imediato e promovendo iterações ágeis e efetivas no design.
+Explorar as perguntas a serem respondidas é fundamental para orientar a avaliação de IHC, pois essas questões fornecem diretrizes claras para compreender o impacto do protótipo na experiência do usuário. Elas são cruciais para identificar elementos que funcionam bem, aqueles que necessitam de ajustes e para assegurar que o design esteja alinhado com as necessidades do público-alvo. O uso do protótipo de papel facilita a análise ao permitir testes rápidos e econômicos, garantindo feedback imediato e promovendo iterações ágeis e efetivas no design.
 
 <font size="3"><p style="text-align: left">**Tabela 1**: Perguntas do pontos escolhidos.</p></font>
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |:------------:|-------------------------|---------------|
-| **ideias e alternativas de design** | Qual das alternativas é mais eficiente para os usuários? |  |
-| | Qual alternativa facilita mais a tarefa do usuário, reduzindo o esforço necessário? |  |
-| | Qual delas os usuários preferem? Por quê? |  |
-| **Identificar problemas na interação e interface** | Existem elementos do protótipo que confundem o usuário ou geram dúvidas? |  |
-| | Que tipos de erros os usuários cometeram ao interagir com o protótipo? |  |
-| | Algum elemento do protótipo impede que o usuário complete suas tarefas simuladas? |  |
-| | O usuário entende o que deve fazer em seguida? |  |
+| **Identificar problemas na interação e interface** | O usuário consegue operar o sistema? |  |
+| | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? |  |
+| | Que parte da interface e da interação o deixa insatisfeito? |  |
+| | Ele vai entender o que deve fazer em seguida? |  |
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm), 2025.
 
@@ -109,3 +103,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev) | 04/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 05/01/2025 |
+|  1.1  | Alteração no objetivo e nas perguntas | [João Vitor](https://github.com/Jauzimm) | 12/01/2025 |  |  |
