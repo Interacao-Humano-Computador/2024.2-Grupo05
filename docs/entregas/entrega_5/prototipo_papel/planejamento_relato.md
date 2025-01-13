@@ -11,7 +11,7 @@ Este documento tem como objetivo orientar o registro dos resultados da avaliaç�
 
 ## Metodologia
 
-De acordo com o livro <a id="anchor_1" href="#FRM1">^1^</a> Interação Humano-Computador de Simone Diniz Junqueira Barbosa e Bruno Santana da Silva, os seguintes items devem entrar no relato dos resultados:
+De acordo com o livro <a id="anchor_1" href="#FRM1">^1^</a> Interação Humano-Computador de Simone Diniz Junqueira Barbosa e Bruno Santana da Silva, os seguintes itens devem entrar no relato dos resultados:
 
 - Os objetivos da avaliação;
 - Uma breve descrição do método de prototipação em papel;
@@ -30,6 +30,12 @@ De acordo com o livro <a id="anchor_1" href="#FRM1">^1^</a> Interação Humano-C
     - Prioridade para correção;
     - Sugestões de correção;
 - Indicações de partes do sistema que podem ser mais bem elaboradas.
+
+Além disso, serão adicionados mais três itens que são essenciais para um relato mais detalhado sobre o protótipo de papel. Esses itens incluem:
+
+- Perguntas respondidas no planejamento da avaliação do protótipo de papel;
+- Vídeo da avaliação;
+- Termo de consentimento.
 
 ## Documentação
 
@@ -83,6 +89,25 @@ Liste os problemas de usabilidade que não foram corrigidos, especificando:
 
 Indique partes do sistema que poderiam ser mais bem elaboradas, mesmo que não tenham apresentado problemas graves de usabilidade. Sugerir melhorias no design, nas funcionalidades ou na experiência do usuário pode agregar valor ao projeto.
 
+### 8. Perguntas Respondidas no Planejamento da Avaliação do Protótipo de Papel
+
+As questões abaixo devem ser respondidas com base na análise realizada no protótipo de papel:
+
+| **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
+|--------------|-------------------------|---------------|
+| **Identificar problemas na interação e interface** | O usuário consegue operar o sistema? | |
+| | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | |
+| | Que parte da interface e da interação o deixa insatisfeito? | |
+| | Ele vai entender o que deve fazer em seguida? | |
+
+### 9. Vídeo da Avaliação
+
+Esta seção deve conter o vídeo registrado durante a avaliação do protótipo de papel. O vídeo deve ser armazenado no youtube em não listado para consulta futura e análise detalhada.
+
+### 10. Termo de Consentimento
+
+Aqui deve ser inserido o termo de consentimento utilizado na avaliação, devidamente preenchido e assinado pelos participantes. Este documento é essencial para garantir a conformidade ética e legal do processo de avaliação.
+
 ## Referências Bibliográficas
 
 <a id="FRM1" href="#anchor_1">1.</a> BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
@@ -92,3 +117,4 @@ Indique partes do sistema que poderiam ser mais bem elaboradas, mesmo que não t
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento do resultado | [Felipe Rodrigues](https://github.com/felipeJRdev) | 05/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 05/01/2025 |
+|  1.1   | Adição de novos tópicos | [João Vitor](https://github.com/Jauzimm) | 13/01/2025 |  |  |
