@@ -117,4 +117,4 @@ Aqui deve ser inserido o termo de consentimento utilizado na avaliação, devida
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento do resultado | [Felipe Rodrigues](https://github.com/felipeJRdev) | 05/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 05/01/2025 |
-|  1.1   | Adição de novos tópicos | [João Vitor](https://github.com/Jauzimm) | 13/01/2025 |  |  |
+|  1.1   | Adição de novos tópicos | [João Vitor](https://github.com/Jauzimm) | 13/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 14/01/2025 |
