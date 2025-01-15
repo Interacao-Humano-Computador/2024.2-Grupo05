@@ -90,6 +90,8 @@ Após a coleta de dados, as respostas serão analisadas para identificar padrõe
 
 Antes de realizar a avaliação completa, é fundamental conduzir um teste piloto. Esse teste tem como objetivo validar o planejamento da avaliação, garantindo que os objetivos estejam bem definidos e que todos os procedimentos sejam claros e funcionais. Ele permite identificar e corrigir possíveis falhas nos métodos, avaliar a eficácia do roteiro de entrevista e assegurar que os materiais e dinâmicas atendam às expectativas do processo de avaliação.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bQzKW42MBeQ?si=JIFYjIvL6XgFokbJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <font size="3"><p style="text-align: left">**Tabela 3**: Tabela do planejamento do teste piloto.</p></font>
 
 | Ordem | Data       | Horário de Início e Fim | Local                              | Entrevistadores | Entrevistado |
