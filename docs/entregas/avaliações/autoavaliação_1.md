@@ -209,7 +209,35 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 | 11   | As questões éticas estão inclusas no planejamento de avaliação do protótipo de papel?     | Sim      |     1.0, 05/01/2025 e 22:30                                  |             |
 
 
-Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
+Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2025.
+
+## Entrega 06
+
+
+
+<font size="3"><p style="text-align: left">**Tabela 5** - Aspectos avaliados na entrega 6.</p></font>
+
+
+| Item | Pergunta                                                                                   | Resposta | Versão, data e horário da avaliação | Referência |
+|------|-------------------------------------------------------------------------------------------|----------|--------------------------------------|-------------|
+| 1    | A avaliação do protótipo de papel foi realizada por pelo menos 2 avaliadores?             |       |           |  ![1](../../assets/referenciasLista/image.png) Página: 360, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021.   |
+| 2    | A avaliação teve um responsável por simular o comportamento do sistema e outro por observar a experiência de uso? |       |  |  ![2](../../assets/referenciasLista/image-1.png) Página: 360, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 3    | O responsável por simular o sistema busca compreender as ações do usuário sobre o protótipo em papel e possivelmente as intenções que motivaram tais ações? |    |             | ![3](../../assets/referenciasLista/image-2.png) Página: 360, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 4    | O responsável por simular o sistema modifica a interface conforme o comportamento planejado para o sistema, sem, no entanto, fornecer explicações ou orientações para o usuário? |  |        | ![4](../../assets/referenciasLista/image-3.png) Página: 360, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 5    | Tudo o que for necessário informar ao usuário está representado na interface do sistema?  |       |             | ![5](../../assets/referenciasLista/image-4.png) Página: 360, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 6    | No início da sessão, o responsável por simular o comportamento do sistema apresenta o protótipo em papel e explica como estão representados os elementos de interface (widgets) e como os participantes podem “interagir” com eles? |       |             | ![6](../../assets/referenciasLista/image-5.png) Página: 360, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 7    | Depois de apresentar a interface, os avaliadores entregam os cenários ao participante e explicam as tarefas a serem executadas? |       |             | ![7](../../assets/referenciasLista/image-6.png) Página: 360, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 8    | O avaliador modifica a interface com base nas interações do usuário?                      |       |             | ![8](../../assets/referenciasLista/image-7.png) Página: 360, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 9    | Durante a simulação da interação, o observador está atento às partes da interface que funcionaram bem e que funcionaram mal, quais tarefas foram concluídas com sucesso, quais erros foram cometidos, quais comentários foram feitos e quaisquer outros dados que auxiliem a apreciar a qualidade da interface? |       |             | ![9](../../assets/referenciasLista/image-8.png) Página: 360, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 10   | Os avaliadores realizaram uma entrevista pós-teste para colher a opinião do participante sobre o protótipo da interface e sugestões de melhorias? |       |          | ![10](../../assets/referenciasLista/image-9.png) Páginas: 360 e 361, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 11   | A partir da análise dos avaliadores após a avaliação, foi feita uma lista de problemas na interface que devem ser corrigidos, além de indicações de partes do sistema que podem ser aperfeiçoadas? |       |             | ![11](../../assets/referenciasLista/image-10.png) Página: 361, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021. |
+| 12   | Os problemas fáceis de resolver foram resolvidos antes da execução da próxima simulação de uso com outro participante? |       |       |  ![12](../../assets/referenciasLista/image-11.png) Página: 361, Capítulo 10. Métodos de Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. Publicado em: 03/05/2021.   |
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+## Referência Bibliográfica
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.  
 
 ## Bibliografia
 
@@ -227,4 +255,5 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.3   | Criação inicial da Autoavaliação 2 | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | 02/12/2024 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 |
 |  1.4   | Adição da autoavaliação 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 03/12/2024 |
 |  1.5   | Criação da tabela 4 e adição de gráficos | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   10/12/2024    |
-|  1.5   | Criação da tabela 5 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 05/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |   05/01/2025    |
+|  1.6   | Criação da tabela 5 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 05/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |   05/01/2025    |
+|  1.7   | Criação da lista de verificação da entrega 6 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 14/01/2025  |        |        |
