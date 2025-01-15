@@ -66,10 +66,14 @@ Cada entrevistador conduzirá uma sessão com duração aproximada de 10 minutos
 
 | Entrevistador(es)                       | Entrevistado(s)           | Horário de Início | Horário de Fim | Data       | Local                                      |
 |:--------------------------------------:|:-------------------------:|:----------------:|:--------------:|:----------:|:------------------------------------------:|
-| [Felipe Rodrigues](https://github.com/felipeJRdev)  | A definir                | A definir       | A definir     | 06/01/2025 - 14/01/2025 | Universidade de Brasília Campus Gama       |
-| [Jéssica Eveline](https://github.com/xzxjesse)      | A definir                | A definir       | A definir     | 06/01/2025 - 14/01/2025 | Universidade de Brasília Campus Gama       |
-| [João Vitor](https://github.com/Jauzimm)            | A definir                | A definir       | A definir     | 06/01/2025 - 14/01/2025 | Universidade de Brasília Campus Gama       |
-| [Ruan Carvalho](https://github.com/Ruan-Carvalho)   | A definir                | A definir       | A definir     | 06/01/2025 - 14/01/2025 | Universidade de Brasília Campus Gama       |
+| [Felipe Rodrigues](https://github.com/felipeJRdev)  | V. | 13:15 |  13:23 | 13/01/2025 | Universidade de Brasília Campus Gama       |
+| [Jéssica Eveline](https://github.com/xzxjesse)      | L.L. | 15:00 | 15:07 | 12/01/2025 | Universidade de Brasília Campus Gama |
+| [João Vitor](https://github.com/Jauzimm)            | C.O. | 10:23 | 10:28 | 14/01/2025 | Universidade de Brasília Campus Gama       |
+| [João Vitor](https://github.com/Jauzimm)            | G.H. | 10:45 | 10:51 | 14/01/2025 | Universidade de Brasília Campus Gama       |
+| [João Vitor](https://github.com/Jauzimm)            | J.M. | 9:58 | 10:06 | 14/01/2025 | Universidade de Brasília Campus Gama       |
+| [Ruan Carvalho](https://github.com/Ruan-Carvalho)   | G.D. | 10:31 | 10:36 | 14/01/2025 | Universidade de Brasília Campus Gama       |
+| [Ruan Carvalho](https://github.com/Ruan-Carvalho)   | P.G. | 10:38 | 10:43 | 14/01/2025 | Universidade de Brasília Campus Gama       |
+| [Ruan Carvalho](https://github.com/Ruan-Carvalho)   | D.B. | 10:10 | 10:16  | 14/01/2025 | Universidade de Brasília Campus Gama       |
 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | A definir                | A definir       | A definir     | 06/01/2025 - 14/01/2025 | Universidade de Brasília Campus Gama       |
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm), 2025.
@@ -90,7 +94,7 @@ Antes de realizar a avaliação completa, é fundamental conduzir um teste pilot
 
 | Ordem | Data       | Horário de Início e Fim | Local                              | Entrevistadores | Entrevistado |
 |:-----:|:----------:|:-----------------------:|:----------------------------------:|:---------------:|:------------:|
-|   1   | A definir | A definir          | Universidade de Brasília Campus Gama | A definir | A definir |
+|   1   | 14/01/2025 | 9:00 - 9:10 | Universidade de Brasília Campus Gama | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [João Vitor](https://github.com/Jauzimm) |
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm), 2025.
 
@@ -104,3 +108,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev) | 04/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 05/01/2025 |
 |  1.1  | Alteração no objetivo e nas perguntas | [João Vitor](https://github.com/Jauzimm) | 12/01/2025 |  |  |
+|  1.2  | Alteração no cronograma | [João Vitor](https://github.com/Jauzimm) | 14/01/2025 |  |  |
