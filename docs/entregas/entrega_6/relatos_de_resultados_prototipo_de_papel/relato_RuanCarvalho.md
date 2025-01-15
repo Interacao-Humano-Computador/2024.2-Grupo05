@@ -97,18 +97,18 @@ A avaliação foi conduzida pelo entrevistador Ruan Carvalho, integrante do grup
 ### 9. Vídeo da Avaliação
 
 As gravações das entrevistas pode, ser assistidas abaixo:
-
+https://youtu.be/xSExwnp0IJQ
 **Teste piloto:**  
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=bQzKW42MBeQ&ab_channel=RuanSobreira/edit" title="Avaliação do protótipo de papel - teste piloto, IHC - Grupo 05" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bQzKW42MBeQ" title="Avaliação do protótipo de papel - teste piloto, IHC - Grupo 05" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Entrevista 01:**  
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xSExwnp0IJQ&ab_channel=RuanSobreira" title="Avaliação do protótipo de papel (01) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xSExwnp0IJQ" title="Avaliação do protótipo de papel (01) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Entrevista 02:**  
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=RrHu0JAX1Go&ab_channel=RuanSobreira" title="Avaliação do protótipo de papel (02) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RrHu0JAX1Go" title="Avaliação do protótipo de papel (02) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Entrevista 03:**  
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y8l8n1nhAy0&ab_channel=RuanSobreira" title="Avaliação do protótipo de papel (03) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Y8l8n1nhAy0" title="Avaliação do protótipo de papel (03) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
