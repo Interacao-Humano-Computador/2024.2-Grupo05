@@ -30,6 +30,12 @@ De acordo com as diretrizes estabelecidas, os seguintes elementos compõem o pro
   - Sugestões de correção.
 - **Partes do sistema que podem ser mais bem elaboradas**: Indicar sugestões de melhorias no design, funcionalidades ou experiência do usuário, mesmo que não tenham apresentado problemas graves de usabilidade.
 
+Além disso, serão adicionados mais três itens que são essenciais para um relato mais detalhado sobre o protótipo de alta fidelidade. Esses itens incluem:
+
+- Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade;
+- Vídeo da avaliação;
+- Termo de consentimento.
+
 ## Documentação
 
 Para a documentação do relato da avaliação deverá possuir os seguintes tópicos listados abaixo:
@@ -82,6 +88,45 @@ Liste os problemas de usabilidade que não foram corrigidos, especificando:
 
 Indique partes do sistema que poderiam ser mais bem elaboradas, mesmo que não tenham apresentado problemas graves de usabilidade. Sugerir melhorias no design, nas funcionalidades ou na experiência do usuário pode agregar valor ao projeto.
 
+
+### 8. Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade
+
+As questões abaixo devem ser respondidas com base na análise realizada no protótipo de alta fidelidade:
+
+Perguntas realizadas no início com o entrevistado, afim de alinhar com o perfil do usuário:
+
+| **Pergunta** | **Resposta** |
+|---|---|
+| Qual o seu nome? | |
+| Quantos anos você tem? | |
+| Qual a sua ocupação? | |
+| Qual o seu nível de escolaridade? | |
+| Você já utilizou algum juiz online? Se sim, qual? | |
+| Você conhece o CD-MOJ? | |
+
+Perguntas que devem ser respondidas na análise da entrevista pelo entrevistador:
+
+| **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
+|--------------|-------------------------|---------------|
+| **Identificar problemas na interação e interface** | O usuário consegue operar o sistema? | |
+| | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | |
+| | Que parte da interface e da interação o deixa insatisfeito? | |
+| | Ele vai entender o que deve fazer em seguida? | |
+
+Pergunta realizada no final a fim de obter um feedback do usuário:
+
+| Pergunta | Resposta |
+| -------- | -------- |
+| Há algo que você sugere incluir ou modificar no prototipo apresentado? | |  
+
+### 9. Vídeo da avaliação
+
+Esta seção deve conter o vídeo registrado durante a avaliação do protótipo de alta fidelidade. O vídeo deve ser armazenado no youtube em não listado para consulta futura e análise detalhada.
+
+### 10. Termo de consentimento
+
+Aqui deve ser inserido o termo de consentimento utilizado na avaliação, devidamente preenchido e assinado pelos participantes. Este documento é essencial para garantir a conformidade ética e legal do processo de avaliação.
+
 ## Referências Bibliográficas
 
 1. BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
@@ -91,4 +136,5 @@ Indique partes do sistema que poderiam ser mais bem elaboradas, mesmo que não t
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do planejamento da avaliação | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 12/01/2025 |  |  |
+|  1.0   | Criação do planejamento da avaliação | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 12/01/2025 | [João Vitor](https://github.com/Jauzimm) | 24/01/2025 |
+|  1.1   | Adição de novos pontos | [João Vitor](https://github.com/Jauzimm) | 24/01/2025 |  |  |
