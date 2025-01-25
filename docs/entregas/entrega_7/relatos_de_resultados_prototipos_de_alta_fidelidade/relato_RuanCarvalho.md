@@ -1,4 +1,4 @@
-# Planejamento do Relato de Resultados do Protótipo de Alta Fidelidade
+# Relato de Resultados do Protótipo de Alta Fidelidade
 
 ## Introdução
 
