@@ -59,6 +59,70 @@ Para esta avaliação foram escolhidos 3 participantes: Pedro, Gabriel e Luiza, 
 1. **Acesso ao contest**
     - **sugestão de melhoria:** Alterar o botão "join" para acessar o contest, fazendo com que fique mais claro o local em que se acessa o desafio.
 
+### 8. Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade
+
+| **Pergunta** | **Resposta** |
+|---|---|
+| Qual o seu nome? | Gabriel |
+| Quantos anos você tem? | 21 |
+| Qual a sua ocupação? | Estudante |
+| Qual o seu nível de escolaridade? | Superior-cursando |
+| Você já utilizou algum juiz online? Se sim, qual? | Sim, CD-MOJ |
+| Você conhece o CD-MOJ? | Sim |
+Entrevista 01
+
+| **Pergunta** | **Resposta** |
+|---|---|
+| Qual o seu nome? | Pedro |
+| Quantos anos você tem? | 20 |
+| Qual a sua ocupação? | Estudante |
+| Qual o seu nível de escolaridade? | Superior-cursando |
+| Você já utilizou algum juiz online? Se sim, qual? | Sim, CD-MOJ |
+| Você conhece o CD-MOJ? | Sim |
+Entrevista 02
+
+| **Pergunta** | **Resposta** |
+|---|---|
+| Qual o seu nome? | Luiza |
+| Quantos anos você tem? | 21 |
+| Qual a sua ocupação? | Estudante |
+| Qual o seu nível de escolaridade? | Superior-cursando |
+| Você já utilizou algum juiz online? Se sim, qual? | Sim, CD-MOJ e Beecrowd |
+| Você conhece o CD-MOJ? | Sim |
+Entrevista 03
+
+Perguntas que devem ser respondidas na análise da entrevista pelo entrevistador:
+
+| **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
+|--------------|-------------------------|---------------|
+| **Identificar problemas na interação e interface** | O usuário consegue operar o sistema? | Sim |
+| | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | Sim, de maneira eficiênte após uma média de 15 segundos de interação, sem erros |
+| | Que parte da interface e da interação o deixa insatisfeito? | Os usuários não apresentaram insatisfação durante a interação |
+| | Ele vai entender o que deve fazer em seguida? | Sim |
+
+Pergunta realizada no final a fim de obter um feedback do usuário:
+
+| Pergunta | Resposta |
+| -------- | -------- |
+| Há algo que você sugere incluir ou modificar no prototipo apresentado? | Nenhum dos entrevistados apresentaram sugestões de melhoria para o protótipo |  
+
+### 9. Vídeo da avaliação
+
+As gravações das entrevistas pode, ser assistidas abaixo:
+
+Entrevista Gabriel:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hy3JJWWwUEk" title="Avaliação do protótipo de papel (01) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Entrevista Pedro:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JH1bOOPDHiE" title="Avaliação do protótipo de papel (01) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Entrevista Luiza:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yn2ZcTLjh60" title="Avaliação do protótipo de papel (01) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 10. Termo de consentimento
+
+Aqui deve ser inserido o termo de consentimento utilizado na avaliação, devidamente preenchido e assinado pelos participantes. Este documento é essencial para garantir a conformidade ética e legal do processo de avaliação.
+
 ## Referências Bibliográficas
 
 1. BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.
