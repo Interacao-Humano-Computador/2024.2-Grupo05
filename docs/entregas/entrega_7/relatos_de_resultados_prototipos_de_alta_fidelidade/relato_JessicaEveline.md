@@ -14,6 +14,12 @@ O método de prototipação de alta fidelidade utilizado foi realizado no Figma,
 
 Segundo Krug, o número ideal de participantes para testes de usabilidade é de 3 a 4 pessoas, pois essa quantidade é suficiente para identificar a maioria dos problemas de usabilidade de um sistema sem sobrecarregar o processo. Seguindo essa recomendação, o teste foi realizado com 3 participantes que atendiam ao perfil de usuário definido para o sistema. Detalhes sobre os participantes e as perguntas respondidas durante o planejamento da avaliação do protótipo de alta fidelidade estão descritos na seção [8. Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade](#8-perguntas-respondidas-no-planejamento-da-avaliação-do-protótipo-de-alta-fidelidade).
 
+**Tabela 1 -** Entrevistador(es) e entrevistado(s).
+
+| Entrevistador(es) | Entrevistado(s)| Horário | Data | Local |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Jéssica Eveline](https://github.com/xzxjesse) | Gabriel, Pedro e Luiza | 12:00 - 12:50 | 23/01/2025 |Universidade de Brasília Campus Gama |
+
 ## 4. As tarefas executadas pelos participantes
 
 1. **Acessar o menu lateral a partir da tela inicial**  
@@ -34,17 +40,27 @@ Segundo Krug, o número ideal de participantes para testes de usabilidade é de 
 
 ## 5. Problemas de usabilidade corrigidos
 
+Com esta avaliação, não foram corrigidos problemas de usabilidade encontrados.
+
+**Tabela 2 -** Problemas de usabilidade corrigidos.
+
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Correção Implementada**                       | **Status Após Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
 | | | | | |
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
+
 ## 6. Problemas de usabilidade ainda não corrigidos
+
+**Tabela 3 -** Problemas de usabilidade ainda não corrigidos.
 
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Prioridade**                       | **Sugestões de Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|--------------------------------------|--------------------------|
 | Logo                          | Descoberta e Intuitividade              | A logo não está claramente identificada como clicável, o que pode dificultar o retorno à página inicial. | Alta                                 | Tornar a logo mais clara como elemento clicável, adicionando um indicador visual ou texto. |
 | Menu de Perfil                | Navegação e Intuitividade               | Falta uma opção clara de "Home" no menu de perfil, o que pode confundir o usuário ao buscar essa funcionalidade. | Média                                | Adicionar a opção "Home" no menu de perfil para facilitar a navegação. |
 | Próximo à Foto de Perfil      | Descoberta e Intuitividade              | A funcionalidade de menu de opções associada à foto de perfil não está clara, o que pode dificultar sua descoberta. | Alta                                 | Adicionar um ícone ou texto próximo à foto de perfil para indicar que é um menu de opções. |
+
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 ## 7. Partes do sistema que podem ser melhor elaboradas
 
@@ -53,6 +69,9 @@ Algumas áreas do sistema podem ser aprimoradas para melhorar a usabilidade. Pri
 ## 8. Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade
 
 **Gabriel**
+
+**Tabela 4 -** Perguntas realizadas no início da entrevista com o Gabriel.
+
 | **Pergunta** | **Resposta** |
 |---|---|
 | Qual o seu nome? | Gabriel |
@@ -61,6 +80,10 @@ Algumas áreas do sistema podem ser aprimoradas para melhorar a usabilidade. Pri
 | Você já utilizou algum juiz online? Se sim, qual? | Sim, só o CD-MOJ|
 | Você conhece o CD-MOJ? | Sim |
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
+
+**Tabela 5 -** Perguntas respondidas pela entrevistadora após a entrevista com o Gabriel.
+
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
 | **Identificar problemas na interação e interface** | O usuário consegue operar o sistema? | Sim. |
@@ -68,11 +91,19 @@ Algumas áreas do sistema podem ser aprimoradas para melhorar a usabilidade. Pri
 | | Que parte da interface e da interação o deixa insatisfeito? | O usuário não consegue identificar facilmente como acessar o perfil para alteração. |
 | | Ele vai entender o que deve fazer em seguida? | Sim, as etapas são claras, mas a localização dos botões e opções não é intuitiva. |
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
+
+**Tabela 6 -** Pergunta realizada ao entrevistado Gabriel ao final da entrevista.
+
 | **Pergunta** | **Resposta** |
 |--------------|--------------|
 | Há algo que você sugere incluir ou modificar no protótipo apresentado? | Adicionar um ícone ou texto próximo à foto de perfil para indicar que é um menu de opções. |  
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
+
 **Pedro**
+
+**Tabela 7 -** Perguntas realizadas no início da entrevista com o Pedro.
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -82,6 +113,10 @@ Algumas áreas do sistema podem ser aprimoradas para melhorar a usabilidade. Pri
 | Você já utilizou algum juiz online? Se sim, qual? | Sim, só o CD-MOJ |
 | Você conhece o CD-MOJ? | Sim |
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
+
+**Tabela 8 -** Perguntas respondidas pela entrevistadora após a entrevista com o Pedro.
+
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
 | **Identificar problemas na interação e interface** | O usuário consegue operar o sistema? | Sim. |
@@ -89,11 +124,20 @@ Algumas áreas do sistema podem ser aprimoradas para melhorar a usabilidade. Pri
 | | Que parte da interface e da interação o deixa insatisfeito? | O retorno à página inicial não está claro para o usuário. |
 | | Ele vai entender o que deve fazer em seguida? | Sim, as etapas são bem definidas, mas o retorno à página inicial não é tão intuitivo. |
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
+
+**Tabela 9 -** Pergunta realizada ao entrevistado Pedro ao final da entrevista.
+
 | **Pergunta** | **Resposta** |
 |--------------|--------------|
 | Há algo que você sugere incluir ou modificar no protótipo apresentado? | Incluir a opção "Home" no menu de perfil para facilitar a navegação e tornar a logo mais clara como elemento clicável, adicionando um indicador visual ou texto. |  
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
+
 **Luiza**
+
+**Tabela 10 -** Perguntas realizadas no início da entrevista com a Luiza.
+
 | **Pergunta** | **Resposta** |
 |---|---|
 | Qual o seu nome? | Luiza. |
@@ -102,12 +146,20 @@ Algumas áreas do sistema podem ser aprimoradas para melhorar a usabilidade. Pri
 | Você já utilizou algum juiz online? Se sim, qual? | Sim, o BeeCrowd e o CD-MOJ. |
 | Você conhece o CD-MOJ? | Sim. |
 
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
+
+**Tabela 11 -** Perguntas respondidas pela entrevistadora após a entrevista com a Luiza.
+
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
 | **Identificar problemas na interação e interface** | O usuário consegue operar o sistema? | Sim. |
 | | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | Sim, de forma eficiente, em menos de 1 minuto e sem erros. |
 | | Que parte da interface e da interação o deixa insatisfeito? | Nenhuma. |
 | | Ele vai entender o que deve fazer em seguida? | Sim. |
+
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
+
+**Tabela 12 -** Pergunta realizada a entrevistada Luiza ao final da entrevista.
 
 | **Pergunta** | **Resposta** |
 | -------- | -------- |
