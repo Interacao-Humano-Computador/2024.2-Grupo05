@@ -137,4 +137,4 @@ Aqui deve ser inserido o termo de consentimento utilizado na avaliação, devida
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento da avaliação | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 12/01/2025 | [João Vitor](https://github.com/Jauzimm) | 24/01/2025 |
-|  1.1   | Adição de novos pontos | [João Vitor](https://github.com/Jauzimm) | 24/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 16/01/2025 |
+|  1.1   | Adição de novos pontos | [João Vitor](https://github.com/Jauzimm) | 24/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
