@@ -46,9 +46,13 @@ Para esta avaliação foram escolhidos 3 participantes: Pedro, Gabriel e Luiza, 
 
 ### 5. Problemas de usabilidade corrigidos
 
+**Tabela 1 -** Problemas de usabilidade corrigidos.
+
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Correção Implementada**                       | **Status Após Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
-| tela de envio de atividade | eficiência | um dos usuários apresentou dificuldade para perceber o botão de feedback | alterar a cor do botão para melhorar a visualização | resolvido |
+|Tela de envio de atividade | Eficiência | Um dos usuários apresentou dificuldade para perceber o botão de feedback | Alterar a cor do botão para melhorar a visualização | Resolvido |
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 ### 6. Problemas de usabilidade ainda não corrigidos
 
@@ -61,6 +65,8 @@ Para esta avaliação foram escolhidos 3 participantes: Pedro, Gabriel e Luiza, 
 
 ### 8. Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade
 
+**Tabela 2 -** Perguntas realizadas no início da entrevista - Entrevista 01.
+
 | **Pergunta** | **Resposta** |
 |---|---|
 | Qual o seu nome? | Gabriel |
@@ -69,7 +75,10 @@ Para esta avaliação foram escolhidos 3 participantes: Pedro, Gabriel e Luiza, 
 | Qual o seu nível de escolaridade? | Superior-cursando |
 | Você já utilizou algum juiz online? Se sim, qual? | Sim, CD-MOJ |
 | Você conhece o CD-MOJ? | Sim |
-Entrevista 01
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
+
+**Tabela 3 -** Perguntas realizadas no início da entrevista - Entrevista 02.
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -79,7 +88,10 @@ Entrevista 01
 | Qual o seu nível de escolaridade? | Superior-cursando |
 | Você já utilizou algum juiz online? Se sim, qual? | Sim, CD-MOJ |
 | Você conhece o CD-MOJ? | Sim |
-Entrevista 02
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
+
+**Tabela 4 -** Perguntas realizadas no início da entrevista - Entrevista 03.
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -89,9 +101,12 @@ Entrevista 02
 | Qual o seu nível de escolaridade? | Superior-cursando |
 | Você já utilizou algum juiz online? Se sim, qual? | Sim, CD-MOJ e Beecrowd |
 | Você conhece o CD-MOJ? | Sim |
-Entrevista 03
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 Perguntas que devem ser respondidas na análise da entrevista pelo entrevistador:
+
+**Tabela 5 -** Perguntas respondidas na análise da entrevista pelo entrevistador.
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -100,7 +115,11 @@ Perguntas que devem ser respondidas na análise da entrevista pelo entrevistador
 | | Que parte da interface e da interação o deixa insatisfeito? | Os usuários não apresentaram insatisfação durante a interação |
 | | Ele vai entender o que deve fazer em seguida? | Sim |
 
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
+
 Pergunta realizada no final a fim de obter um feedback do usuário:
+
+**Tabela 6 -** Pergunta realizada no final a fim de obter um feedback do usuário.
 
 | Pergunta | Resposta |
 | -------- | -------- |
@@ -132,4 +151,4 @@ Aqui deve ser inserido o termo de consentimento utilizado na avaliação, devida
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | relato da avaliação do protótipo de alta fidelidade| [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 24/01/2025 |  |  |
+|  1.0   | relato da avaliação do protótipo de alta fidelidade| [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 24/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |

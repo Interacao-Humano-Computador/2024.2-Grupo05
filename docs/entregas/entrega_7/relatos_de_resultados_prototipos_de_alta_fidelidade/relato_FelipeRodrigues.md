@@ -193,7 +193,7 @@ Os videos da avaliação estão abaixo:
 
 ### 10. Termo de Consentimento
 
-Os Termos de Consentimento assinados pelos participantes está disponível no seguinte link: [Termo de Consentimento - Felipe Rodrigues](./termos_de_consentimento/TermoConsentimentoAltaFidelFelipe.pdf).
+Os Termos de Consentimento assinados pelos participantes estão disponível no seguinte link: [Termo de Consentimento - Felipe Rodrigues](./termos_de_consentimento/TermoConsentimentoAltaFidelFelipe.pdf).
 
 
 ## Referências Bibliográficas
@@ -207,4 +207,5 @@ Os Termos de Consentimento assinados pelos participantes está disponível no se
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Relato da avaliação do Protótipo de Alta Fidelidade| [Felipe Rodrigues](https://github.com/felipeJRdev) | 25/01/2025 |  |  |
+|  1.0   | Relato da avaliação do Protótipo de Alta Fidelidade| [Felipe Rodrigues](https://github.com/felipeJRdev) | 25/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse)
+ | 26/01/2025 |
