@@ -18,7 +18,7 @@ Segundo Krug, o número ideal de participantes para testes de usabilidade é de 
 
 | Entrevistador(es) | Entrevistado(s)| Horário | Data | Local |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [Jéssica Eveline](https://github.com/xzxjesse) | Gabriel, Pedro e Luiza | 12:00 - 12:50 | 23/01/2025 |Universidade de Brasília Campus Gama |
+| [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Gabriel, Pedro e Luiza | 12:00 - 12:50 | 23/01/2025 |Universidade de Brasília Campus Gama |
 
 ## 4. As tarefas executadas pelos participantes
 
