@@ -193,7 +193,7 @@ Os videos da avaliação estão abaixo:
 
 ### 10. Termo de Consentimento
 
-Os Termos de Consentimento assinados pelos participantes estão disponível no seguinte link: [Termo de Consentimento - Felipe Rodrigues](./termos_de_consentimento/TermoConsentimentoAltaFidelFelipe.pdf).
+Os Termos de Consentimento assinados pelos participantes estão disponível no seguinte link: [Termo de Consentimento - Felipe Rodrigues](docs/entregas/entrega_7/termos_de_consentimento/TermoConsentimentoAltaFidelFelipe.pdf).
 
 
 ## Referências Bibliográficas
