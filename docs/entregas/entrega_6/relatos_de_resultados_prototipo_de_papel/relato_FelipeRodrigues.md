@@ -87,7 +87,7 @@ Para a realização desta avaliação, foi necessário um avaliador, que oriento
 
 ## Termo de Consentimento
 
-O Termo de Consentimento Livre e Esclarecido assinado está disponível em: [Termo de Consentimento - Felipe Rodrigues](./termos_de_consentimento/termoConsentimentoAssinadoPrototipoPapelFelipe.pdf).
+O Termo de Consentimento Livre e Esclarecido assinado está disponível em: [Termo de Consentimento - Felipe Rodrigues](../termos_de_consentimento/termoConsentimentoAssinadoPrototipoPapelFelipe.pdf).
 
 ## Bibliografia
 

@@ -121,7 +121,7 @@ Participante **G.H.**
 
 ### 10. Termo de Consentimento
 
-O Termo de Consentimento assinado pelos participantes está disponível no seguinte link: [Termo de Consentimento - João Vitor](./termos_de_consentimento/TermoDeConsentimento_JoaoVitor.pdf)
+O Termo de Consentimento assinado pelos participantes está disponível no seguinte link: [Termo de Consentimento - João Vitor](../termos_de_consentimento/TermoDeConsentimento_JoaoVitor.pdf)
 
 ## Referências Bibliográficas
 
