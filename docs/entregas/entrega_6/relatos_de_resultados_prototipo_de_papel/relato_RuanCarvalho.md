@@ -110,6 +110,10 @@ https://youtu.be/xSExwnp0IJQ
 **Entrevista 03:**  
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Y8l8n1nhAy0" title="Avaliação do protótipo de papel (03) - Ruan Carvalho, IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 10. Termo de Consentimento
+
+O Termo de Consentimento assinado pelos participantes está disponível no seguinte link: [Termo de Consentimento - Ruan](../termos_de_consentimento/TermoDeConsentimento_Ruan.pdf)
+
 ## Referências Bibliográficas
 
 <a id="FRM1" href="#anchor_1">1.</a> BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.

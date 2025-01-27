@@ -119,7 +119,7 @@ A gravação da entrevista pode ser assistida abaixo:
   
 ### 10. Termo de Consentimento
 
-  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte link: [Termo de Consentimento - Jéssica Eveline](./termos_de_consentimento/TermoDeConsentimento_Jessica.pdf)
+  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte link: [Termo de Consentimento - Jéssica Eveline](../termos_de_consentimento/TermoDeConsentimento_Jessica.pdf)
 
 ## Referências Bibliográficas
 

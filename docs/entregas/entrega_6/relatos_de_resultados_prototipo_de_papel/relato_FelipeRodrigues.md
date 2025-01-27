@@ -87,7 +87,7 @@ Para a realização desta avaliação, foi necessário um avaliador, que oriento
 
 ## Termo de Consentimento
 
-O Termo de Consentimento Livre e Esclarecido assinado está disponível em: [Termo de Consentimento - Felipe Rodrigues](./termos_de_consentimento/.pdf).
+O Termo de Consentimento Livre e Esclarecido assinado está disponível em: [Termo de Consentimento - Felipe Rodrigues](../termos_de_consentimento/termoConsentimentoAssinadoPrototipoPapelFelipe.pdf).
 
 ## Bibliografia
 
@@ -97,4 +97,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avalia
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do relato de resultado | [Felipe Rodrigues](https://github.com/felipeJRdev) | 14/01/2025 |  |  |
+|  1.0   | Criação do relato de resultado | [Felipe Rodrigues](https://github.com/felipeJRdev) | 14/01/2025 |[Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
