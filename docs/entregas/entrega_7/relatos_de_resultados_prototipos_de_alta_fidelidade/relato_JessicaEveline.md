@@ -193,9 +193,9 @@ Visão 2:
 ## 10. Termo de consentimento
 
 O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte link: 
-- [Termo de Consentimento - Gabriel](./termos_de_consentimento/TermoDeConsentimento-Gabriel.pdf)
-- [Termo de Consentimento - Pedro](./termos_de_consentimento/TermoDeConsentimento-Pedro.pdf)
-- [Termo de Consentimento - Luiza](./termos_de_consentimento/TermoDeConsentimento-Luiza.pdf)
+- [Termo de Consentimento - Gabriel](../termos_de_consentimento/TermoDeConsentimento-Gabriel.pdf)
+- [Termo de Consentimento - Pedro](../termos_de_consentimento/TermoDeConsentimento-Pedro.pdf)
+- [Termo de Consentimento - Luiza](../termos_de_consentimento/TermoDeConsentimento-Luiza.pdf)
 
 ## Referências Bibliográficas
 
