@@ -140,7 +140,10 @@ Entrevista Luiza:
 
 ### 10. Termo de consentimento
 
-Aqui deve ser inserido o termo de consentimento utilizado na avaliação, devidamente preenchido e assinado pelos participantes. Este documento é essencial para garantir a conformidade ética e legal do processo de avaliação.
+O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte link: 
+- [Termo de Consentimento - Gabriel](docs/entregas/entrega_7/termos_de_consentimento/TermoDeConsentimento-Gabriel.pdf)
+- [Termo de Consentimento - Pedro](docs/entregas/entrega_7/termos_de_consentimento/TermoDeConsentimento-Pedro.pdf)
+- [Termo de Consentimento - Luiza](docs/entregas/entrega_7/termos_de_consentimento/TermoDeConsentimento-Luiza.pdf)
 
 ## Referências Bibliográficas
 
