@@ -178,6 +178,28 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
+## Entrega 07
+
+<font size="3"><p style="text-align: left">**Tabela 6** - Aspectos avaliados na entrega 7.</p></font>
+
+| Item | Pergunta                                                                                   | Resposta | Versão, data e horário da avaliação | Referência |
+|------|-------------------------------------------------------------------------------------------|----------|--------------------------------------|-------------|
+| 1    | O protótipo de alta fidelidade incorpora decisões sobre tamanhos, posições, cores, fontes e outros detalhes visuais? | Sim |  1.0, 27/01/2025 às 21:20  | ![1](../../assets/referenciasLista/entrega07/pergunta-1-2.png) Página: 210, Capítulo 9.4. Design da Interface. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. |
+| 2    | As ferramentas utilizadas para criar o protótipo de alta fidelidade foram mencionadas? | Não | 1.0, 27/01/2025 às 21:20| ![2](../../assets/referenciasLista/entrega07/pergunta-1-2.png) Página: 210, Capítulo 9.4. Design da Interface. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. |
+| 3    | Foram coletados registros adicionais como vídeos de interação, teclas digitadas ou comentários em áudio dos participantes? | Sim | 1.0, 27/01/2025 às 21:20 | ![3](../../assets/referenciasLista/entrega07/pergunta-3.png) Página: 289, Capítulo 12.2. Avaliação de IHC através de Observação. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.|
+| 4    | O desempenho dos participantes foi observado e medido, incluindo o número de erros, tempo de execução? | Sim | 1.0, 27/01/2025 às 21:20 | ![4](../../assets/referenciasLista/entrega07/pergunta-4.png)  Página: 289, Capítulo 12.2. Avaliação de IHC através de Observação. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.|
+| 5    | Foram identificados e categorizados os problemas encontrados na interação dos usuários com o protótipo? | Sim | 1.0, 27/01/2025 às 21:20 | ![5](../../assets/referenciasLista/entrega07/pergunta-5.png) Página: 289, Capítulo 12.2. Avaliação de IHC através de Observação. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.|
+| 6    | Para cada problema observado, os entrevistadores elaboraram explicações sobre as causas e propôs sugestões de melhorias? | Sim | 1.0, 27/01/2025 às 21:20 | ![6](../../assets/referenciasLista/entrega07/pergunta-6.png) Página: 289, Capítulo 12.2. Avaliação de IHC através de Observação. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.|
+| 7    | O relato apresenta os dados em tabelas para análise? | Sim |  1.0, 27/01/2025 às 21:20 | ![7](../../assets/referenciasLista/entrega07/pergunta-7.png) Página: 289, Capítulo 12.2. Avaliação de IHC através de Observação. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.|
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+**Figura 6** - Gráfico das respostas avaliadas na entrega 7. </p>
+
+![Respostas](../../assets/AV_G6_Grafico7.png)
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
 ## Referência Bibliográfica
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.  
@@ -198,4 +220,4 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.3   | Adição da avaliação do grupo +1, etapa 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 04/12/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 04/12/2024 |
 |  1.4   | Realização da avaliação 4 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 11/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 11/12/2024 |
 |  1.4   | Realização da avaliação 6 | [Felipe Rodrigues](https://github.com/felipeJRdev)| 15/01/2025 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 15/01/2025 |
-
+|  1.5   | Realização da avaliação 7 | [Felipe Rodrigues](https://github.com/felipeJRdev)| 27/01/2025 | | |
