@@ -18,14 +18,18 @@ A tabela abaixo apresenta a lista de verificação do artefato de Planejamento d
 | 4    | Os objetivos gerais da avaliação e o porquê e para quem os objetivos são importantes estão descritos no planejamento? |          | 1.0, 02/02/2025 às 23:20 | ![4](../../assets/referenciasLista/entrega08/verificacaoDECIDE/pergunta4DECIDE.png) BARBOSA, S. D. J.; SANTANA, B. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. Capítulo 9, Item 9.8, p. 313. |
 | 5    | Para cada objetivo, são exploradas perguntas específicas que consideram o perfil dos usuários-alvo? |          | 1.0, 02/02/2025 às 23:20 | ![5](../../assets/referenciasLista/entrega08/verificacaoDECIDE/pergunta5DECIDE.png) BARBOSA, S. D. J.; SANTANA, B. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. Capítulo 9, Item 9.8, p. 313. |
 | 6    | Foram definidos os métodos para responder as perguntas e atingir os objetivos esperados, considerando prazo, orçamento, equipamentos e o grau de conhecimento e experiência dos avaliadores? |          | 1.0, 02/02/2025 às 23:20 | ![6](../../assets/referenciasLista/entrega08/verificacaoDECIDE/pergunta6DECIDE.png) BARBOSA, S. D. J.; SANTANA, B. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. Capítulo 9, Item 9.8, p. 313. |
+| 7    | Os objetivos gerais da avaliação foram claramente definidos? |  | 1.0, 03/02/2025 | ![7](../../assets/referenciasLista/entrega08/verificacaoDECIDE/pergunta7DECIDE.png) BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010. p. 313. |
+| 8    | Os objetivos são relevantes para os usuários e o sistema avaliado? |  | 1.0, 03/02/2025 | ![8](../../assets/referenciasLista/entrega08/verificacaoDECIDE/pergunta8e9DECIDE.png) BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010. p. 313. |
+| 9    | Os prazos e o orçamento são compatíveis com o planejamento? |  | 1.0, 03/02/2025 | ![9](../../assets/referenciasLista/entrega08/verificacaoDECIDE/pergunta8e9DECIDE.png) BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010. p. 313. |
+| 10    | Os objetivos gerais da avaliação foram claramente definidos? |  | 1.0, 03/02/2025 | ![10](../../assets/referenciasLista/entrega08/verificacaoDECIDE/pergunta10DECIDE.png) Página 273, Capítulo 11. Planejamento da Avaliação de IHC. BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.   |
+| 11    | Os objetivos são relevantes para os usuários e o sistema avaliado? |  | 1.0, 03/02/2025 | ![11](../../assets/referenciasLista/entrega08/verificacaoDECIDE/pergunta11DECIDE.png) Página 271, Capítulo 11. Planejamento da Avaliação de IHC. BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010. |
+| 12    | Os prazos e o orçamento são compatíveis com o planejamento? |  | 1.0, 03/02/2025 | ![12](../../assets/referenciasLista/entrega08/verificacaoDECIDE/pergunta12DECIDE.png) Página 276, Capítulo 11. Planejamento da Avaliação de IHC. BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avaliação de IHC. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010. |
 
-
-
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjese), 2025.
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjese), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor Santos](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) 2025.
 
 ## Referência Bibliográfica
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.  
+> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.  
 
 ## Histórico de Versões
 
@@ -33,4 +37,4 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Co
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | :----: | :-------: | :-------: | :--: | :-------------------------------: | :-------------: |
-|  1.0   | Criação do Documento | [Felipe Rodrigues](https://github.com/felipeJRdev) | 02/02/2025 | |   |
+|  1.0   | Criação do Documento | [Felipe Rodrigues](https://github.com/felipeJRdev) | 02/02/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor Santos](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian)| 03/02/2025 |
