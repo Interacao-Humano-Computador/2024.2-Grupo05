@@ -72,6 +72,15 @@ nav:
       - Avaliações:   
           - Autoavaliação: entregas/avaliações/autoavaliação_1.md
           - Avaliação Grupo 6: entregas/avaliações/avaliação_grupo06_1.md
+          - Listas de Verificações da Etapa 8:
+            - Lista de Verificação Personas: entregas/entrega_8/listaVerificacaoPersonas.md
+            - Lista de Verificação Elenco de Personas: entregas/entrega_8/listaVerificacaoElencoPersonas.md
+            - Lista de Verificação Cenários: entregas/entrega_8/listaVerificacaoCenarios.md
+            - Lista de Verificação HTA: entregas/entrega_8/listaVerificacaoHTA.md
+            - Lista de Verificação CTT: entregas/entrega_8/listaVerificacaoCTT.md
+            - Lista de Verificação Planejamento da Avaliação com o Framework DECIDE: entregas/entrega_8/listaVerificacaoDECIDE.md
+            - Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação: entregas/entrega_8/listaVerificacaoResultados.md
+
 
 # Tema do MkDocs
 theme:
