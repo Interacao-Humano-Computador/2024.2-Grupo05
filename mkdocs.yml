@@ -72,6 +72,24 @@ nav:
       - Avaliações:   
           - Autoavaliação: entregas/avaliações/autoavaliação_1.md
           - Avaliação Grupo 6: entregas/avaliações/avaliação_grupo06_1.md
+          - Listas de Verificações da Etapa 8:
+            - Lista de Verificação Grupo 06:
+                - Lista de Verificação Personas: entregas/entrega_8/verificacao_grupo06/listaVerificacaoPersonas.md
+                - Lista de Verificação Elenco de Personas: entregas/entrega_8/verificacao_grupo06/listaVerificacaoElencoPersonas.md
+                - Lista de Verificação Cenários: entregas/entrega_8/verificacao_grupo06/listaVerificacaoCenarios.md
+                - Lista de Verificação HTA: entregas/entrega_8/verificacao_grupo06/listaVerificacaoHTA.md
+                - Lista de Verificação CTT: entregas/entrega_8/verificacao_grupo06/listaVerificacaoCTT.md
+                - Lista de Verificação Planejamento da Avaliação com o Framework DECIDE: entregas/entrega_8/verificacao_grupo06/listaVerificacaoDECIDE.md
+                - Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação: entregas/entrega_8/verificacao_grupo06/listaVerificacaoResultados.md
+            - lista de Verificação Interna:
+                - Lista de Verificação Personas: entregas/entrega_8/verificacao_interna/listaVerificacaoPersonas.md
+                - Lista de Verificação Elenco de Personas: entregas/entrega_8/verificacao_interna/listaVerificacaoElencoPersonas.md
+                - Lista de Verificação Cenários: entregas/entrega_8/verificacao_interna/listaVerificacaoCenarios.md
+                - Lista de Verificação HTA: entregas/entrega_8/verificacao_interna/listaVerificacaoHTA.md
+                - Lista de Verificação CTT: entregas/entrega_8/verificacao_interna/listaVerificacaoCTT.md
+                - Lista de Verificação Planejamento da Avaliação com o Framework DECIDE: entregas/entrega_8/verificacao_interna/listaVerificacaoDECIDE.md
+                - Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação: entregas/entrega_8/verificacao_interna/listaVerificacaoResultados.md
+
 
 # Tema do MkDocs
 theme:
