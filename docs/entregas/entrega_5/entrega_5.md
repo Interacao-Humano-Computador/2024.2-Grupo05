@@ -28,4 +28,4 @@ Autor(es): [Jéssica Eveline ](https://github.com/xzxjesse), 2024.
 
 | Versão |                   Descrição                   |                      Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :-------------------------------------------: | :-------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da entrega e disponibilização do link | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |             |                 |
+|  1.0   | Criação da entrega e disponibilização do link | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |       [Felipe Rodrigues](https://github.com/felipeJRdev)      |         08/02/2025        |

@@ -206,4 +206,4 @@ O Termo de Consentimento Livre e Esclarecido assinado está disponível no segui
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do relato de resultado | [Jéssica Eveline](https://github.com/xzxjese) | 26/01/2025 |  |  |
+|  1.0   | Criação do relato de resultado | [Jéssica Eveline](https://github.com/xzxjese) | 26/01/2025 | [Felipe Rodrigues](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/relatos_de_resultados_prototipo_de_papel/relato_FelipeRodrigues/) | 08/02/2025 |

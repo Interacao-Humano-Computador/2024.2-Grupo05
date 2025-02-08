@@ -113,43 +113,234 @@ A versão final do protótipo, com as melhorias implementadas, foi disponibiliza
 ## 5. O(s) resultado(s) alcançado(s) com a execução do projeto
 (Em relação ao objetivo do projeto)
 
-## 6. Tabela: Ferramentas utilizadas em cada etapa do projeto
+## 6. Ferramentas utilizadas em cada etapa do projeto
 
-| Etapa do Projeto       | Ferramenta Utilizada      | Descrição da Utilização       |
-|-----------------------|---------------------------|-------------------------------|
-| Exemplo: Prototipagem | Figma                     | Criação de protótipos de alta fidelidade |
+<font size="3"><p style="text-align: left">**Tabela 1** - Ferramentas utilizadas em cada etapa do projeto.</p></font>
 
-## 7. Tabela: Técnicas utilizadas e responsáveis
+??? abstract "Tabela 1"
+
+    <center>
+
+    | Etapa do Projeto       | Ferramenta Utilizada      | Descrição da Utilização       |
+    |-----------------------|---------------------------|-------------------------------|
+    | Todas as Etapas     |   [Git e Github](https://docs.github.com/pt)   |  Utilizado para versionamento e disponibilização dos artefatos.   |
+    | Todas as Etapas | [GitPages](https://pages.github.com/) | Utilizado para visualizão dos artefatos em páginas web |
+    | Todas as Etapas | [Google Spreadsheet](https://docs.google.com/spreadsheets) | Utilizado para criação de gráficos dos resultados de verificação do grupo e grupo +1 |
+    | Todas as Etapas | [MkDocs](https://www.mkdocs.org/) | Utilizado para compilação da página web visualizada pelo GitPages. |
+    | Todas as Etapas | [OBS Studio](https://obsproject.com/pt-br) | Utilizado para gravações dos vídeos de entregas, inspeção e entrevistas com usuários. |
+    | Todas as Etapas | [Telegram](https://web.telegram.org/) | Utilizado para sanar dúvidas e comunicação.  | 
+    | Todas as Etapas | [WhatsApp](https://web.whatsapp.com/pt-br) | Utilizado para comunicação entre o grupo e organização de tarefas. | 
+    | Todas as Etapas | [YouTube](https://www.youtube.com/) | Utilizado para hospedagem dos vídeos de inspeção, entrega e entrevistas. | 
+    | Etapa 2 | [LucidChart](https://www.lucidchart.com/pages/pt) | Utilizado para criação de diagramas da Árvore Hierárquica de Tarefas. |
+    | Etapa 4   | [Storyboard That](https://www.storyboardthat.com/) | Utilizada por alguns membros para criação de cenas do storyboard. |
+    | Etapa 6 | [Figma](https://www.figma.com/) | Utilizado para Criação do Protótipo de Alta Fidelidade. |
+    
+    </center>
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+## 7. Técnicas utilizadas e responsáveis
 
 | Técnica Utilizada      | Participante(s) Responsável(is) |
 |------------------------|---------------------------------|
 | Exemplo: Entrevistas   | Nome do participante           |
 
-## 8. Tabela: Artefatos criados por etapa
+## 8. Artefatos criados por etapa
 
-| Etapa do Projeto       | Artefato Criado               | Autor         | Revisor       |
-|------------------------|-------------------------------|---------------|---------------|
-| Exemplo: Análise       | Relatório de requisitos       | Nome do autor | Nome do revisor |
+<font size="3"><p style="text-align: left">**Tabela 3** - Artefatos Entrega 1.</p></font>
 
-## 9. Tabela: Avaliações dos protótipos
+??? abstract "Tabela 3"
+
+    <center>
+
+    | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       |
+    |------------------------|-------------------------------|---------------|---------------|
+    | Etapa 1       | [Cronograma Planejado](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/cronograma/)       | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+    | Etapa 1 | [Cronograma Executado](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/cronograma_executado/) | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 
+    |Etapa 1 | [Processos de Design](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/design/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 
+    | Etapa 1 | [Ferramentas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/ferramentas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+    | Etapa 1 | [Heatmap](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/heatmap/) | [João Vitor](https://github.com/Jauzimm) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 1 | [Metodologia](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/metodologia/) | [Jéssica Eveline](https://github.com/xzxjesse) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 1 | [Site escolhido](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/site_escolhido/) | [João Vitor](https://github.com/Jauzimm) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 1 | [Sites avaliados](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/sites_avaliados/) | [João Vitor](https://github.com/Jauzimm) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 1 | [Ata da reunião](https://interacao-humano-computador.github.io/2024.2-CDMOJ/atas/ataN1_07_11_2024/) | [João Vitor](https://github.com/Jauzimm)  | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 1 | [Autoavaliação](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/avalia%C3%A7%C3%B5es/autoavalia%C3%A7%C3%A3o_1/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa | [Avaliação do Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/avalia%C3%A7%C3%B5es/avalia%C3%A7%C3%A3o_grupo06_1/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 1 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/entrega_1/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [João Vitor](https://github.com/Jauzimm) |
+
+    </center>
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+
+<font size="3"><p style="text-align: left">**Tabela 4** - Artefatos Entrega 2.</p></font>
+
+??? abstract "Tabela 4"
+
+    <center>
+
+    | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       |
+    |------------------------|-------------------------------|---------------|---------------|
+    | Etapa 2 | [Aspectos Éticos de Pesquisas com Pessoas e termo de consentimento](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_2/aspectos_eticos/) | [Jéssica Eveline](https://github.com/xzxjesse),[Marcelo Adrian](https://github.com/Marcelo-Adrian)  | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+    | Etapa 2 | [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_2/perfil/) | [Felipe Rodrigues](https://github.com/felipeJRdev),[João Vitor](https://github.com/Jauzimm)  | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 2 | [Análise de tarefas Modelo HTA](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_2/analise_de_tarefas/HTA/) | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)  |
+    | Etapa 2 |  [Análise de tarefas Modelo GOMS](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_2/analise_de_tarefas/GOMS/) | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 2 | [Cenários](http://127.0.0.1:8000/entregas/entrega_2/cenarios/) | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 2 | [Características da plataforma](http://127.0.0.1:8000/entregas/entrega_2/caracteristicas/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho)  | [Jéssica Eveline](https://github.com/xzxjesse) |
+    | Etapa 2 | [Guia de Estilo](http://127.0.0.1:8000/entregas/entrega_2/guia_de_estilo/) | [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+    | Etapa 2 | [Entrega](http://127.0.0.1:8000/entregas/entrega_2/entrega_2/) | [Jéssica Eveline ](https://github.com/xzxjesse) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+
+    </center>
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+<font size="3"><p style="text-align: left">**Tabela 5** - Artefatos Entrega 3.</p></font>
+
+??? abstract "Tabela 5"
+
+    <center>
+
+    | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       |
+    |------------------------|-------------------------------|---------------|---------------|
+    | Etapa 3 | [Príncipios Gerais](http://127.0.0.1:8000/entregas/entrega_3/principiosGerais/) | [Felipe Rodrigues](https://github.com/felipeJRdev) e [João Vitor](https://github.com/Jauzimm)  | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+    | Etapa 3 | [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_3/metas_de_usabilidade/) | [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+    | Etapa 3 | [Ata da reunião](https://interacao-humano-computador.github.io/2024.2-CDMOJ/atas/ataN2_30_11_2024/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [João Vitor](https://github.com/Jauzimm) |
+    | Etapa 3 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_3/entrega_3/) | [Jéssica Eveline ](https://github.com/xzxjesse)  | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+
+    </center>
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+<font size="3"><p style="text-align: left">**Tabela 6** - Artefatos Entrega 4.</p></font>
+
+??? abstract "Tabela 6"
+
+    <center>
+
+    | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       |
+    |------------------------|-------------------------------|---------------|---------------|
+    | Etapa 4 | [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_4/storyboard/planejamento_da_avalia%C3%A7%C3%A3o/) | [Jéssica Eveline](https://github.com/xzxjesse)  | [Felipe Rodrigues](https://github.com/felipeJRdev) |
+    | Etapa 4 | [Planejamento do Relato de Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_4/storyboard/planejamento_do_relato/) | [Jéssica Eveline](https://github.com/xzxjesse)  | [Felipe Rodrigues](https://github.com/felipeJRdev) |
+    | Etapa 4 | [Storyboards](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_4/storyboard/storyboards/) | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 4 | [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_4/analise_requisitos/planejamento_avaliacao/) | [João Vitor](https://github.com/Jauzimm)  | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 4 | [Planejamento do relato de resultados da avaliação da análise de tarefas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_4/analise_requisitos/planejamento_relato/) | [João Vitor](https://github.com/Jauzimm)  | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 4 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_4/entrega_4/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+
+    </center>
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+<font size="3"><p style="text-align: left">**Tabela 7** - Artefatos Entrega 5.</p></font>
+
+??? abstract "Tabela 7"
+
+    <center>
+
+    | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       |
+    |------------------------|-------------------------------|---------------|---------------|
+    | Etapa 5 | [Relato dos Resultados do Storyboard e da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_5/relato_resultados_storyboard_analise_tarefas/) | [Jéssica Eveline](https://github.com/xzxjesse)  | [João Vitor](https://github.com/Jauzimm) |
+    | Etapa 5 | [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_5/prototipo_papel/planejamento_avaliacao/) | [João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev)  | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+    | Etapa 5 | [Planejamento do Relato de Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_5/prototipo_papel/planejamento_relato/) | [Felipe Rodrigues](https://github.com/felipeJRdev)  | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |
+    | Etapa 5 | [Ata da reunião](https://interacao-humano-computador.github.io/2024.2-CDMOJ/atas/ataN3_11_01_2025/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [João Vitor](https://github.com/Jauzimm) |
+    | Etapa 5 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_5/entrega_5/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Felipe Rodrigues](https://github.com/felipeJRdev) | 
+
+    </center>
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+<font size="3"><p style="text-align: left">**Tabela 8** - Artefatos Entrega 6.</p></font>
+
+??? abstract "Tabela 8"
+
+    <center>
+
+    | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       |
+    |------------------------|-------------------------------|---------------|---------------|
+    | Etapa 6 | [Relato dos Resultados do Protótipo de Papel Felipe Rodrigues](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_5/relato_resultados_storyboard_analise_tarefas/) | [Felipe Rodrigues](https://github.com/felipeJRdev)  | [Jéssica Eveline](https://github.com/xzxjesse) |
+    | Etapa 6 | [Relato dos Resultados do Protótipo de Papel Jéssica Eveline](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/relatos_de_resultados_prototipo_de_papel/relato_JessicaEveline/) | [Jéssica Eveline](https://github.com/xzxjese)  | [Felipe Rodrigues](https://github.com/felipeJRdev) |
+    | Etapa 6 | [Relato dos Resultados do Protótipo de Papel João Vitor](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/relatos_de_resultados_prototipo_de_papel/relato_Jo%C3%A3oVitor/) | [João Vitor](https://github.com/Jauzimm)  | [Jéssica Eveline](https://github.com/xzxjesse) |
+    | Etapa 6 | [Relato dos Resultados do Protótipo de Papel Ruan Carvalho](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_5/relato_resultados_storyboard_analise_tarefas/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho)  | [Felipe Rodrigues](https://github.com/felipeJRdev)|
+    | Etapa 6 | [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/prototipo_alta_fidelidade/planejamento_avaliacao/) | [João Vitor](https://github.com/Jauzimm)  | [Jéssica Eveline](https://github.com/xzxjese) |
+    | Etapa 6 | [Planejamento do Relato de Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/prototipo_alta_fidelidade/planejamento_relato/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | [João Vitor](https://github.com/Jauzimm) |
+    | Etapa 6 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/entrega_6/) | [João Vitor](https://github.com/Jauzimm)  | [Felipe Rodrigues](https://github.com/felipeJRdev) |
+
+    </center>
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+<font size="3"><p style="text-align: left">**Tabela 9** - Artefatos Entrega 7.</p></font>
+
+??? abstract "Tabela 9"
+
+    <center>
+
+    | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       |
+    |------------------------|-------------------------------|---------------|---------------|
+    | Etapa 7 | [Relato dos Resultados do Protótipo de Alta Fidelidade Felipe Rodrigues](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_FelipeRodrigues/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Jéssica Eveline](https://github.com/xzxjesse) |
+    | Etapa 7 | [Relato dos Resultados do Protótipo de Alta Fidelidade Jéssica Eveline](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_JessicaEveline/) | [Jéssica Eveline](https://github.com/xzxjese) | [Felipe Rodrigues](https://github.com/felipeJRdev)|
+    | Etapa 7 | [Relato dos Resultados do Protótipo de Alta Fidelidade  Ruan Carvalho](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_RuanCarvalho/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho)  | [Jéssica Eveline](https://github.com/xzxjesse)|
+    | Etapa 7 | [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/prototipo_alta_fidelidade/planejamento_avaliacao/) | [João Vitor](https://github.com/Jauzimm)  | [Jéssica Eveline](https://github.com/xzxjese) |
+    | Etapa 7 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/entrega_7/) | [João Vitor](https://github.com/Jauzimm)  | [Felipe Rodrigues](https://github.com/felipeJRdev) |
+
+    </center>
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+
+<font size="3"><p style="text-align: left">**Tabela 10** - Artefatos Entrega 8.</p></font>
+
+??? abstract "Tabela 10"
+
+    <center>
+
+    Tabela das listas de Verifiações Internas
+
+    | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       |
+    |------------------------|-------------------------------|---------------|---------------|
+    | Etapa 8 | [Lista de Verificação Personas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação Elenco de Personas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoElencoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação Cenários](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoCenarios/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação HTA](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoHTA/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação CTT](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoCTT/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação Planejamento da Avaliação com o Framework DECIDE](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoDECIDE/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoResultados/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+
+    Tabela das listas de Verifiações do Grupo + 1
+
+    | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       |
+    |------------------------|-------------------------------|---------------|---------------|
+    | Etapa 8 | [Lista de Verificação Personas Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação Elenco de Personas Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoElencoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação Cenários Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoCenarios/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação HTA Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoHTA/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação CTT Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoCTT/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação Planejamento da Avaliação com o Framework DECIDE Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoDECIDE/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+    | Etapa 8 | [Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoResultados/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+
+    </center>
+
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+
+
+## 9.  Avaliações dos protótipos
 
 | Protótipo Avaliado     | Entrevistadores               | Nº de Participantes | Participantes do Grupo |
 |------------------------|-------------------------------|---------------------|------------------------|
 | Exemplo: Protótipo 1   | Nome do entrevistador         | 5                   | Nome do participante   |
 
-## 10. Tabela: Verificação dos artefatos
+## 10.  Verificação dos artefatos
 
 | Artefato Verificado    | Autor                         | Revisor             | Método de Verificação  |
 |------------------------|-------------------------------|---------------------|------------------------|
 | Exemplo: Checklist     | Nome do autor                 | Nome do revisor     | Checklist              |
 
-## 11. Tabela: Ferramentas e etapas do projeto
+## 11.  Ferramentas e etapas do projeto
 
 | Etapa do Projeto       | Ferramenta Utilizada          | Descrição da Utilização       |
 |------------------------|-------------------------------|-------------------------------|
 | Exemplo: Testes        | Google Forms                  | Coleta de feedback dos usuários |
 
-## 12. Tabela: Vídeos das apresentações
+## 12.  Vídeos das apresentações
 
 | Etapa do Projeto       | Participante(s) na Gravação   |
 |------------------------|-------------------------------|
