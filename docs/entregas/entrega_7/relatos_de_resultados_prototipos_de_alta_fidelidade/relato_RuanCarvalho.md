@@ -20,17 +20,19 @@ A prototipação de alta fidelidade consiste em um método de modelagem de prot�
 
 Durante o processo de planejamento da avaliação de protótipos de alta fidelidade foram criados os protótipos do CD-MOJ pelos membros do grupo, cada um refletindo uma função trabalhada por um membro do grupo e ao fim do desenvolvimento dos protótipos os mesmos foram aglutinados de forma a refletir uma experiência mais fiel de navegação, permitindo com que os avaliados possam navegar pelos diferentes fluxos desenvolvidos no mesmo protótipo, tornando a navegação mais fluida e precisa.
 
+O protótipo pode ser visualizado através do seguinte link:  
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/2Ug3PxvPbD6D3BJXl7L2fn/Feedback---CDMoj?node-id=17-183&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4&embed-host=share" allowfullscreen></iframe>
+
 ### 3. O número e o perfil de avaliadores e dos participantes
 
 A avaliação de protótipo de alta fidelidade foi realizada com 3 participantes, seguindo o pensamento do consultor de usabilidade Steve Krug, que defende que não exixte um número exato de participantes que devem ser testados, afirmando que testar um usuário é 100% melhor do que não testar nenhum. Segundo Krug, 3 ou 4 usuários seriam suficiêntes para detectar a maioria dos problemas, permitindo fazer a análize no mesmo dia.
 
-#### Tabela 01: Avaliadores e participantes
+#### Tabela 01: Entrevistador(es) e entrevistado(s).
 
-| Avaliador | Participantes | Local da avaliação |
-| --------- | ------------- | ------------------ |
-| Jéssica Eveline, João Vitor e Ruan Carvalho | Gabriel | Campus da FCTE |
-| Jéssica Eveline, João Vitor e Ruan Carvalho | Luiza | Campus da FCTE |
-| Jéssica Eveline, João Vitor e Ruan Carvalho | Pedro | Campus da FCTE |
+| Entrevistador(es) | Entrevistado(s)| Horário | Data | Local |
+|:---:|:---:|:---:|:---:|:---:|
+| [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Gabriel, Pedro e Luiza | 12:00 - 12:50 | 23/01/2025 |Universidade de Brasília Campus Gama |
 
 Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 

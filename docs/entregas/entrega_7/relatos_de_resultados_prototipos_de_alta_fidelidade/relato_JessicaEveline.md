@@ -14,35 +14,32 @@ O método de prototipação de alta fidelidade utilizado foi realizado no Figma,
 
 Segundo Krug, o número ideal de participantes para testes de usabilidade é de 3 a 4 pessoas, pois essa quantidade é suficiente para identificar a maioria dos problemas de usabilidade de um sistema sem sobrecarregar o processo. Seguindo essa recomendação, o teste foi realizado com 3 participantes que atendiam ao perfil de usuário definido para o sistema. Detalhes sobre os participantes e as perguntas respondidas durante o planejamento da avaliação do protótipo de alta fidelidade estão descritos na seção [8. Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade](#8-perguntas-respondidas-no-planejamento-da-avaliação-do-protótipo-de-alta-fidelidade).
 
-**Tabela 1 -** Entrevistador(es) e entrevistado(s).
+#### Tabela 01: Entrevistador(es) e entrevistado(s).
 
 | Entrevistador(es) | Entrevistado(s)| Horário | Data | Local |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Gabriel, Pedro e Luiza | 12:00 - 12:50 | 23/01/2025 |Universidade de Brasília Campus Gama |
+
+Autor: [Jéssica Eveline](https://github.com/xzxjesse)
 
 ## 4. As tarefas executadas pelos participantes
 
-1. **Acessar o menu lateral a partir da tela inicial**  
-   - **Objetivo**: O usuário deveria clicar na imagem de foto do perfil localizada na tela inicial para abrir o menu lateral.
-   - **Relação com o fluxo do sistema**: Essa tarefa testa a interação inicial com a interface e a funcionalidade do menu lateral, essencial para navegar pelas configurações do sistema.
+#### Tabela 02: tarefas executadas
 
-2. **Navegar até a seção de configurações**  
-   - **Objetivo**: Após abrir o menu lateral, o usuário deveria localizar e selecionar a opção "Configurações".
-   - **Relação com o fluxo do sistema**: Essa tarefa verifica a clareza e a eficiência da navegação no menu lateral, além de testar se os itens estão organizados de forma intuitiva.
+| Etapa |Tarefa executada| Objetivo | Relação com o fluxo do sistema |
+| ----- | ---------------| -------- | ------------------------------ |
+| 1. | Acessar o menu lateral a partir da tela inicial | O usuário deveria clicar na imagem de foto do perfil localizada na tela inicial para abrir o menu lateral. | Essa tarefa testa a interação inicial com a interface e a funcionalidade do menu lateral, essencial para navegar pelas configurações do sistema. |
+| 2. | Navegar até a seção de configurações | Após abrir o menu lateral, o usuário deveria localizar e selecionar a opção "Configurações". | Essa tarefa verifica a clareza e a eficiência da navegação no menu lateral, além de testar se os itens estão organizados de forma intuitiva. |
+| 3. | Encontrar a opção de "Alterar Senha" dentro de Configurações| O usuário deveria localizar a opção de "Alterar Senha" dentro da seção de configurações. | Avalia a eficácia da organização das opções dentro da seção de configurações e a facilidade de encontrar funções importantes, como a alteração de senha. |
+| 4. | Alterar a senha e confirmar a ação |  O usuário deveria seguir os critérios fornecidos para alterar a senha, incluindo inserir a nova senha e confirmar a alteração. | Testa a funcionalidade da alteração de senha, incluindo a usabilidade do formulário de entrada e a clareza das instruções, além de verificar se o sistema responde adequadamente à ação do usuário. |
 
-3. **Encontrar a opção de "Alterar Senha" dentro de Configurações**  
-   - **Objetivo**: O usuário deveria localizar a opção de "Alterar Senha" dentro da seção de configurações.
-   - **Relação com o fluxo do sistema**: Avalia a eficácia da organização das opções dentro da seção de configurações e a facilidade de encontrar funções importantes, como a alteração de senha.
-
-4. **Alterar a senha e confirmar a ação**  
-   - **Objetivo**: O usuário deveria seguir os critérios fornecidos para alterar a senha, incluindo inserir a nova senha e confirmar a alteração.
-   - **Relação com o fluxo do sistema**: Testa a funcionalidade da alteração de senha, incluindo a usabilidade do formulário de entrada e a clareza das instruções, além de verificar se o sistema responde adequadamente à ação do usuário.
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ## 5. Problemas de usabilidade corrigidos
 
 Com esta avaliação, não foram corrigidos problemas de usabilidade encontrados.
 
-**Tabela 2 -** Problemas de usabilidade corrigidos.
+#### Tabela 03: Problemas de usabilidade corrigidos.
 
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Correção Implementada**                       | **Status Após Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
@@ -52,7 +49,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 ## 6. Problemas de usabilidade ainda não corrigidos
 
-**Tabela 3 -** Problemas de usabilidade ainda não corrigidos.
+#### Tabela 04: Problemas de usabilidade ainda não corrigidos.
 
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Prioridade**                       | **Sugestões de Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|--------------------------------------|--------------------------|
@@ -64,13 +61,21 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 ## 7. Partes do sistema que podem ser melhor elaboradas
 
-Algumas áreas do sistema podem ser aprimoradas para melhorar a usabilidade. Primeiramente, a logo do sistema não está claramente identificada como clicável, o que pode dificultar o retorno à página inicial. Recomenda-se torná-la mais intuitiva, adicionando indicadores visuais ou texto que deixem claro que ela funciona como um botão para a home. Além disso, o menu de perfil carece de uma opção clara de "Home", o que pode confundir os usuários que procuram essa funcionalidade. Adicionar essa opção no menu de perfil pode facilitar a navegação. Por fim, a funcionalidade de menu de opções associada à foto de perfil não está evidente, o que pode dificultar sua descoberta. Uma solução seria incluir um ícone ou texto próximo à foto de perfil para indicar que se trata de um menu de opções. Esses ajustes são prioritários para melhorar a experiência do usuário.
+#### Tabela 05: Melhoramentos possíveis
+
+| Sessão | Sugestão de melhoria |
+| ------ | -------------------- |
+| Logo do sitema | Tornar a logo clicável, facilitando o retorno para a página inicial. |
+| Menu de perfil | Adicionar um botão "Home", tornando a navegação mais prática e intuitiva. |
+| Menu de opções | Incluir ícone ou texto próximo a foto de perfil, deixando claro que se trata de um menu de opções. |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ## 8. Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade
 
 **Gabriel**
 
-**Tabela 4 -** Perguntas realizadas no início da entrevista com o Gabriel.
+#### Tabela 06: Perguntas realizadas no início da entrevista com o Gabriel.
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -82,7 +87,7 @@ Algumas áreas do sistema podem ser aprimoradas para melhorar a usabilidade. Pri
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
-**Tabela 5 -** Perguntas respondidas pela entrevistadora após a entrevista com o Gabriel.
+#### Tabela 07: Perguntas respondidas pela entrevistadora após a entrevista com o Gabriel.
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -93,7 +98,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
-**Tabela 6 -** Pergunta realizada ao entrevistado Gabriel ao final da entrevista.
+#### Tabela 08: Pergunta realizada ao entrevistado Gabriel ao final da entrevista.
 
 | **Pergunta** | **Resposta** |
 |--------------|--------------|
@@ -103,7 +108,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 **Pedro**
 
-**Tabela 7 -** Perguntas realizadas no início da entrevista com o Pedro.
+#### Tabela 09: Perguntas realizadas no início da entrevista com o Pedro.
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -115,7 +120,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
-**Tabela 8 -** Perguntas respondidas pela entrevistadora após a entrevista com o Pedro.
+#### Tabela 10: Perguntas respondidas pela entrevistadora após a entrevista com o Pedro.
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -126,7 +131,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
-**Tabela 9 -** Pergunta realizada ao entrevistado Pedro ao final da entrevista.
+#### Tabela 11: Pergunta realizada ao entrevistado Pedro ao final da entrevista.
 
 | **Pergunta** | **Resposta** |
 |--------------|--------------|
@@ -136,7 +141,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 **Luiza**
 
-**Tabela 10 -** Perguntas realizadas no início da entrevista com a Luiza.
+#### Tabela 12: Perguntas realizadas no início da entrevista com a Luiza.
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -148,7 +153,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
-**Tabela 11 -** Perguntas respondidas pela entrevistadora após a entrevista com a Luiza.
+#### Tabela 13: Perguntas respondidas pela entrevistadora após a entrevista com a Luiza.
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -159,7 +164,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
-**Tabela 12 -** Pergunta realizada a entrevistada Luiza ao final da entrevista.
+#### Tabela 14: Pergunta realizada a entrevistada Luiza ao final da entrevista.
 
 | **Pergunta** | **Resposta** |
 | -------- | -------- |
@@ -206,4 +211,5 @@ O Termo de Consentimento Livre e Esclarecido assinado está disponível no segui
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do relato de resultado | [Jéssica Eveline](https://github.com/xzxjese) | 26/01/2025 |  |  |
+|  1.0   | Criação do relato de resultado | [Jéssica Eveline](https://github.com/xzxjese) | 26/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  |  |
