@@ -22,7 +22,7 @@ Os storyboards foram utilizados como ferramenta para contextualizar os cenários
 
 | Avaliador | Participantes | Local da avaliação |
 | --------- | ------------- | ------------------ |
-| Ruan Carvalho | Gabriel Henrique | Campus da FCTE |
+| João Vitor | Arthur | Campus da FCTE |
 
 Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
@@ -54,13 +54,13 @@ A entrevista foi realizada seguindo o fluxo estabelecido pela equipe nos planeja
 
 | Pergunta | Resposta |
 |----------|----------|
-| Qual o seu nome? | Gabriel Henrique |
+| Qual o seu nome? | Arthur |
 | Quantos anos você tem? | 21 |
 | Qual a sua ocupação? | Estudante |
 | Qual o seu nível de escolaridade? | Superior - incompleto |
 | Você já utilizou algum juiz online? Se sim, qual? | ( x ) Sim (  ) Não / CD-MOJ |
 | Você conhece o CD-MOJ? | ( x ) Sim (  ) Não |
-| Você utiliza o CD-MOJ? Se sim, qual o seu objetivo ao utilizar a plataforma? | ( x ) Sim (  ) Não / treinamento e entrega de atividades |
+| Você utiliza o CD-MOJ? Se sim, qual o seu objetivo ao utilizar a plataforma? | ( x ) Sim (  ) Não / entrega de atividades |
 
 Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
@@ -86,22 +86,22 @@ Autor: Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 | Pergunta | Resposta |
 |----------|----------|
 | As etapas descritas no diagrama representam bem um fluxo de navegação para a realização da tarefa analisada? | ( x ) Sim (  ) Não |
-| Alguma etapa da tarefa lhe pareceu desnecessária? Se sim, qual? | (  ) Sim ( x ) Não |
+| Alguma etapa da tarefa lhe pareceu desnecessária? Se sim, qual? | ( x ) Sim (  ) Não / cadastro pelo Mojinho-BOT para acessar o treino livre |
 | Você encontrou alguma dificuldade de compreender a tarefa apresentada? Se sim, qual? | (  ) Sim ( x ) Não |
 | Em sua navegação, você acredita que conseguiria concluir a tarefa sem dificuldades? Se não, por quê? | ( x ) Sim (  ) Não |
-| Há algo que você sugere incluir ou modificar nas etapas apresentadas? | Não apresentou sugestões |
+| Há algo que você sugere incluir ou modificar nas etapas apresentadas? | Implementação de cadastro pelo próprio CD-MOJ, dispensando o uso do Mojinho-BOT |
 
 Autor: Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 #### Gravação da Entrevista
 
 - **Termo de Consentimento Livre e Esclarecido**  
-  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho: [Termo de Consentimento - Ruan Carvalho](../termos_de_consentimento/TermoDeConsentimento_RuanCarvalho.pdf)
+  O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte caminho:  [Termo de Consentimento - João Vitor](../termos_de_consentimento/TermoDeConsentimento_JoaoVitor.pdf)
 
 - **Gravação da Entrevista** 
   A gravação da entrevista pode ser assistida abaixo:
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/UMA3r5kAFsw" title="Gravação da Entrevista - Ruan Carvalho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uE0B3iwciwc?si=3ua7dGgvr1onTiOk" title="Gravação da Entrevista - João Vitor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusão  
 

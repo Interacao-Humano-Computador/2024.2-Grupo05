@@ -57,7 +57,7 @@ A entrevista foi realizada seguindo o fluxo estabelecido pela equipe nos planeja
 | Qual o seu nome? | Juan Pablo |
 | Quantos anos você tem? | 21 |
 | Qual a sua ocupação? | Estudante |
-| Qual o seu nível de escolaridade? | Superior - cursando |
+| Qual o seu nível de escolaridade? | Superior - incompleto |
 | Você já utilizou algum juiz online? Se sim, qual? | ( x ) Sim (  ) Não / CD-MOJ |
 | Você conhece o CD-MOJ? | ( x ) Sim (  ) Não |
 | Você utiliza o CD-MOJ? Se sim, qual o seu objetivo ao utilizar a plataforma? | ( x ) Sim (  ) Não / entrega de atividades acadêmicas |
