@@ -208,8 +208,12 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 | 10   | O planejamento da avaliação e do relato do protótipo de papel possui um cronograma definido? | Sim      |         1.0, 05/01/2025 e 22:30                              |             |
 | 11   | As questões éticas estão inclusas no planejamento de avaliação do protótipo de papel?     | Sim      |     1.0, 05/01/2025 e 22:30                                  |             |
 
-
 Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2025.
+
+**Figura 5** - Gráfico das respostas avaliadas na entrega 5 </p>
+
+![Respostas](../../assets/AutoAV_Grafico4.png) </p>
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 ## Entrega 06
 
@@ -233,6 +237,12 @@ Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2025.
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
+**Figura 6** - Gráfico das respostas avaliadas na entrega 6
+
+![Respostas](../../assets/AutoAV_Grafico6.png)
+
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
+
 ## Entrega 07
 
 <font size="3"><p style="text-align: left">**Tabela 7** - Aspectos avaliados na entrega 7.</p></font>
@@ -246,6 +256,12 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | 5    | Foram identificados e categorizados os problemas encontrados na interação dos usuários com o protótipo? | Sim | 1.0, 26/01/2025 às 22:05 | ![5](../../assets/referenciasLista/entrega07/pergunta-5.png) Página: 289, Capítulo 12.2. Avaliação de IHC através de Observação. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.|
 | 6    | Para cada problema observado, os entrevistadores elaboraram explicações sobre as causas e propôs sugestões de melhorias? | Sim | 1.0, 26/01/2025 às 22:07 | ![6](../../assets/referenciasLista/entrega07/pergunta-6.png) Página: 289, Capítulo 12.2. Avaliação de IHC através de Observação. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.|
 | 7    | O relato apresenta os dados em tabelas para análise? | Sim |  1.0, 26/01/2025 às 22:08 | ![7](../../assets/referenciasLista/entrega07/pergunta-7.png) Página: 289, Capítulo 12.2. Avaliação de IHC através de Observação. Livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.|
+
+**Figura 7** - Gráfico das respostas avaliadas na entrega 7
+
+![Respostas](../../assets/AutoAV_Grafico4.png)
+
+Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 
 ## Referência Bibliográfica
@@ -271,6 +287,6 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.4   | Adição da autoavaliação 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 03/12/2024 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 03/12/2024 |
 |  1.5   | Criação da tabela 4 e adição de gráficos | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   10/12/2024    |
 |  1.6   | Criação da tabela 5 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 05/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) |   05/01/2025    |
-|  1.7   | Criação da lista de verificação da entrega 6 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 14/01/2025  |        |        |
-|  1.8   | Avaliação do grupo | [Felipe Rodrigues](https://github.com/felipeJRdev) | 14/01/2025  |        |        |
+|  1.7   | Criação da lista de verificação da entrega 6 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 14/01/2025  | [João Vitor](https://github.com/Jauzimm) | 08/02/2025 |
+|  1.8   | Avaliação do grupo | [Felipe Rodrigues](https://github.com/felipeJRdev) | 14/01/2025  | [João Vitor](https://github.com/Jauzimm) | 08/02/2025 |
 |  1.8   | Criação da lista de verificação da entrega 7 | [João Vitor](https://github.com/Jauzimm) | 26/01/2025  |        |        |

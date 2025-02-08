@@ -27,13 +27,13 @@ Na figura 2, é apresentado o storyboard de troca de senha e sua complexidade.
 
 Autor: [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
-## Tarefa 3: Problemas com FAQ.
+## Tarefa 3: Submeter uma questão no treinamento livre.
 
-Na figura 3, storyboard apresentado trata da falta de conteúdo do FAQ para problemas comuns.
+Na figura 3, storyboard apresentado trata de submeter uma questão no treinamento livre.
 
-**Figura 3** - Storyboard problemas com FAQ.
+**Figura 3** - Storyboard submento uma questão no treinamento livre.
 
-![Figura 3 - Alterar problemas com FAQ.](../../../assets/storyboard/storyboardFAQ.png)
+![Figura 3 - Submeter uma questão no treinamento livre](../../../assets/storyboard/storyboardSubermeterQuestao.jpg)
 
 Autor: [João Vitor](https://github.com/Jauzimm), 2024.
 

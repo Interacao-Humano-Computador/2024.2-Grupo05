@@ -52,8 +52,6 @@ Com o objetivo definido, é necessário elaborar algumas perguntas específicas 
 | 12         | Você achou a interface intuitiva para a realização eficiente das tarefas? Não, por quê? | Resposta discursiva                      |
 | 13         | Há algo que você sugere incluir ou modificar nas etapas apresentadas?       | Resposta discursiva                      |
 
-
-
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
 ## C - Escolher (Choose)
@@ -66,7 +64,7 @@ Essa abordagem possui a capacidade de coletar informações detalhadas e permite
 
 ### Recrutamento
 
-Para o recrutamento, serão selecionadas cinco pessoas, uma para cada análise de tarefa realizada pelos integrantes do grupo. O público-alvo será definido com base no perfil do usuário. As entrevistas serão conduzidas de forma online para a realização dessa atividade.
+Para o recrutamento, serão selecionadas cinco pessoas, uma para cada análise de tarefa realizada pelos integrantes do grupo. O público-alvo será definido com base no perfil do usuário. As entrevistas serão conduzidas de forma presencial para a realização dessa atividade.
 
 ### Preparação
 
@@ -75,7 +73,7 @@ Os papéis podem ser divididos entre uma ou duas pessoas, sendo uma responsável
 
 ### Custos
 
-Para a realização da avaliação, serão necessários dispositivos com acesso à internet, como notebooks ou computadores, para realizar e gravar as entrevistas, tanto dos entrevistadores quanto dos entrevistados. Além disso, será necessário garantir que os participantes tenham acesso a ferramentas de videoconferência, para facilitar a interação online. Por se tratar de uma avaliação online, os custos operacionais são consideravelmente reduzidos, uma vez que não há necessidade de infraestrutura física, deslocamentos ou materiais impressos.
+Para a realização da avaliação, serão necessários dispositivos para registrar as entrevistas, como notebooks ou gravadores de áudio. Além disso, será necessário garantir um espaço físico adequado para a condução das entrevistas, com estrutura suficiente para acomodar entrevistadores e entrevistados. Por se tratar de uma avaliação presencial, os custos operacionais podem incluir deslocamentos, reserva de local e materiais impressos.
 
 ### Prazos
 
@@ -85,11 +83,11 @@ Cada entrevistador conduzirá uma sessão com duração aproximada de 20 minutos
 
 | Entrevistador(es)                       | Entrevistado(s)           | Horário de Início | Horário de Fim | Data       | Local              |
 |:--------------------------------------:|:-------------------------:|:----------------:|:--------------:|:----------:|:------------------:|
-| [Felipe Rodrigues](https://github.com/felipeJRdev)  |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet |
-| [Jéssica Eveline](https://github.com/xzxjesse)      |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet |
-| [João Vitor](https://github.com/Jauzimm)            |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet  |
-| [Ruan Carvalho](https://github.com/Ruan-Carvalho)   |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet  |
-| [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  | A definir | A definir | 16/12/2024 - 18/12/2024 | Plataforma Google Meet |
+| [Felipe Rodrigues](https://github.com/felipeJRdev)  | J.P. | 10:30 | 10:36 | 19/12/2024 | Universidade de Brasília - FCTE |
+| [Jéssica Eveline](https://github.com/xzxjesse)      | L.G. | 10:50 | 11:02 | 19/12/2024 | Universidade de Brasília - FCTE |
+| [João Vitor](https://github.com/Jauzimm)            | A.M. | 11:08 | 11:21 | 19/12/2024 | Universidade de Brasília - FCTE |
+| [Ruan Carvalho](https://github.com/Ruan-Carvalho)   | G.H. | 10:40 | 10:47 | 19/12/2024 | Universidade de Brasília - FCTE |
+| [Marcelo Adrian](https://github.com/Marcelo-Adrian) | L.H. | 12:31 | 12:36 | 04/01/2025 | Universidade de Brasília - FCTE |
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
@@ -109,7 +107,7 @@ Antes de realizar a avaliação completa, é fundamental conduzir um teste pilot
 
 | Ordem | Data       | Horário de Início e Fim | Local                              | Entrevistadores | Entrevistado |
 |:-----:|:----------:|:-----------------------:|:----------------------------------:|:---------------:|:------------:|
-|   1   | 14/12/2024 | 21:00 - 21:15          | Google meet | [João Vitor](https://github.com/Jauzimm) | [Felipe Rodrigues](https://github.com/felipeJRdev) |
+|   1   | 19/12/2024 | 10:20 - 10:30 | Universidade de Brasília - FCTE | [João Vitor](https://github.com/Jauzimm) | [Jéssica Eveline](https://github.com/xzxjesse) |
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2024.
 
@@ -124,3 +122,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avalia
 |  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
 |  1.1   | Alteração nas perguntas | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
 |  1.2   | Correção e alteração nas perguntas  | [João Vitor](https://github.com/Jauzimm) | 15/12/2024 |  |  |
+|  1.3   | Adição de datas | [João Vitor](https://github.com/Jauzimm) | 08/02/2025 |  |  |
