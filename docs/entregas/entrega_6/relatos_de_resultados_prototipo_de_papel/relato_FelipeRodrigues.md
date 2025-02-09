@@ -16,6 +16,12 @@ O objetivo desta avaliação é identificar pontos de melhoria na usabilidade do
 
 O método de prototipação de papel foi utilizado por ser uma abordagem eficaz para explorar e validar conceitos iniciais de design de interface com baixo custo. Ele permite avaliar rapidamente a interação e a compreensão do usuário sobre a interface, antes de investir em implementações complexas.
 
+Os protótipos de papel podem ser vizualizados abaixo:
+
+[protótipo de papel versão 01](../../entrega_5/prototipo_papel/prototipos_desenhados/1versaoProtoPapelFelipe.pdf)
+
+[protótipo de papel versão 02](../../entrega_5/prototipo_papel/prototipos_desenhados/2versaoProtoPapelFelipe.pdf)
+
 ### Dados Gerais
 
 Para a realização desta avaliação, foi necessário um avaliador, que orientou e observou a interação, e um participante representando o público-alvo do sistema. Ambos foram selecionados com base em [perfis](https://interacao-humano-computador.github.io/2024.2-Grupo05/entregas/entrega_2/perfil) definidos previamente. As tarefas executadas incluíram a navegação pelo protótipo, com foco no envio de submissões, enquanto o avaliador registrava comportamentos, reações e dificuldades observadas.

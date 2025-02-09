@@ -35,6 +35,10 @@ Além disso, os seguintes itens complementares serão adicionados para enriquece
 - Vídeo da avaliação;
 - Termo de consentimento.
 
+O protótipo de papel pode ser vizualizado abaixo:
+
+[protótipo de papel](../../entrega_5/prototipo_papel/prototipos_desenhados/prototipoPapel_JoãoVitor.pdf)
+
 ## Documentação
 
 ### 1. Objetivo da Avaliação
