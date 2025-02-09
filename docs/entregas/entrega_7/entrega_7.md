@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4242bfdd-4e8c-43a1-abaf-2ce73ae169f7)# Entrega 7
+# Entrega 7
 
 ## Introdução
 
