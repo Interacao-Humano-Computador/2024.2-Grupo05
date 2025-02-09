@@ -18,6 +18,8 @@ O objetivo é validar a usabilidade e eficácia do protótipo de alta fidelidade
 
 A prototipação de alta fidelidade utiliza ferramentas digitais como o Figma para criar telas detalhadas. Este método permite testar o produto com interatividade e design próximos da versão final, avaliando navegabilidade e implementação antes da entrega real. Os protótipos do CD-MOJ foram criados pelos membros do grupo, cada um refletindo uma função específica, e depois integrados para proporcionar uma navegação fluida e precisa.
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/2Ug3PxvPbD6D3BJXl7L2fn/Feedback---CDMoj?node-id=17-183&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4&embed-host=share" allowfullscreen></iframe>
+
 ### 3. O número e o perfil de avaliadores e dos participantes
 
 A avaliação foi realizada com 3 participantes, seguindo o pensamento de Steve Krug, que afirma que 3 ou 4 usuários são suficientes para detectar a maioria dos problemas.
