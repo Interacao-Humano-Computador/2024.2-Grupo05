@@ -168,4 +168,4 @@ O Termo de Consentimento Livre e Esclarecido assinado está disponível nos segu
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | relato da avaliação do protótipo de alta fidelidade| [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 24/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
-| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  |  |
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
