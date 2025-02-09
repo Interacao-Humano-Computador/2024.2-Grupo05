@@ -32,6 +32,10 @@ Além disso, serão adicionados mais três itens que são essenciais para um rel
 - Vídeos das avaliações;
 - Termos de consentimento.
 
+O protótipo de papel pode ser vizualizado abaixo:
+
+[protótipo de papel](../../entrega_5/prototipo_papel/prototipos_desenhados/PrototipoDePapel_Ruan.pdf)
+
 ## Documentação
 
 ### 1. Objetivo da avaliação
