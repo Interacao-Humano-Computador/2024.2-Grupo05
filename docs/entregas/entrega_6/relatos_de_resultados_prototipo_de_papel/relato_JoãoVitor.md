@@ -41,7 +41,7 @@ Além disso, os seguintes itens complementares serão adicionados para enriquece
 
 O protótipo de papel contou com a participação de três pessoas, que interagiram com o sistema CDMOJ. O objetivo principal foi avaliar a usabilidade e identificar problemas na interface e na experiência do usuário, visando melhorias no design e nas funcionalidades do sistema.
 
-[Protótipo de papel utilizado nas entrevistas.](../../../assets/prototipo/prototipoPapel_JoãoVitor.pdf)
+[Protótipo de papel utilizado nas entrevistas.](../../entrega_5/prototipo_papel/prototipos_desenhados/prototipoPapel_JoãoVitor.pdf)
 
 ### 2. Método de Prototipação em Papel
 

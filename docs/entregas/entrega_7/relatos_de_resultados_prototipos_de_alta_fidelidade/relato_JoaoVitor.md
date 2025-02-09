@@ -32,6 +32,8 @@ A avaliação foi realizada com 3 participantes, seguindo o pensamento de Steve 
 | Gabriel       | Estudante de Engenharia de Software - UnB, FCTE | João Vitor |
 | Luiza         | Estudante de Engenharia de Software - UnB, FCTE | Ruan |
 
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
+
 ### 4. As tarefas executadas pelos participantes
 
 **Tabela 2 -** Tarefas executadas
@@ -45,28 +47,38 @@ A avaliação foi realizada com 3 participantes, seguindo o pensamento de Steve 
 | Selecionar uma questão para enviar | Navegar até o seletor de questões para enviar uma questão | Verificar a facilidade de encontrar e selecionar uma questão para envio |
 | Submeter questão | Enviar a questão selecionada | Avaliar a clareza e facilidade do processo de submissão de questões |
 
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
+
 ## 5. Problemas de usabilidade corrigidos
 
 Ainda não foram corrigidos os problemas de usabilidade
 
 ## 6. Problemas de usabilidade ainda não corrigidos
 
-**Tabela 2 -** Problemas de usabilidade que não foram corrigidos
+**Tabela 3 -** Problemas de usabilidade que não foram corrigidos
 
 | **Local** | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema** | **Prioridade** | **Sugestões de Correção** |
 |-----------|----------------------------------------|-------------------------------------------|----------------|---------------------------|
 | Menu lateral | Clareza | Os botões usados no menu lateral não são claros o suficiente, levando os usuários a cometerem erros ao selecionar opções. | Média | Deixar claro que é um botão clicável, ao invés de palavras com linhas embaixo, fazendo um formato de botão |
 | Treinamento livre | Eficiência | O usuário se confunde com a parte de treino livre que é uma notícia, com o botão de treino livre, pois é um botão com menos cor e que fica em menos destaque. | Média | Aumentar o destaque do botão de treino livre, utilizando cores mais vibrantes e posicionando-o de forma mais elaborada, por exemplo: Criando uma própria aba para notícias |
 
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
+
 ## 7. Partes do sistema que podem ser melhor elaboradas
 
-Melhorar a parte de filtrar uma questão, pois ela possui hashtags que são difíceis de entender, tornando o processo não intuitivo para o usuário. Sugestões de melhoria incluem substituir hashtags por filtros mais descritivos e visuais, e implementar uma interface de filtragem com checkboxes ou botões de seleção.
+**Tabela 4 -** Melhorias possíveis
+
+| Sessão | Sugestão de melhoria |
+| ------ | -------------------- |
+| Filtrar questão | Possui hashtags que são difíceis de entender, tornando o processo não intuitivo para o usuário. Sugestões de melhoria incluem substituir hashtags por filtros mais descritivos e visuais, e implementar uma interface de filtragem com checkboxes ou botões de seleção. |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ## 8. Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade
 
 **Gabriel**
 
-**Tabela 3 -** Perguntas realizadas no início da entrevista com o Gabriel.
+**Tabela 5 -** Perguntas realizadas no início da entrevista com o Gabriel.
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -78,7 +90,7 @@ Melhorar a parte de filtrar uma questão, pois ela possui hashtags que são dif�
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
-**Tabela 4 -** Perguntas respondidas pelo entrevistador após a entrevista com o Gabriel.
+**Tabela 6 -** Perguntas respondidas pelo entrevistador após a entrevista com o Gabriel.
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -89,7 +101,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
-**Tabela 5 -** Pergunta realizada ao entrevistado Gabriel ao final da entrevista.
+**Tabela 7 -** Pergunta realizada ao entrevistado Gabriel ao final da entrevista.
 
 | **Pergunta** | **Resposta** |
 |--------------|--------------|
@@ -99,7 +111,7 @@ Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
 **Pedro**
 
-**Tabela 6 -** Perguntas realizadas no início da entrevista com o Pedro.
+**Tabela 8 -** Perguntas realizadas no início da entrevista com o Pedro.
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -111,7 +123,7 @@ Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
-**Tabela 7 -** Perguntas respondidas pelo entrevistador após a entrevista com o Pedro.
+**Tabela 9 -** Perguntas respondidas pelo entrevistador após a entrevista com o Pedro.
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -122,7 +134,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
-**Tabela 8 -** Pergunta realizada ao entrevistado Pedro ao final da entrevista.
+**Tabela 10 -** Pergunta realizada ao entrevistado Pedro ao final da entrevista.
 
 | **Pergunta** | **Resposta** |
 |--------------|--------------|
@@ -132,7 +144,7 @@ Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
 **Luiza**
 
-**Tabela 9 -** Perguntas realizadas no início da entrevista com a Luiza.
+**Tabela 11 -** Perguntas realizadas no início da entrevista com a Luiza.
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -144,7 +156,7 @@ Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
-**Tabela 10 -** Perguntas respondidas pelo entrevistador após a entrevista com a Luiza.
+**Tabela 12 -** Perguntas respondidas pelo entrevistador após a entrevista com a Luiza.
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -155,7 +167,7 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
-**Tabela 11 -** Pergunta realizada à entrevistada Luiza ao final da entrevista.
+**Tabela 13 -** Pergunta realizada à entrevistada Luiza ao final da entrevista.
 
 | **Pergunta** | **Resposta** |
 |--------------|--------------|
@@ -204,4 +216,4 @@ O Termo de Consentimento Livre e Esclarecido assinado está disponível no segui
 
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |
 | :----: | :--------: | :---: | :--: | :-----: | :-------------: |
-| 1.0 | Criação do relato de resultado | [João Vitor](https://github.com/Jauzimm) | 09/02/2025 | | |
+| 1.0 | Criação do relato de resultado | [João Vitor](https://github.com/Jauzimm) | 09/02/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/02/2025 |

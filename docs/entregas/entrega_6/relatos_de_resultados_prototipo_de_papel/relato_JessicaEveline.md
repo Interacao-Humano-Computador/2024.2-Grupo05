@@ -129,4 +129,4 @@ A gravação da entrevista pode ser assistida abaixo:
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do relato de resultado | [Jéssica Eveline](https://github.com/xzxjese) | 14/01/2025 |  |  |
+|  1.0   | Criação do relato de resultado | [Jéssica Eveline](https://github.com/xzxjese) | 14/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 09/02/2025 |
