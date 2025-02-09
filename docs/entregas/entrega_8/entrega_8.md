@@ -28,4 +28,4 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 | Versão |                   Descrição                   |                      Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :-------------------------------------------: | :-------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da entrega e disponibilização do link | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 05/02/2025 |             |                 |
+|  1.0   | Criação da entrega e disponibilização do link | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 05/02/2025 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
