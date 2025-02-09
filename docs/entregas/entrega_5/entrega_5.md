@@ -12,7 +12,7 @@ O objetivo desta entrega é fornecer uma visão geral do projeto, abordando sua 
 
 A gravação do vídeo de apresentação foi realizada em uma reunião via Google Meet. Tanto o vídeo quanto o áudio foram capturados utilizando o software OBS Studio.
 
-Autor(es): [Jéssica Eveline ](https://github.com/xzxjesse), 2024.
+Autor(es): [Marcelo Adrian](https://github.com/Marcelo-Adrian), 2024.
 
 ## Apresentação
 
@@ -28,4 +28,4 @@ Autor(es): [Jéssica Eveline ](https://github.com/xzxjesse), 2024.
 
 | Versão |                   Descrição                   |                      Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :-------------------------------------------: | :-------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da entrega e disponibilização do link | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |             |                 |
+|  1.0   | Criação da entrega e disponibilização do link | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
