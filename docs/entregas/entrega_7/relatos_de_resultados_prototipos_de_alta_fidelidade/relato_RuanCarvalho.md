@@ -20,33 +20,38 @@ A prototipação de alta fidelidade consiste em um método de modelagem de prot�
 
 Durante o processo de planejamento da avaliação de protótipos de alta fidelidade foram criados os protótipos do CD-MOJ pelos membros do grupo, cada um refletindo uma função trabalhada por um membro do grupo e ao fim do desenvolvimento dos protótipos os mesmos foram aglutinados de forma a refletir uma experiência mais fiel de navegação, permitindo com que os avaliados possam navegar pelos diferentes fluxos desenvolvidos no mesmo protótipo, tornando a navegação mais fluida e precisa.
 
+O protótipo pode ser visualizado através do seguinte link:  
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/2Ug3PxvPbD6D3BJXl7L2fn/Feedback---CDMoj?node-id=17-183&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4&embed-host=share" allowfullscreen></iframe>
+
 ### 3. O número e o perfil de avaliadores e dos participantes
 
 A avaliação de protótipo de alta fidelidade foi realizada com 3 participantes, seguindo o pensamento do consultor de usabilidade Steve Krug, que defende que não exixte um número exato de participantes que devem ser testados, afirmando que testar um usuário é 100% melhor do que não testar nenhum. Segundo Krug, 3 ou 4 usuários seriam suficiêntes para detectar a maioria dos problemas, permitindo fazer a análize no mesmo dia.
 
-Para esta avaliação foram escolhidos 3 participantes: Pedro, Gabriel e Luiza, ambos estudantes de engenharia de software da Universidade de Brasília discentes do campus da FCTE, que se enquadram no pefil de usuário definido ao início do projeto. O corpo de avaliadores foi formado por 3 integrantes do grupo 05: Jessica, João Vitor e Ruan, cada um apresentando sua respectiva função desenvolvida para os entrevistados durante a avaliação.
+#### Tabela 01: Entrevistador(es) e entrevistado(s).
+
+| Entrevistador(es) | Entrevistado(s)| Horário | Data | Local |
+|:---:|:---:|:---:|:---:|:---:|
+| [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Gabriel, Pedro e Luiza | 12:00 - 12:50 | 23/01/2025 |Universidade de Brasília Campus Gama |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 4. As tarefas executadas pelos participantes
 
-1. **Acessar o contest**  
-   - **Objetivo**: O usuário inicia sua navegação na tela inicial da plataforma CD-MOJ e deve acessar um contest.
-   - **Relação com o fluxo do sistema**: Essa etapa serve para habituar o usuário na tela principal do sistema.
+#### Tabela 02: tarefas executadas
 
-2. **Selecionar o arquivo a ser enviado**  
-   - **Objetivo**: O usuário navega até o seletor de arquivos para selecionar a questão a ser enviada.
-   - **Relação com o fluxo do sistema**: Essa etapa verifica a facilidade em encontrar o seletor de arquivos na tela de contest do CD-MOJ.
+| Etapa |Tarefa executada| Objetivo | Relação com o fluxo do sistema |
+| ----- | ---------------| -------- | ------------------------------ |
+| 1. | Acessar tela do contest | Iniciar a navegação na tela de contest do CD-MOJ | Habituar o usuário na tela principal da tarefa analizada |
+| 2. | Selecionar questão | Navegar até o seletor de questões | Verificar facilidade em encontar o seletor de questões |
+| 3. | Selecionar o arquivo a ser enviado| Fazer envio de solução da questão | Verificar o fluxo de navegação para enviar solução |
+| 4. | Abrir o feedback de submissão | receber casos de testes aplicados em sua solução | Verificar clareza da nova funcionalidade |
 
-3. **Selecionar o arquivo a ser enviado**  
-   - **Objetivo**: O usuário navega pelo explorador de arquivos para encontrar sua solução para a questão e fazer o envio.
-   - **Relação com o fluxo do sistema**: Essa etapa representa a navegação padrão do CD-MOJ para realizar o envio de questões.
-
-4. **Abrir o feedback da subimissão**  
-   - **Objetivo**: O usuário navega até a resposta da sua subimissão para receber o feedback da sua resposta com outros casos de teste.
-   - **Relação com o fluxo do sistema**: Essa etapa verifica a facilidade do usuário em encontrar a resposta do seu código e a funcionalidade nova a ser implementada.
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 5. Problemas de usabilidade corrigidos
 
-**Tabela 1 -** Problemas de usabilidade corrigidos.
+#### Tabela 03: Problemas de usabilidade corrigidos.
 
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Correção Implementada**                       | **Status Após Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
@@ -60,45 +65,50 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 ### 7. Partes do sistema que podem ser melhor elaboradas
 
-1. **Acesso ao contest**
-    - **sugestão de melhoria:** Alterar o botão "join" para acessar o contest, fazendo com que fique mais claro o local em que se acessa o desafio.
+#### Tabela 04: Melhoramentos possíveis
+
+| Sessão | Sugestão de melhoria |
+| ------ | -------------------- |
+| Acesso ao contest | Alterar o botão "join", fazendo com que fique mais claro a opção de acessar o desafio |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 8. Perguntas respondidas no planejamento da avaliação do protótipo de alta fidelidade
 
-**Tabela 2 -** Perguntas realizadas no início da entrevista - Entrevista 01.
+#### Tabela 05: Perguntas realizadas no início da entrevista - Entrevista 01.
 
 | **Pergunta** | **Resposta** |
 |---|---|
 | Qual o seu nome? | Gabriel |
 | Quantos anos você tem? | 21 |
 | Qual a sua ocupação? | Estudante |
-| Qual o seu nível de escolaridade? | Superior-cursando |
+| Qual o seu nível de escolaridade? | Superior - incompleto |
 | Você já utilizou algum juiz online? Se sim, qual? | Sim, CD-MOJ |
 | Você conhece o CD-MOJ? | Sim |
 
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
-**Tabela 3 -** Perguntas realizadas no início da entrevista - Entrevista 02.
+#### Tabela 06: Perguntas realizadas no início da entrevista - Entrevista 02.
 
 | **Pergunta** | **Resposta** |
 |---|---|
 | Qual o seu nome? | Pedro |
 | Quantos anos você tem? | 20 |
 | Qual a sua ocupação? | Estudante |
-| Qual o seu nível de escolaridade? | Superior-cursando |
+| Qual o seu nível de escolaridade? | Superior - incompleto |
 | Você já utilizou algum juiz online? Se sim, qual? | Sim, CD-MOJ |
 | Você conhece o CD-MOJ? | Sim |
 
 Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
-**Tabela 4 -** Perguntas realizadas no início da entrevista - Entrevista 03.
+#### Tabela 07: Perguntas realizadas no início da entrevista - Entrevista 03.
 
 | **Pergunta** | **Resposta** |
 |---|---|
 | Qual o seu nome? | Luiza |
 | Quantos anos você tem? | 21 |
 | Qual a sua ocupação? | Estudante |
-| Qual o seu nível de escolaridade? | Superior-cursando |
+| Qual o seu nível de escolaridade? | Superior - incompleto |
 | Você já utilizou algum juiz online? Se sim, qual? | Sim, CD-MOJ e Beecrowd |
 | Você conhece o CD-MOJ? | Sim |
 
@@ -106,7 +116,7 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 Perguntas que devem ser respondidas na análise da entrevista pelo entrevistador:
 
-**Tabela 5 -** Perguntas respondidas na análise da entrevista pelo entrevistador.
+#### Tabela 08: Perguntas respondidas na análise da entrevista pelo entrevistador.
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -119,7 +129,7 @@ Autor(es): [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 Pergunta realizada no final a fim de obter um feedback do usuário:
 
-**Tabela 6 -** Pergunta realizada no final a fim de obter um feedback do usuário.
+#### Tabela 09: Pergunta realizada no final a fim de obter um feedback do usuário.
 
 | Pergunta | Resposta |
 | -------- | -------- |
@@ -140,9 +150,12 @@ Entrevista Luiza:
 
 ### 10. Termo de consentimento
 
-O Termo de Consentimento Livre e Esclarecido assinado está disponível no seguinte link: 
+O Termo de Consentimento Livre e Esclarecido assinado está disponível nos seguintes links:
+
 - [Termo de Consentimento - Gabriel](../termos_de_consentimento/TermoDeConsentimento-Gabriel.pdf)
+
 - [Termo de Consentimento - Pedro](../termos_de_consentimento/TermoDeConsentimento-Pedro.pdf)
+
 - [Termo de Consentimento - Luiza](../termos_de_consentimento/TermoDeConsentimento-Luiza.pdf)
 
 ## Referências Bibliográficas
@@ -155,3 +168,4 @@ O Termo de Consentimento Livre e Esclarecido assinado está disponível no segui
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | relato da avaliação do protótipo de alta fidelidade| [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 24/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |

@@ -28,6 +28,12 @@ Além disso, serão adicionados mais três itens que são essenciais para um rel
 - Vídeo da avaliação;
 - Termo de consentimento.
 
+Os protótipos de papel podem ser vizualizados abaixo:
+
+[protótipo de papel versão 01](../../entrega_5/prototipo_papel/prototipos_desenhados/PrototipoDePapel_Jessica_v1.pdf)
+
+[protótipo de papel versão 02](../../entrega_5/prototipo_papel/prototipos_desenhados/PrototipoDePapel_Jessica_v2.pdf)
+
 ## Documentação
 
 ### 1. Objetivo da avaliação
@@ -48,52 +54,63 @@ Devido a limitações de tempo, foi realizada uma entrevista com um único parti
 
 A avaliação foi conduzida pela entrevistadora Jéssica Eveline, integrante do grupo 05, que teve a responsabilidade de guiar o participante durante o processo de teste. O participante escolhido foi LL, um profissional graduado em Análise e Desenvolvimento de Sistemas, com vasta experiência no setor de tecnologia. Atualmente, LL trabalha com suporte a usuários em um e-commerce, o que o torna familiarizado com sistemas digitais e com a interação de usuários em plataformas online. Esse perfil de usuário se alinha diretamente com o público-alvo definido no projeto, garantindo que as informações obtidas durante a avaliação fossem relevantes e aplicáveis ao contexto do sistema em questão. Além disso, a experiência de LL em lidar com questões tecnológicas e de usabilidade o torna apto a fornecer feedback valioso sobre a interface e as funcionalidades do sistema.
 
+#### Tabela 01: Avaliadores e participantes
+
+| Avaliador | Participantes | Local da avaliação |
+| --------- | ------------- | ------------------ |
+| Jessica Eveline | L.L. | Residência da entrevistadora |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
 ### 4. As tarefas executadas pelos participantes
 
-1. **Acessar o menu lateral a partir da tela inicial**  
-   - **Objetivo**: O usuário deveria clicar na imagem de foto do perfil localizada na tela inicial para abrir o menu lateral.
-   - **Relação com o fluxo do sistema**: Essa tarefa testa a interação inicial com a interface e a funcionalidade do menu lateral, essencial para navegar pelas configurações do sistema.
+#### Tabela 02: tarefas executadas
 
-2. **Navegar até a seção de configurações**  
-   - **Objetivo**: Após abrir o menu lateral, o usuário deveria localizar e selecionar a opção "Configurações".
-   - **Relação com o fluxo do sistema**: Essa tarefa verifica a clareza e a eficiência da navegação no menu lateral, além de testar se os itens estão organizados de forma intuitiva.
+| Etapa |Tarefa executada| Objetivo | Relação com o fluxo do sistema |
+| ----- | ---------------| -------- | ------------------------------ |
+| 1. | Acessar o menu lateral a partir da tela inicial | O usuário deveria clicar na imagem de foto do perfil localizada na tela inicial para abrir o menu lateral. | Essa tarefa testa a interação inicial com a interface e a funcionalidade do menu lateral, essencial para navegar pelas configurações do sistema. |
+| 2. | Navegar até a seção de configurações | Após abrir o menu lateral, o usuário deveria localizar e selecionar a opção "Configurações". | Essa tarefa verifica a clareza e a eficiência da navegação no menu lateral, além de testar se os itens estão organizados de forma intuitiva. |
+| 3. | Encontrar a opção de "Alterar Senha" dentro de Configurações| O usuário deveria localizar a opção de "Alterar Senha" dentro da seção de configurações. | Avalia a eficácia da organização das opções dentro da seção de configurações e a facilidade de encontrar funções importantes, como a alteração de senha. |
+| 4. | Alterar a senha e confirmar a ação |  O usuário deveria seguir os critérios fornecidos para alterar a senha, incluindo inserir a nova senha e confirmar a alteração. | Testa a funcionalidade da alteração de senha, incluindo a usabilidade do formulário de entrada e a clareza das instruções, além de verificar se o sistema responde adequadamente à ação do usuário. |
 
-3. **Encontrar a opção de "Alterar Senha" dentro de Configurações**  
-   - **Objetivo**: O usuário deveria localizar a opção de "Alterar Senha" dentro da seção de configurações.
-   - **Relação com o fluxo do sistema**: Avalia a eficácia da organização das opções dentro da seção de configurações e a facilidade de encontrar funções importantes, como a alteração de senha.
-
-4. **Alterar a senha e confirmar a ação**  
-   - **Objetivo**: O usuário deveria seguir os critérios fornecidos para alterar a senha, incluindo inserir a nova senha e confirmar a alteração.
-   - **Relação com o fluxo do sistema**: Testa a funcionalidade da alteração de senha, incluindo a usabilidade do formulário de entrada e a clareza das instruções, além de verificar se o sistema responde adequadamente à ação do usuário.
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 5. Problemas de usabilidade corrigidos
+
+#### Tabela 03: Problemas corrigidos
 
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Correção Implementada**                       | **Status Após Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
 | **Fluxo de etapas do sistema**| Eficiência, eficácia                    | Uma das etapas foi executada de forma diferente do esperado, indicando que as instruções ou o fluxo não são suficientemente claros. | Retirada da opção de perfil, minimizando as opções para direcionar melhor as ações previstas. | Resolvido. |
 | **Tela de alteração de senha** | Satisfação, eficácia                    | Durante o processo de troca de senha, os usuários relataram que não haveria como visualizar a senha digitada, o que gerava insegurança e possíveis erros. | Implementação de um recurso para visualizar a senha digitada, permitindo aos usuários verificar se a senha foi inserida corretamente. | Resolvido |
 
+Autor:  [Jéssica Eveline](https://github.com/xzxjese)
+
 ### 6. Problemas de usabilidade ainda não corrigidos
+
+#### Tabela 04: Problemas não corrigidos
 
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Prioridade**                       | **Sugestões de Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|--------------------------------------|--------------------------|
 | **Menu lateral**              | Eficiência, eficácia                    | Alguns termos usados no menu lateral não são claros o suficiente, levando os usuários a cometerem erros ao selecionar opções. | Média                                | Implementar tooltips que expliquem as funcionalidades de cada item do menu e revisar os termos para torná-los mais descritivos e alinhados com as expectativas dos usuários. |
 
+Autor:  [Jéssica Eveline](https://github.com/xzxjese)
+
 ### 7. Partes do sistema que podem ser melhor elaboradas
 
-1. **Localização da Configuração de Senha**  
-   - **Observação:** A configuração de senha foi posicionada na aba "Configurações", mas o usuário esperava encontrá-la na aba "Perfil".  
-   - **Sugestão de melhoria:** Reavaliar a organização das abas para alinhar com as expectativas dos usuários. Alternativamente, incluir uma indicação clara ou atalho na aba "Perfil" para acessar as configurações de senha.  
+#### Tabela 05: Melhoramentos possíveis
 
-2. **Clareza nas Etapas do Processo**  
-   - **Observação:** Uma das etapas foi inicialmente executada de forma diferente do previsto.  
-   - **Sugestão de melhoria:** Fornecer instruções mais claras ou visuais, como tooltips ou mensagens orientadoras, para guiar os usuários durante o processo.   
+| Sessão | observação |Sugestão de melhoria |
+| ------ | ---------- |-------------------- |
+| Configuração de Senha | A configuração de senha foi posicionada na aba "Configurações", mas o usuário esperava encontrá-la na aba "Perfil". | Reavaliar a organização das abas para alinhar com as expectativas dos usuários. Alternativamente, incluir uma indicação clara ou atalho na aba "Perfil" para acessar as configurações de senha. |
+| Etapas do Processo | A configuração de senha foi posicionada na aba "Configurações", mas o usuário esperava encontrá-la na aba "Perfil". | Reavaliar a organização das abas para alinhar com as expectativas dos usuários. Alternativamente, incluir uma indicação clara ou atalho na aba "Perfil" para acessar as configurações de senha. |
+| Consistência no Design | O usuário mencionou que sua expectativa foi moldada por experiências anteriores em outros sistemas. | Realizar uma análise comparativa com sistemas semelhantes para garantir maior consistência em termos de design e funcionalidade, promovendo uma experiência mais intuitiva. |
 
-3. **Consistência no Design e nas Expectativas**  
-   - **Observação:** O usuário mencionou que sua expectativa foi moldada por experiências anteriores em outros sistemas.  
-   - **Sugestão de melhoria:** Realizar uma análise comparativa com sistemas semelhantes para garantir maior consistência em termos de design e funcionalidade, promovendo uma experiência mais intuitiva.   
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 8. Perguntas Respondidas no Planejamento da Avaliação do Protótipo de Papel
+
+#### Tabela 06: Perguntas respondidas no planejamento
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |---|---|---|
@@ -102,6 +119,8 @@ A avaliação foi conduzida pela entrevistadora Jéssica Eveline, integrante do 
 | | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | Sim, com eficiência relevante, embora não absoluta. O objetivo foi alcançado em aproximadamente 2 minutos e meio, com apenas um erro registrado. |
 | | Que parte da interface e da interação o deixa insatisfeito? | O usuário esperava que a configuração de senha estivesse localizada na aba "Perfil". No entanto, foi projetada para estar na aba "Configurações". Ele justificou que, em sua experiência, a aba "Configurações" é geralmente usada para preferências do site, e não da conta. |
 | | Ele vai entender o que deve fazer em seguida? | Sim. |
+
+Autor:  [Jéssica Eveline](https://github.com/xzxjese)
 
 ### 9. Vídeo da Avaliação
 
@@ -129,4 +148,5 @@ A gravação da entrevista pode ser assistida abaixo:
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do relato de resultado | [Jéssica Eveline](https://github.com/xzxjese) | 14/01/2025 |  |  |
+|  1.0   | Criação do relato de resultado | [Jéssica Eveline](https://github.com/xzxjese) | 14/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 07/02/2025 |
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 07/02/2025 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |

@@ -20,13 +20,17 @@ A prototipação de alta fidelidade consiste em um método de modelagem de prot�
 
 Durante o processo de planejamento da avaliação de protótipos de alta fidelidade foram criados os protótipos do CD-MOJ pelos membros do grupo, cada um refletindo uma função trabalhada por um membro do grupo e ao fim do desenvolvimento dos protótipos os mesmos foram aglutinados de forma a refletir uma experiência mais fiel de navegação, permitindo com que os avaliados possam navegar pelos diferentes fluxos desenvolvidos no mesmo protótipo, tornando a navegação mais fluida e precisa.
 
+O protótipo pode ser visualizado através do seguinte link:  
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/2Ug3PxvPbD6D3BJXl7L2fn/Feedback---CDMoj?node-id=17-183&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4&embed-host=share" allowfullscreen></iframe>
+
 ### 3. O número e o perfil de avaliadores e dos participantes
 
 A avaliação de protótipo de alta fidelidade foi realizada com 3 participantes, seguindo o pensamento do consultor de usabilidade Steve Krug, que defende que não exixte um número exato de participantes que devem ser testados, afirmando que testar um usuário é 100% melhor do que não testar nenhum. Segundo Krug, 3 ou 4 usuários seriam suficiêntes para detectar a maioria dos problemas, permitindo fazer a análize no mesmo dia.
 
 Para esta avaliação foram escolhidos 3 participantes: Vinícius C., Vinícius R. e Izabelle, ambos estudantes cursos de graduação de software, que se enquadram no pefil de usuário definido ao início do projeto. O corpo de avaliadores foi formado por 1 integrante do grupo 05: Felipe, apresentando sua respectiva função desenvolvida para os entrevistados durante a avaliação.
 
-**Tabela 1 -** Entrevistador(es) e entrevistado(s).
+#### Tabela 01: Entrevistador(es) e entrevistado(s).
 
 | Entrevistador(es) | Entrevistado(s)| Horário | Data | Tarefa  | Local |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -36,21 +40,16 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 ### 4. As tarefas executadas pelos participantes
 
-1. **Acessar o treino livre**  
-   - **Objetivo**: O usuário inicia sua navegação na tela inicial da plataforma CD-MOJ e deve acessar um contest.
-   - **Relação com o fluxo do sistema**: Essa etapa serve para habituar o usuário na tela principal do sistema.
+#### Tabela 02: tarefas executadas
 
-2. **Selecionar o arquivo a ser enviado**  
-   - **Objetivo**: O usuário navega até o seletor de arquivos para selecionar a questão a ser enviada.
-   - **Relação com o fluxo do sistema**: Essa etapa verifica a facilidade em encontrar o seletor de arquivos na tela de contest do CD-MOJ.
+| Etapa |Tarefa executada| Objetivo | Relação com o fluxo do sistema |
+| ----- | ---------------| -------- | ------------------------------ |
+| 1. | Acessar o treino livre | O usuário inicia sua navegação na tela inicial da plataforma CD-MOJ e deve acessar um contest. | Essa etapa serve para habituar o usuário na tela principal do sistema. |
+| 2. | Selecionar a questão a ser respondida | O usuário navega até o seletor de questões para selecionar a questão a ser enviada. | Essa etapa verifica a facilidade em encontrar o seletor de questões na tela de contest do CD-MOJ. |
+| 3. | Selecionar o arquivo a ser enviado | O usuário navega pelo explorador de arquivos para encontrar sua solução para a questão e fazer o envio. | Essa etapa representa a navegação padrão do CD-MOJ para realizar o envio de questões. |
+| 4. | Abrir o feedback da subimissão | O usuário navega até a resposta da sua subimissão para receber o feedback da sua resposta com outros casos de teste. | Essa etapa verifica a facilidade do usuário em encontrar a resposta do seu código e a funcionalidade nova a ser implementada. |
 
-3. **Selecionar o arquivo a ser enviado**  
-   - **Objetivo**: O usuário navega pelo explorador de arquivos para encontrar sua solução para a questão e fazer o envio.
-   - **Relação com o fluxo do sistema**: Essa etapa representa a navegação padrão do CD-MOJ para realizar o envio de questões.
-
-4. **Abrir o feedback da subimissão**  
-   - **Objetivo**: O usuário navega até a resposta da sua subimissão para receber o feedback da sua resposta com outros casos de teste.
-   - **Relação com o fluxo do sistema**: Essa etapa verifica a facilidade do usuário em encontrar a resposta do seu código e a funcionalidade nova a ser implementada.
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 5. Problemas de usabilidade corrigidos
 
@@ -58,7 +57,7 @@ Com esta avaliação, não foram corrigidos problemas de usabilidade encontrados
 
 ### 6. Problemas de usabilidade ainda não corrigidos
 
-**Tabela 2 -** Problemas de usabilidade ainda não corrigidos.
+#### Tabela 03: Problemas de usabilidade ainda não corrigidos.
 
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Prioridade**                       | **Sugestões de Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
@@ -68,14 +67,19 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 ### 7. Partes do sistema que podem ser melhor elaboradas
 
-1. **Acesso a questão**
-    - **Sugestão de melhoria:** Incluir um título claro, como "Seleção de Questões", e uma breve explicação sobre como utilizar a tela.
+#### Tabela 04: Melhoramentos possíveis
+
+| Sessão | Sugestão de melhoria |
+| ------ | -------------------- |
+| Acesso a questão | Incluir um título claro, como "Seleção de Questões", e uma breve explicação sobre como utilizar a tela. |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 8. Perguntas Respondidas no Planejamento da Avaliação
 
 **Entrevistado Vinícius C.**
 
-**Tabela 3 -** Perguntas realizadas no início com o entrevistado Vinícius C.:
+#### Tabela 05: Perguntas realizadas no início com o entrevistado Vinícius C.:
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -88,7 +92,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
-**Tabela 4 -** Perguntas respondidas na análise da entrevista com Vinícius C., pelo entrevistador:
+#### Tabela 06: Perguntas respondidas na análise da entrevista com Vinícius C., pelo entrevistador:
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -97,7 +101,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | | Que parte da interface e da interação o deixa insatisfeito? | Nenhuma. |
 | | Ele vai entender o que deve fazer em seguida? | Sim. |
 
-**Tabela 5 -** Pergunta realizada no final a fim de obter um feedback do usuário Vinícius C.:
+#### Tabela 07: Pergunta realizada no final a fim de obter um feedback do usuário Vinícius C.:
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
@@ -109,7 +113,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 **Entrevistado Vinícius R.**
 
-**Tabela 6 -** Perguntas realizadas no início com o entrevistado Vinícius R.:
+#### Tabela 08: Perguntas realizadas no início com o entrevistado Vinícius R.:
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -122,7 +126,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
-**Tabela 7 -** Perguntas respondidas na análise da entrevista com Vinícius R., pelo entrevistador:
+#### Tabela 09: Perguntas respondidas na análise da entrevista com Vinícius R., pelo entrevistador:
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -143,7 +147,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 **Entrevistada Izabelle**
 
-**Tabela 9 -** Perguntas realizadas no início com a entrevistada Izabelle:
+#### Tabela 10: Perguntas realizadas no início com a entrevistada Izabelle:
 
 | **Pergunta** | **Resposta** |
 |---|---|
@@ -156,7 +160,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
-**Tabela 10 -** Perguntas respondidas na análise da entrevista com Izabelle, pelo entrevistador:
+#### Tabela 11: Perguntas respondidas na análise da entrevista com Izabelle, pelo entrevistador:
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |--------------|-------------------------|---------------|
@@ -165,7 +169,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | | Que parte da interface e da interação o deixa insatisfeito? | A parte de seleção de questões do treino livre. A usuária não conseguiu identificar claramente que a tela apresentava uma questão/problema de programação a ser selecionada. |
 | | Ele vai entender o que deve fazer em seguida? | Após a etapa de selecionar a questão do treino livre. A usuário não teve dificuldades em entender o que deveria fazer em seguida. |
 
-**Tabela 11 -** Pergunta realizada no final a fim de obter um feedback da usuária Izabelle:
+#### Tabela 12: Pergunta realizada no final a fim de obter um feedback da usuária Izabelle:
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
@@ -207,5 +211,5 @@ Os Termos de Consentimento assinados pelos participantes estão disponível no s
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Relato da avaliação do Protótipo de Alta Fidelidade| [Felipe Rodrigues](https://github.com/felipeJRdev) | 25/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse)
- | 26/01/2025 |
+|  1.0   | Relato da avaliação do Protótipo de Alta Fidelidade| [Felipe Rodrigues](https://github.com/felipeJRdev) | 25/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
