@@ -212,4 +212,4 @@ Os Termos de Consentimento assinados pelos participantes estão disponível no s
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Relato da avaliação do Protótipo de Alta Fidelidade| [Felipe Rodrigues](https://github.com/felipeJRdev) | 25/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
-| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  |  |
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
