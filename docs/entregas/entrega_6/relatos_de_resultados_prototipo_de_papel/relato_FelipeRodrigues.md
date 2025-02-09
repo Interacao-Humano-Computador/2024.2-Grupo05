@@ -20,64 +20,59 @@ O método de prototipação de papel foi utilizado por ser uma abordagem eficaz 
 
 Para a realização desta avaliação, foi necessário um avaliador, que orientou e observou a interação, e um participante representando o público-alvo do sistema. Ambos foram selecionados com base em [perfis](https://interacao-humano-computador.github.io/2024.2-Grupo05/entregas/entrega_2/perfil) definidos previamente. As tarefas executadas incluíram a navegação pelo protótipo, com foco no envio de submissões, enquanto o avaliador registrava comportamentos, reações e dificuldades observadas.
 
+#### Tabela 01: Avaliadores e participantes
+
+| Avaliador | Participantes | Local da avaliação |
+| --------- | ------------- | ------------------ |
+| Felipe Rodrigues | Vinícius | Escritório, no local de trabalho de ambos |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
 ### Problemas de Usabilidade Corrigidos Durante os Ciclos de Avaliação e Reprojeto
 
-#### Problema 1: Processo de Login Complexo  
-- **Local:** Acesso à plataforma, depois de selecionar um problema na aba de Treino Livre.  
-- **Fatores de Usabilidade Prejudicados:**  
-  - **Facilidade de aprendizado:** Se refere ao tempo e esforço necessários para
-    que o usuário aprenda a utilizar o sistema com determinado nível de competência e
-    desempenho.(Nielsen, 1993).  
-  - **Eficiência:** Referente aos recursos necessários (tempo, ações) para atingir      objetivos no sistema (Nielsen, 1993).  
-- **Descrição e Justificativa:** Anteriormente, os usuários precisavam enviar comandos para um bot no Telegram para obter dados de login e senha. Esse processo não era intuitivo, dificultando o acesso ao sistema e aumentando o tempo necessário para iniciar as tarefas.  
-- **Correção Realizada no Protótipo em Papel:** Integração do login diretamente à plataforma, eliminando a etapa intermediária e simplificando o acesso.  
-- **Problema Voltou a Ocorrer?:** Não, o problema foi resolvido com sucesso e validado nas interações subsequentes.  
+#### Tabela 02: Problemas corrigidos
 
-#### Problema 2: Ausência de Atualização Automática do Feedback de Submissões  
-- **Local:** Tela de submissão de código na aba de Treino Livre.  
-- **Fatores de Usabilidade Prejudicados:**  
-  - **Satisfação do usuário:** Relacionada à experiência emocional positiva ao utilizar o sistema (Nielsen, 1993).  
-  - **Comunicabilidade:** Diz respeito à
-    capacidade da interface de comunicar ao usuário a lógica do design: as intenções do
-    designer e os princípios de interação resultantes das decisões tomadas durante todo
-    o processo de design (Prates et al., 2000a; de Souza, 2005a; de Souza e Leitão, 2009).
-- **Descrição e Justificativa:** O sistema exigia recarregamento manual da página para visualizar os resultados das submissões, gerando confusão e insatisfação.  
-- **Correção Realizada no Protótipo em Papel:** Implementação de uma atualização automática do feedback em tempo real, com indicadores visuais claros para o progresso e resultados.  
-- **Problema Voltou a Ocorrer?:** Não, o problema foi mitigado de forma eficaz.  
+| Problema | Local | Fatores de usabilidade prejudicados| Descrição e justificativa | Correção realizada no protótipo de papel | Problema voltou a ocorrer? |
+| --- | --- | --- | --- | --- | --- |
+| Processo de Login Complexo | Acesso à plataforma, depois de selecionar um problema na aba de Treino Livre. | Facilidade de aprendizado e eficiência | Anteriormente, os usuários precisavam enviar comandos para um bot no Telegram para obter dados de login e senha. Esse processo não era intuitivo, dificultando o acesso ao sistema e aumentando o tempo necessário para iniciar as tarefas. | Integração do login diretamente à plataforma, eliminando a etapa intermediária e simplificando o acesso. |  Não, o problema foi resolvido com sucesso e validado nas interações subsequentes. |
+|  Ausência de Atualização Automática do Feedback de Submissões | Tela de submissão de código na aba de Treino Livre. | Satisfação do usuário e comunicabilidade | O sistema exigia recarregamento manual da página para visualizar os resultados das submissões, gerando confusão e insatisfação. | Implementação de uma atualização automática do feedback em tempo real, com indicadores visuais claros para o progresso e resultados. | Não, o problema foi mitigado de forma eficaz. |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### Problemas de Usabilidade Ainda Não Corrigidos
 
-#### Problema 1: Nenhum Problema Não Corrigido Identificado  
-- **Local:** Não aplicável, pois não foram observados problemas adicionais não resolvidos durante as avaliações com o protótipo em papel.  
-- **Fatores de Usabilidade Prejudicados:** Não aplicável.  
-- **Descrição e Justificativa:** Os ciclos de avaliação e reprojeto atenderam a todas as dificuldades relatadas.  
-- **Prioridade para Correção:** Não aplicável.  
-- **Sugestões de Correção:** Realizar monitoramento contínuo das interações para identificar possíveis ajustes futuros com base no uso real do sistema.  
+#### Tabela 03: Problemas não corrigidos
+
+| Problema | Local | Fatores de usabilidade prejudicados| Descrição e justificativa | Correção realizada no protótipo de papel | Problema voltou a ocorrer? |
+| --- | --- | --- | --- | --- | --- |
+| Nenhum Problema Não Corrigido Identificado | Não aplicável | Não aplicável. | Os ciclos de avaliação e reprojeto atenderam a todas as dificuldades relatadas. | Não aplicável. | Não aplicável |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### Indicações de Partes do Sistema que Podem Ser Mais Bem Elaboradas
 
-- **Login:** Embora o login proposto atualmente utilize apenas e-mail e senha, ele poderia ser enriquecido para incluir informações adicionais e relevantes do usuário, como nome completo, ou outras configurações que personalizem a experiência. Isso ajudaria a criar um ambiente mais informativo e ajustado às necessidades do usuário.  
-- **Progresso em Tempo Real:** Apesar de o progresso em tempo real ser funcional, ele não fornece informações detalhadas sobre a quantidade de testes em que a submissão do usuário está sendo processada. A inclusão dessa funcionalidade poderia aumentar a transparência do sistema, reduzindo a ansiedade do usuário e melhorando a comunicabilidade.  
+#### Tabela 04: Sugestões de melhorias
+
+| Sessão | Sugestão de melhoria |
+| ----- | -------------------- |
+| Login | Embora o login proposto atualmente utilize apenas e-mail e senha, ele poderia ser enriquecido para incluir informações adicionais e relevantes do usuário, como nome completo, ou outras configurações que personalizem a experiência. Isso ajudaria a criar um ambiente mais informativo e ajustado às necessidades do usuário.|
+| Progresso em Tempo Real | Apesar de o progresso em tempo real ser funcional, ele não fornece informações detalhadas sobre a quantidade de testes em que a submissão do usuário está sendo processada. A inclusão dessa funcionalidade poderia aumentar a transparência do sistema, reduzindo a ansiedade do usuário e melhorando a comunicabilidade. |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### Perguntas Respondidas com a Avaliação
 
-1. **O usuário consegue operar o sistema?**  
-   - **Resposta:** Sim.  
+#### Tabela 05: Perguntas respondidas no planejamento
 
-2. **Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?**  
-   - **Resposta:** Sim.  
-     - **Primeiro Protótipo:** O usuário atingiu o objetivo com menos eficiência e mais dúvidas. O tempo para realizar o login foi consideravelmente longo, com o usuário cometendo dois erros antes de concluir a tarefa.  
-     - **Segundo Protótipo:** A eficiência aumentou significativamente, com menos dúvidas e um tempo menor para concluir o login, sem erros registrados.  
+| **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
+|---|---|---|
+| **Identificar problemas na interação e interface** | | |
+| | O usuário consegue operar o sistema? | Sim |
+| | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | Sim, porém o segundo protótipo apresentou um desempenho melhor por parte do usuário, que atingiu o objetivo de forma mais eficiênte. |
+| | Que parte da interface e da interação o deixa insatisfeito? |A parte de login no primeiro protótipo, devido à complexidade desnecessária e o feedback de submissão de código, que não informava adequadamente o progresso das submissões. |
+| | Ele vai entender o que deve fazer em seguida? | O usuário apresentou dificuldades em entender como obter os dados de login no primeiro protótipo, o que foi corrigido no segundo e tornou o fluxo mais claro e intuitívo. |
 
-3. **Que parte da interface e da interação o deixa insatisfeito?**  
-   - **Resposta:**  
-     - A parte de login no primeiro protótipo, devido à complexidade desnecessária.  
-     - O feedback de submissão de código, que não informava adequadamente o progresso das submissões.  
-
-4. **Ele vai entender o que deve fazer em seguida?**  
-   - **Resposta:**  
-     - **Primeiro Protótipo:** Não. O usuário apresentou dificuldades em entender como obter os dados de login, o que causou frustração.  
-     - **Segundo Protótipo:** Sim. O fluxo de interação ficou mais claro e intuitivo, facilitando a navegação e compreensão das ações necessárias.  
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ## Vídeo da Avaliação
 
@@ -98,3 +93,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avalia
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do relato de resultado | [Felipe Rodrigues](https://github.com/felipeJRdev) | 14/01/2025 |[Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 07/02/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |

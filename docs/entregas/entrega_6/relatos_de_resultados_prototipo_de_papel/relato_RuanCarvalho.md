@@ -49,25 +49,29 @@ Durante o processo de avaliação foram criados esboços que refletiam o process
 
 A avaliação de protótipo de papel foio realizada com 3 participantes, seguindo o pensamento do consultor de usabilidade Steve Krug, que defende que não exixte um número exato de participantes que devem ser testados, afirmando que testar um usuário é 100% melhor do que não testar nenhum. Segundo Krug, 3 ou 4 usuários seriam suficiêntes para detectar a maioria dos problemas, permitindo fazer a análize no mesmo dia.
 
-A avaliação foi conduzida pelo entrevistador Ruan Carvalho, integrante do grupo 05, responsável por guiar os participantes durante o processo. Os participantes escolhidos foram: Pedro, Diogo e Guilherme, ambos estudantes de engenharia de software da Universidade de Brasília, discentes do campus da FCTE. Os participantes escolhidos representam fielmente o perfil de usuário definido ao início do andamento do projeto, possibilitando que as informações coletadas tenham maior fidelidade para prosseguir com as análises.
+#### Tabela 01: Avaliadores e participantes
+
+| Avaliador | Participantes | Local da avaliação |
+| --------- | ------------- | ------------------ |
+| Ruan Carvalho | Diogo | Campus da FCTE |
+| Ruan Carvalho | Guilherme | Campus da FCTE |
+| Ruan Carvalho | Pedro | Campus da FCTE |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
 
 ### 4. As tarefas executadas pelos participantes
 
-1. **Acessar a tela do contest**  
-   - **Objetivo**: O usuário inicia sua navegação na tela de contest da plataforma CD-MOJ.
-   - **Relação com o fluxo do sistema**: Essa etapa serve para habituar o usuário na tela principal da tarefa analizada.
+#### Tabela 02: tarefas executadas
 
-2. **Selecionar a questão a ser resolvida**  
-   - **Objetivo**: O usuário navega até o seletor de questões para selecionar a questão a ser enviada.
-   - **Relação com o fluxo do sistema**: Essa etapa verifica a facilidade em encontrar o seletor de questões na tela de contest do CD-MOJ.
+| Etapa |Tarefa executada| Objetivo | Relação com o fluxo do sistema |
+| ----- | ---------------| -------- | ------------------------------ |
+| 1. | Acessar tela do contest | Iniciar a navegação na tela de contest do CD-MOJ | Habituar o usuário na tela principal da tarefa analizada |
+| 2. | Selecionar questão | Navegar até o seletor de questões | Verificar facilidade em encontar o seletor de questões |
+| 3. | Selecionar o arquivo a ser enviado| Fazer envio de solução da questão | Verificar o fluxo de navegação para enviar solução |
+| 4. | Abrir o feedback de submissão | receber casos de testes aplicados em sua solução | Verificar clareza da nova funcionalidade |
 
-3. **Selecionar o arquivo a ser enviado**  
-   - **Objetivo**: O usuário navega pelo explorador de arquivos para encontrar sua solução para a questão e fazer o envio.
-   - **Relação com o fluxo do sistema**: Essa etapa representa a navegação padrão do CD-MOJ para realizar o envio de questões.
-
-4. **Abrir o feedback da subimissão**  
-   - **Objetivo**: O usuário navega até a resposta da sua subimissão para receber o feedback da sua resposta com outros casos de teste.
-   - **Relação com o fluxo do sistema**: Essa etapa verifica a facilidade do usuário em encontrar a resposta do seu código e a funcionalidade nova a ser implementada.
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 5. Problemas de usabilidade corrigidos
 
@@ -75,16 +79,27 @@ A avaliação foi conduzida pelo entrevistador Ruan Carvalho, integrante do grup
 
 ### 6. Problemas de usabilidade ainda não corrigidos
 
+#### Tabela 03: Problemas não corrigidos
+
 | **Local**                     | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                      | **Prioridade**                       | **Sugestões de Correção** |
 |-------------------------------|------------------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
 | tela de contest | clareza | um dos usuários se confundiu durante a navegação, clicando em outro local | baixa | trocar a cor de botões relevantes, facilitando seguir o fluxo de navegação |
 
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
 ### 7. Partes do sistema que podem ser melhor elaboradas
 
-1. **Feedback de questões**
-    - **sugestão de melhoria:** receber o feedback de subimissões pela própria tela de contest do CD-MOJ, não sendo necessário o uso do Mojinho Bot no Telegram para adiquirir essas informações.
+#### Tabela 04: Melhoramentos possíveis
+
+| Sessão | Sugestão de melhoria |
+| ------ | -------------------- |
+| Feedback de questões | Receber feedback pela tela de contest do CD-MOJ, dispensando o uso do Mojinho-BOT |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 8. Perguntas Respondidas no Planejamento da Avaliação do Protótipo de Papel
+
+#### Tabela 05: Perguntas respondidas no planejamento
 
 | **Objetivo** | **Pergunta Avaliativa** | **Respostas** |
 |---|---|---|
@@ -94,10 +109,12 @@ A avaliação foi conduzida pelo entrevistador Ruan Carvalho, integrante do grup
 | | Que parte da interface e da interação o deixa insatisfeito? | As interações seguiram o fluxo esperado com poucos erros porém as interfaces poderiam ser melhor modeladas para torna-las mais intuitívas |
 | | Ele vai entender o que deve fazer em seguida? | Sim. |
 
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
 ### 9. Vídeo da Avaliação
 
 As gravações das entrevistas pode, ser assistidas abaixo:
-https://youtu.be/xSExwnp0IJQ
+
 **Teste piloto:**  
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bQzKW42MBeQ" title="Avaliação do protótipo de papel - teste piloto, IHC - Grupo 05" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -112,7 +129,7 @@ https://youtu.be/xSExwnp0IJQ
 
 ### 10. Termo de Consentimento
 
-O Termo de Consentimento assinado pelos participantes está disponível no seguinte link: [Termo de Consentimento - Ruan](../termos_de_consentimento/TermoDeConsentimento_Ruan.pdf)
+O Termo de Consentimento assinado pelos participantes está disponível no seguinte link: [Termo de Consentimento - Ruan](../termos_de_consentimento/TermoDeConsentimentoPP_Ruan.pdf)
 
 ## Referências Bibliográficas
 
@@ -123,3 +140,4 @@ O Termo de Consentimento assinado pelos participantes está disponível no segui
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do relato de resultado | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 14/01/2025 | [Felipe Rodrigues](https://github.com/felipeJRdev) | 14/01/2025 |
+|  1.1  | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 07/02/2025 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |

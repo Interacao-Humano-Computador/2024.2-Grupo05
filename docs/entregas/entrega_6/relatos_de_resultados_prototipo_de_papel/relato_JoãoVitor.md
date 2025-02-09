@@ -47,18 +47,33 @@ O protótipo de papel foi desenvolvido utilizando materiais simples, como papel,
 
 ### 3. Número e Perfil de Avaliadores e Participantes
 
-Foi utilizado o metodo de krug para a onde ele diz que a reomcendação é de 3 a 4 pessoas. A avaliação contou com três participantes, pertencentes ao público-alvo definido para o sistema e com experiência básica em sistemas similares. O avaliador responsável foi João Vitor.
+Foi utilizado o metodo de krug para a onde ele diz que a reomcendação é de 3 a 4 pessoas. A avaliação contou com três participantes, pertencentes ao público-alvo definido para o sistema e com experiência básica em sistemas similares.
+
+#### Tabela 01: Avaliadores e participantes
+
+| Avaliador | Participantes | Local da avaliação |
+| --------- | ------------- | ------------------ |
+| João Vitor | G.H. | Campus da FCTE |
+| João Vitor | J.M. | Campus da FCTE |
+| João Vitor | C.O. | Campus da FCTE |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 4. Tarefas Executadas pelos Participantes
 
-Os participantes realizaram as seguintes tarefas:
+#### Tabela 02: tarefas executadas
 
-1. Acessar a opção "Treino Livre";
-2. Selecionar uma questão no "Treino Livre";
-3. Realizar o cadastro;
-4. Realizar o login;
-5. Na tela de questão enviar um arquivo;
-7. Submeter o arquivo.
+| Etapa |Tarefa executada| Objetivo | Relação com o fluxo do sistema |
+| ----- | ---------------| -------- | ------------------------------ |
+| 1. | Acessar a opção "Treino Livre" | Navegar até a sessão de treino livre | Navegação padrão do sistema |
+| 2. | Selecionar uma questão | Fazer a escolha de uma dentre o banco de questões do treino livre | Navegação padrão do sistema |
+| 3. | Realizar o cadastro | Criar o cadastro no CD-MOJ | Navegação padrão do sistema |
+| 4. | Realizar o login | Entrar na plataforma com suas credenciasi | Navegação padrão do sistema |
+| 5. | Enviar um arquivo | Escolher em seu computador o arquivo com a solução da questão | Navegação padrão do sistema |
+| 6. | Submeter o arquivo | Clicar no botão de submeter resposta | Navegação padrão do sistema |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
+
 
 ### 5. Problemas de Usabilidade Corrigidos
 
@@ -66,17 +81,29 @@ Atualmente, nenhum problema foi corrigido.
 
 ### 6. Problemas de Usabilidade Ainda Não Corrigidos
 
+#### Tabela 03: Problemas não corrigidos
+
 | **Local**         | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema**                                              | **Prioridade** | **Sugestões de Correção**                               |
 |-------------------|------------------------------------------|----------------------------------------------------------------------------------------|----------------|--------------------------------------------------------|
 | Tela Inicial      | Confusão com botões                    | O usuário se confunde com os botões "Treino Livre", um sendo notícia e outro funcional | Baixa          | Remover ou reposicionar a seção de notícias            |
 
+Autor: [João Vitor](https://github.com/Jauzimm)
+
 ### 7. Partes do Sistema que Podem Ser Melhor Elaboradas
 
-- Criar um botão dedicado para notícias, removendo-as da tela inicial, para reduzir a poluição visual e evitar confusão com o "Treino Livre". Alternativamente, deixar claro que se trata de uma seção de notícias.
+#### Tabela 04: Melhoramentos possíveis
+
+| Sessão | Sugestão de melhoria |
+| ------ | -------------------- |
+| Notícias | Criar um botão dedicado para notícias, removendo-as da tela inicial, para reduzir a poluição visual e evitar confusão com o "Treino Livre". |
+
+Autor: [Ruan Carvalho](https://github.com/Ruan-Carvalho)
 
 ### 8. Perguntas Respondidas no Planejamento da Avaliação
 
 **Participante C.O.**
+
+#### Tabela 05: Perguntas respondidas no planejamento
 
 | **Objetivo**                                | **Pergunta Avaliativa**                                                    | **Respostas**                                                                          |
 |--------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -85,7 +112,11 @@ Atualmente, nenhum problema foi corrigido.
 |                                            | Que parte da interface o deixa insatisfeito?                              | A tela inicial do CDMOJ pode confundir os usuários devido à seção de notícias.        |
 |                                            | Ele entende o que deve fazer em seguida?                                  | Sim, o participante concluiu as tarefas sem problemas  |
 
+Autor: [João Vitor](https://github.com/Jauzimm)
+
 **Participante G.H**
+
+#### Tabela 06: Perguntas respondidas no planejamento
 
 | **Objetivo**                                | **Pergunta Avaliativa**                                                    | **Respostas**                                                                          |
 |--------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -94,7 +125,11 @@ Atualmente, nenhum problema foi corrigido.
 |                                            | Que parte da interface o deixa insatisfeito?                              | nenhuma, a principio todas satisfazerem o usuario |
 |                                            | Ele entende o que deve fazer em seguida?                                  | Sim, não houve problemas |
 
+Autor: [João Vitor](https://github.com/Jauzimm)
+
 **Participante J.M**
+
+#### Tabela 07: Perguntas respondidas no planejamento
 
 | **Objetivo**                                | **Pergunta Avaliativa**                                                    | **Respostas**                                                                          |
 |--------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -102,6 +137,8 @@ Atualmente, nenhum problema foi corrigido.
 |                                            | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo?         | Sim, bom bastante eficiciencia, não houve problema algum durante a avalaição |
 |                                            | Que parte da interface o deixa insatisfeito?                              | A tela inicial do cd-moj, por ter muita informação irrelevante |
 |                                            | Ele entende o que deve fazer em seguida?                                  | Sim, não ohuve problemas no que fazer a seguida |
+
+Autor: [João Vitor](https://github.com/Jauzimm)
 
 ### 9. Vídeo da Avaliação
 
@@ -132,4 +169,4 @@ O Termo de Consentimento assinado pelos participantes está disponível no segui
 | Versão | Descrição                           | Autor                          | Data       | Revisor                        | Data de Revisão |
 |--------|-------------------------------------|--------------------------------|------------|--------------------------------|-----------------|
 | 1.0    | Criação do relato de resultado | [João Vitor](https://github.com/Jauzimm) | 14/01/2025 |[Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
-
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 07/02/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
