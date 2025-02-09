@@ -123,4 +123,4 @@ INTERAÇÃO HUMANO-COMPUTADOR. Relato de Resultados - Storyboard. 2022. Disponí
 
 |Versão|Descrição|Autor(es)|Data|Revisor(es)|Data de revisão|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1.0|Criação do documento| [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  |  |
+|1.0|Criação do documento| [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
