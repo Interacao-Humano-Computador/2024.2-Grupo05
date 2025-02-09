@@ -212,4 +212,4 @@ O Termo de Consentimento Livre e Esclarecido assinado está disponível no segui
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do relato de resultado | [Jéssica Eveline](https://github.com/xzxjese) | 26/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |
-| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  |  |
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
