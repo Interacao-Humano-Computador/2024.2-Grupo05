@@ -45,6 +45,8 @@ O protótipo de papel pode ser vizualizado abaixo:
 
 O protótipo de papel contou com a participação de três pessoas, que interagiram com o sistema CDMOJ. O objetivo principal foi avaliar a usabilidade e identificar problemas na interface e na experiência do usuário, visando melhorias no design e nas funcionalidades do sistema.
 
+[Protótipo de papel utilizado nas entrevistas.](../../entrega_5/prototipo_papel/prototipos_desenhados/prototipoPapel_JoãoVitor.pdf)
+
 ### 2. Método de Prototipação em Papel
 
 O protótipo de papel foi desenvolvido utilizando materiais simples, como papel, canetas e recortes, para simular telas e interações do sistema. Durante a avaliação, o entrevistador João Vitor guiou os participantes em tarefas previamente definidas, registrando observações e dificuldades encontradas.
@@ -171,6 +173,6 @@ O Termo de Consentimento assinado pelos participantes está disponível no segui
 ## Histórico de Versão
 
 | Versão | Descrição                           | Autor                          | Data       | Revisor                        | Data de Revisão |
-|--------|-------------------------------------|--------------------------------|------------|--------------------------------|-----------------|
+|--------|-------------------------------------|--------------------------------|------------|--------------------------------|--------------a---|
 | 1.0    | Criação do relato de resultado | [João Vitor](https://github.com/Jauzimm) | 14/01/2025 |[Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
 | 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 07/02/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |

@@ -220,4 +220,4 @@ SILVA, André Barros. Plano de Ensino - FIHC 022024 Turma 01 v1. Interação Hum
 |  1.3   | Adição da avaliação do grupo +1, etapa 2 e 3 | [João Vitor](https://github.com/Jauzimm) | 04/12/2024 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 04/12/2024 |
 |  1.4   | Realização da avaliação 4 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 11/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 11/12/2024 |
 |  1.4   | Realização da avaliação 6 | [Felipe Rodrigues](https://github.com/felipeJRdev)| 15/01/2025 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 15/01/2025 |
-|  1.5   | Realização da avaliação 7 | [Felipe Rodrigues](https://github.com/felipeJRdev)| 27/01/2025 | | |
+|  1.5   | Realização da avaliação 7 | [Felipe Rodrigues](https://github.com/felipeJRdev)| 27/01/2025 | [João Vitor](https://github.com/Jauzimm) | 08/02/2025 |
