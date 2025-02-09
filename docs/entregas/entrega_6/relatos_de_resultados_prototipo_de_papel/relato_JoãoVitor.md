@@ -169,4 +169,4 @@ O Termo de Consentimento assinado pelos participantes está disponível no segui
 | Versão | Descrição                           | Autor                          | Data       | Revisor                        | Data de Revisão |
 |--------|-------------------------------------|--------------------------------|------------|--------------------------------|-----------------|
 | 1.0    | Criação do relato de resultado | [João Vitor](https://github.com/Jauzimm) | 14/01/2025 |[Jéssica Eveline](https://github.com/xzxjesse) | 26/01/2025 |
-| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 07/02/2025 |  |  |
+| 1.1 | Adição de tabelas | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 07/02/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
