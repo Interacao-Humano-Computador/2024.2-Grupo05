@@ -192,5 +192,5 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avalia
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Criação do documento | [Felipe Rodrigues](https://github.com/felipeJRdev) | 09/02/2025 | |  |
+|  1.0   | Criação do documento | [Felipe Rodrigues](https://github.com/felipeJRdev) | 09/02/2025 | [Jéssica Eveline] | 09/02/2025 |
 
