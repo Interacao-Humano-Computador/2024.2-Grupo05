@@ -53,21 +53,21 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2024.
 
 Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
-### Problema com o FAQ
+### Submeter uma questão no treinamento livre
 
-**Tabela 3:** Cenário problema com o FAQ.
+**Tabela 3:** Cenário submeter uma questão no treinamento livre.
 
 | *Elemento*   | *Descrição* |
 | -------------- | ------------- |
-| *Objetivo*   | Realizar e entregar as atividades da disciplina. |
+| *Objetivo*   | Realizar questões para treinamento |
 | *Contexto*   | - *Local:* No quarto <br> - *Tempo:* Após chegar da faculdade <br> - *Pré-condições:* Ter acesso à internet, possuir computador e estar logada na conta CDMOJ |
-| *Recursos*   | - Conexão à internet <br> - Dispositivo com navegador (notebook, desktop, smartphone, etc.) <br> - Acesso a plataforma CD-MOJ |
-| *Ator*       | Usuários que iram realizar atividades de uma disciplina |
-| *Episódios*  | - O usuário acessa o site do CD-MOJ. <br> - Ele navega no site até achar o contest da disciplina cursada. <br> - O usuário acessa o contest. <br> - Ele começa a analisar as questões e as realiza. <br> - O usuário se depara com um problema durante o envio do código: "Time Limit Exceeded, 0p" <br> - O usuario percorre pelo FAQ do CD-MOJ para compreender a mensagem. <br> - Ele não encontra explicações sobre o problema. <br> - Ele busca em fóruns a respeito do problema. <br> - O usuário compreende o que aconteceu e reenvia sua atividade. |
-| *Restrições* | - O site deve expandir sua documentação sobre problemas frequentemente enfrentados. |
-| *Exceção*    | - Problemas de autenticação. <br> - O dispósitivo eletrônico apresenta problemas.  <br> - Falta de conexão à internet durante o processo. <br> - Plataforma fora do ar. |
+| *Recursos*   | - Conexão à internet <br> - Dispositivo com navegador (notebook, desktop, smartphone, etc.) <br> - Acesso à plataforma CD-MOJ |
+| *Ator*       | Usuários que irão realizar atividades de uma disciplina |
+| *Episódios*  | - O usuário acessa o site do CD-MOJ. <br> - Ele navega no site até achar a seção de treinamento livre. <br> - O usuário acessa a seção e escolhe uma questão. <br> - Ele começa a analisar a questão e a resolve. <br> - O usuário submete sua resposta para correção. <br> - Caso necessário, ele revisa e ajusta o código conforme o feedback da plataforma. |
+| *Restrições* | - O site deve garantir que o treinamento livre tenha questões bem documentadas e feedback claro sobre erros. |
+| *Exceção*    | - Problemas de autenticação. <br> - O dispositivo eletrônico apresenta problemas.  <br> - Falta de conexão à internet durante o processo. <br> - Plataforma fora do ar. |
 
-Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2024.
+Autor(es): [João Vitor Santos](https://github.com/Jauzimm), 2025.
 
 ### Falta de mecanismos de busca e acesso a enunciados de competições passadas
 
@@ -117,3 +117,4 @@ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: E
 | Versão |      Descrição       |                                              Autor(es)                                              |    Data    | Revisor(es) | Data de Revisão |
 | :----: | :------------------: | :-------------------------------------------------------------------------------------------------: | :--------: | :---------: | :-------------: |
 |  1.0   | Criação do documento | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)| 24/11/2024 |      [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian)       |        03/12/2024         |
+|  1.1   | Alteração no cenário | [João Vitor](https://github.com/Jauzimm) | 09/02/2025 |  |  |
