@@ -1,4 +1,4 @@
-# Entrega 7
+![image](https://github.com/user-attachments/assets/4242bfdd-4e8c-43a1-abaf-2ce73ae169f7)# Entrega 7
 
 ## Introdução
 
@@ -12,7 +12,7 @@ O objetivo desta entrega é fornecer uma visão geral do projeto, abordando sua 
 
 A gravação do vídeo de apresentação foi realizada em uma reunião via Google Meet. Tanto o vídeo quanto o áudio foram capturados utilizando o software OBS Studio.
 
-Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
 ## Apresentação
 
@@ -28,4 +28,4 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2024.
 
 | Versão |                   Descrição                   |                      Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :-------------------------------------------: | :-------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da entrega e disponibilização do link | [João Vitor](https://github.com/Jauzimm) | 26/01/2025 |             |                 |
+|  1.0   | Criação da entrega e disponibilização do link | [João Vitor](https://github.com/Jauzimm) | 26/01/2025 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
