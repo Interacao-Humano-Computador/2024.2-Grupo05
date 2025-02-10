@@ -76,4 +76,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. *Planejamento da avali
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento do resultado | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
-|  1.1   | Correção do planejamento de resultado | [João Vitor](https://github.com/Jauzimm) | 05/01/2025 |  |  |
+|  1.1   | Correção do planejamento de resultado | [João Vitor](https://github.com/Jauzimm) | 05/01/2025 |[Jéssica Eveline](https://github.com/xzxjesse) | 10/02/2025|
