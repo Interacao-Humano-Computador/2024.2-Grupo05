@@ -121,5 +121,5 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avalia
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
 |  1.1   | Alteração nas perguntas | [João Vitor](https://github.com/Jauzimm) | 10/12/2024 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/12/2024 |
-|  1.2   | Correção e alteração nas perguntas  | [João Vitor](https://github.com/Jauzimm) | 15/12/2024 |[Jéssica EVeline](https://github.com/xzxjesse) | 10/02/2025|
-|  1.3   | Adição de datas | [João Vitor](https://github.com/Jauzimm) | 08/02/2025 |[Jéssica EVeline](https://github.com/xzxjesse) | 10/02/2025|
+|  1.2   | Correção e alteração nas perguntas  | [João Vitor](https://github.com/Jauzimm) | 15/12/2024 |[Jéssica Eveline](https://github.com/xzxjesse) | 10/02/2025|
+|  1.3   | Adição de datas | [João Vitor](https://github.com/Jauzimm) | 08/02/2025 |[Jéssica Eveline](https://github.com/xzxjesse) | 10/02/2025|
