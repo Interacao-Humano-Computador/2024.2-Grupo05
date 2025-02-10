@@ -106,4 +106,4 @@ As imagens das personas foram geradas através do site [This person does not exi
 
 | Versão | Descrição          | Autor(es)                                    | Data       | Revisor(es) | Data de revisão |
 |--------|--------------------|----------------------------------------------|------------|-------------|-----------------|
-| 1.0    | Criação de personas | [João Vitor Santos](https://github.com/Jauzimm) | 09/02/2025 |             |                 |
+| 1.0    | Criação de personas | [João Vitor Santos](https://github.com/Jauzimm) | 09/02/2025 |   [Jéssica Eveline](https://github.com/xzxjesse)          |  10/02/2025               |
