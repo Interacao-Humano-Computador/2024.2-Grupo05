@@ -352,7 +352,6 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 ## 10.  Vídeos das apresentações
 
-
 | Etapa do Projeto       | Participante(s) na Gravação   | Link das gravações |
 |------------------------|-------------------------------| ------------------ |
 | Entrega 1: Planejamento | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjese), [João Vitor](https://github.com/Jauzimm), [Marcelo Adrian](https://github.com/Marcelo-Adrian), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 1](https://www.youtube.com/watch?v=aKWQ8WywFNY) |
@@ -365,11 +364,15 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | Entrega 8: Listas de verificação | [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 8](https://youtu.be/WpT4Qa1r5Ls) |
 
 
-## 12. Facilidades e dificuldades encontradas
+## 11. Facilidades e dificuldades encontradas
 
-| Integrante da Equipe   | Facilidades Encontradas       | Dificuldades Encontradas      |
-|------------------------|-------------------------------|-------------------------------|
-| Nome do integrante     | Descrição da facilidade       | Descrição da dificuldade      |
+| Integrante da Equipe                                                                                                     | Facilidades Encontradas                                                                                       | Dificuldades Encontradas                                                                                      |
+|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| [Jéssica Eveline](https://github.com/xzxjesse)                                                                           | - Facilidade em colaborar com a equipe devido ao engajamento do grupo. <br> - Habilidade em compreender e aplicar conceitos de Interação Humano-Computador. <br> - Competência na condução de entrevistas com usuários. <br> - Identificação de inconsistências no projeto a partir da análise de outros grupos. | - Dificuldade em gerenciar e acompanhar o alto volume de entregas e artefatos. <br> - Limitações de disponibilidade, principalmente nas etapas finais, devido a demandas de outras disciplinas e compromissos pessoais/profissionais. <br> - Dificuldade em interpretar processos e requisitos específicos do projeto. <br> - Desafios para manter regularidade em reuniões formais. |
+| [João Vitor Santos](https://github.com/Jauzimm)                                                                          | - Facilidade em trabalhar com um grupo coeso e organizado. <br> - Execução das entregas sem dificuldades na divisão de tarefas. <br> - Respostas rápidas e esclarecedoras por parte do monitor. | - Dificuldade no início da disciplina devido à complexidade e falta de clareza inicial. <br> - Desafio de conciliar as demandas extensas da disciplina com outras matérias, dado o alto consumo de tempo necessário. |
+| [Ruan Carvalho](https://github.com/Ruan-Carvalho)                                                                        | - Boa comunicação entre os integrantes do grupo. <br> - Avaliações incrementais do professor ao longo das etapas. | - Organização de agenda para o desenvolvimento do projeto. <br> - Falta de instruções para produzir os artefatos requisitados. |
+| [Marcelo Adrian](https://github.com/Marcelo-Adrian)                                                                      | - Acompanhamento e suporte dos monitores, com respostas rápidas e esclarecedoras, permitindo um aprendizado aprofundado. <br> - Disponibilização organizada do conteúdo, facilitando o acesso aos recursos no momento adequado e a revisão de tópicos. | - Volume elevado de atividades extracurriculares, dificultando a gestão do tempo, especialmente quando equilibrado com outras disciplinas e compromissos acadêmicos. <br> - Dificuldade em definir critérios claros para avaliação das entregas, o que torna o processo de melhoria contínua mais complexo. |
+| [Felipe Rodrigues](https://github.com/felipeJRdev)                                                                       | _[Ainda não registrado, adicionar facilidades e dificuldades]._                                              | _[Ainda não registrado, adicionar facilidades e dificuldades]._                                              |
 
 ## Referência Bibliográfica
 
