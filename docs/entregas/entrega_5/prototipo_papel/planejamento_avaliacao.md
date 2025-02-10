@@ -109,5 +109,5 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Criação do planejamento da avaliação | [João Vitor](https://github.com/Jauzimm), [Felipe Rodrigues](https://github.com/felipeJRdev) | 04/01/2025 | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 05/01/2025 |
-|  1.1  | Alteração no objetivo e nas perguntas | [João Vitor](https://github.com/Jauzimm) | 12/01/2025 |  |  |
-|  1.2  | Alteração no cronograma | [João Vitor](https://github.com/Jauzimm) | 14/01/2025 |  |  |
+|  1.1  | Alteração no objetivo e nas perguntas | [João Vitor](https://github.com/Jauzimm) | 12/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 10/02/2025|
+|  1.2  | Alteração no cronograma | [João Vitor](https://github.com/Jauzimm) | 14/01/2025 | [Jéssica Eveline](https://github.com/xzxjesse) | 10/02/2025|
