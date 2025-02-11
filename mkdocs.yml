@@ -52,7 +52,13 @@ nav:
             - Analise de tarefas:
                 - Planejamento da Avaliação da Análise de Tarefas: entregas/entrega_4/analise_requisitos/planejamento_avaliacao.md
                 - Planejamento do relato de resultados da avaliação da análise de tarefas: entregas/entrega_4/analise_requisitos/planejamento_relato.md
-            - Relato resultados storyboard e analise de tarefas: entregas/entrega_5/relato_resultados_storyboard_analise_tarefas.md
+                - Relatos de storyboard e HTA:
+                    - Felipe Rodrigues: entregas/entrega_5/Relatos/relato_storyboard_HTA_Felipe.md
+                    - Jéssica Eveline: entregas/entrega_5/Relatos/relato_storyboard_HTA_Jessica.md
+                    - João Vitor: entregas/entrega_5/Relatos/relato_storyboard_HTA_joão.md
+                    - Marcelo Adrian: entregas/entrega_5/Relatos/relato_storyboard_HTA_Marcelo.md
+                    - Ruan Carvalho: entregas/entrega_5/Relatos/relato_storyboard_HTA_Ruan.md
+                    - Relato resultados storyboard e analise de tarefas: entregas/entrega_5/relato_resultados_storyboard_analise_tarefas.md
           - Nível 2:
               - Entrega: entregas/entrega_5/entrega_5.md
               - Prototipo de papel:
@@ -68,6 +74,7 @@ nav:
                   - Entrega 6: entregas/entrega_6/entrega_6.md
                   - Entrega 7: entregas/entrega_7/entrega_7.md
               - Prototipo de alta fidelidade:
+                  - Protótipos de Alta Fidelidade: entregas/entrega_6/prototipo_alta_fidelidade/prototipo_de_alta_fidelidade.md
                   - Planejamento avaliação: entregas/entrega_6/prototipo_alta_fidelidade/planejamento_avaliacao.md
                   - Planejamento relato: entregas/entrega_6/prototipo_alta_fidelidade/planejamento_relato.md
               - Relato dos Resultados dos Protótipos de Alta Fidelidade:
@@ -79,6 +86,7 @@ nav:
           - Autoavaliação: entregas/avaliações/autoavaliação_1.md
           - Avaliação Grupo 6: entregas/avaliações/avaliação_grupo06_1.md
           - Listas de Verificações da Etapa 8:
+            - Entrega 8: entregas/entrega_8/entrega_8.md
             - Lista de Verificação Grupo 06:
                 - Lista de Verificação Personas: entregas/entrega_8/verificacao_grupo06/listaVerificacaoPersonas.md
                 - Lista de Verificação Elenco de Personas: entregas/entrega_8/verificacao_grupo06/listaVerificacaoElencoPersonas.md
