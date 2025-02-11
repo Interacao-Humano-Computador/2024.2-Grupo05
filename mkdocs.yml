@@ -6,6 +6,10 @@ site_description: "Repositório de documentos de Interação Humano-Computador"
 repo_name: "2024.2-Grupo05"
 repo_url: "https://github.com/Interacao-Humano-Computador/2024.2-Grupo05"
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+
 # Configura a navegação do site
 nav:
   - Introdução: index.md
@@ -13,6 +17,7 @@ nav:
       - Ata padrão: atas/ata-padrao.md
       - Ata 1: atas/ataN1_07_11_2024.md
       - Ata 2: atas/ataN2_30_11_2024.md
+      - Ata 3: atas/ataN3_11_01_2025.md
   - Entregas:
       - Planejamento:
           - Cronograma Planejado: entregas/entrega_1/cronograma.md
@@ -98,7 +103,9 @@ nav:
                 - Lista de Verificação CTT: entregas/entrega_8/verificacao_interna/listaVerificacaoCTT.md
                 - Lista de Verificação Planejamento da Avaliação com o Framework DECIDE: entregas/entrega_8/verificacao_interna/listaVerificacaoDECIDE.md
                 - Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação: entregas/entrega_8/verificacao_interna/listaVerificacaoResultados.md
-
+      - Entrega final: 
+        - Projeto final : entregas/entregaFinal/projetoFinal.md
+        - Entrega final : entregas/entregaFinal/entrega_final.md   
 
 # Tema do MkDocs
 theme:

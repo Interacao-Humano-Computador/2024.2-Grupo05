@@ -28,4 +28,4 @@ Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
 | Versão |                   Descrição                   |                      Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :-------------------------------------------: | :-------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da entrega e disponibilização do link | [João Vitor](https://github.com/Jauzimm) | 26/01/2025 |  [Jéssica Eveline](https://github.com/xzxjesse) | 09/02/2025 |
+|  1.0   | Criação da entrega e disponibilização do link | [João Vitor](https://github.com/Jauzimm) | 26/01/2025 |      [Felipe Rodrigues](https://github.com/felipeJRdev)       |     08/02/2025            |
