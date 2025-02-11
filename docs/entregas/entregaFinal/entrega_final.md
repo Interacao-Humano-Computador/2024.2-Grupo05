@@ -16,16 +16,16 @@ Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 ## Apresentação
 
-<font size="3"><p style="text-align: left">*Vídeo 1:* Entrega Final - IHC - Grupo 05.</p></font>
+<font size="3"><p style="text-align: left">_Vídeo 1:_ Entrega Final - IHC - Grupo 05.</p></font>
 
-<iframe width="560" height="315" src="https://youtu.be/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/eo0hQJeKayM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Link:* [Entrega Final - IHC - Grupo 05](https://youtu.be/)
+_Link:_ [Entrega Final - IHC - Grupo 05](https://youtu.be/)
 
 ## Histórico de Versões
 
-<font size="3"><p style="text-align: left">*Tabela 1* - Histórico de versões.</p></font>
+<font size="3"><p style="text-align: left">_Tabela 1_ - Histórico de versões.</p></font>
 
-| Versão |                   Descrição                   |                      Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
-| :----: | :-------------------------------------------: | :-------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da entrega e disponibilização do link | [Jéssica Eveline](https://github.com/xzxjesse) | 10/01/2025 |      [Marcelo Adrian](https://github.com/Marcelo-Adrian)       |    10/01/2025             |
+| Versão |                   Descrição                   |                   Autor(es)                    |    Data    |                     Revisor(es)                     | Data de revisão |
+| :----: | :-------------------------------------------: | :--------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
+|  1.0   | Criação da entrega e disponibilização do link | [Jéssica Eveline](https://github.com/xzxjesse) | 10/01/2025 | [Marcelo Adrian](https://github.com/Marcelo-Adrian) |   10/01/2025    |

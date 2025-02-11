@@ -132,8 +132,8 @@ A execução do projeto foi uma experiência enriquecedora para a equipe visto o
 | Etapa do Projeto       | Ferramenta Utilizada      | Descrição da Utilização       |
 |-----------------------|---------------------------|-------------------------------|
 | Todas as Etapas     |   [Git e Github](https://docs.github.com/pt)   |  Utilizado para versionamento e disponibilização dos artefatos.   |
-| Todas as Etapas | [GitPages](https://pages.github.com/) | Utilizado para visualizão dos artefatos em páginas web |
-| Todas as Etapas | [Google Spreadsheet](https://docs.google.com/spreadsheets) | Utilizado para criação de gráficos dos resultados de verificação do grupo e grupo +1 |
+| Todas as Etapas | [GitPages](https://pages.github.com/) | Utilizado para visualizão dos artefatos em páginas web. |
+| Todas as Etapas | [Google Spreadsheet](https://docs.google.com/spreadsheets) | Utilizado para criação de gráficos dos resultados de verificação do grupo e grupo +1. |
 | Todas as Etapas | [MkDocs](https://www.mkdocs.org/) | Utilizado para compilação da página web visualizada pelo GitPages. |
 | Todas as Etapas | [OBS Studio](https://obsproject.com/pt-br) | Utilizado para gravações dos vídeos de entregas, inspeção e entrevistas com usuários. |
 | Todas as Etapas | [Telegram](https://web.telegram.org/) | Utilizado para sanar dúvidas e comunicação.  | 
@@ -153,7 +153,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](h
 |------------------------|---------------------------------|
 | Avaliação Heurística | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
 | Framework DECIDE | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
-| Analise documental | [João Vitor](https://github.com/Jauzimm) |
+| Análise documental | [João Vitor](https://github.com/Jauzimm) |
 | Análise de Tarefas (GOMS e HTA) | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  
 | Prototipação em Papel | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
 | Prototipação em Alta Fidelidade | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
@@ -178,7 +178,7 @@ Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 | Etapa 1 | [Sites avaliados](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/sites_avaliados/) | [João Vitor](https://github.com/Jauzimm) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção |
 | Etapa 1 | [Ata da reunião](https://interacao-humano-computador.github.io/2024.2-CDMOJ/atas/ataN1_07_11_2024/) | [João Vitor](https://github.com/Jauzimm)  | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção |
 | Etapa 1 | [Autoavaliação](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/avalia%C3%A7%C3%B5es/autoavalia%C3%A7%C3%A3o_1/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa | [Avaliação do Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/avalia%C3%A7%C3%B5es/avalia%C3%A7%C3%A3o_grupo06_1/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+| Etapa 1| [Avaliação do Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/avalia%C3%A7%C3%B5es/avalia%C3%A7%C3%A3o_grupo06_1/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
 | Etapa 1 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/entrega_1/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [João Vitor](https://github.com/Jauzimm) | Inspeção |
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
