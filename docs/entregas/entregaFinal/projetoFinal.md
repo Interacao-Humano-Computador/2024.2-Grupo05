@@ -14,18 +14,18 @@ As técnicas de avaliação utilizadas incluíram testes com usuários, feedback
 
 O site escolhido para este projeto foi o MOJ Naquadah. A seleção foi feita com base em critérios que destacaram sua relevância e o potencial para melhorias significativas em termos de usabilidade e interação.
 
-## Critérios para escolha
+### Critérios para escolha
 
 - Facilidade de contato com o público-alvo, composto majoritariamente por membros da UnB.
 - Interface fora dos padrões estudados na disciplina, oferecendo desafios interessantes para análise.
 - Acessibilidade ao criador do aplicativo, professor Bruno Ribas da UnB, facilitando o feedback direto.
 - Facilidade de acesso ao site para os avaliadores.
 
-## Motivação
+### Motivação
 
 A escolha do MOJ Naquadah foi motivada por sua importância educacional, sendo amplamente utilizado por alunos e professores. O projeto ofereceu uma oportunidade de desenvolver habilidades computacionais e de resolução de problemas, além de identificar melhorias na interação e usabilidade, focando nas dificuldades de navegação e entendimento da interface para aprimorar a experiência do usuário.
 
-## Problemas encontrados
+### Problemas encontrados
 
 Utilizando as heurísticas de Nielsen, foram identificados os seguintes problemas no site:
 
@@ -59,7 +59,7 @@ O ciclo de Mayhew proporcionou uma estrutura sólida para garantir que todas as 
 
 A execução do projeto seguiu as etapas definidas no ciclo de vida da Engenharia de Usabilidade de Mayhew. Cada fase foi documentada com os artefatos correspondentes, permitindo um acompanhamento detalhado do progresso e das decisões tomadas.
 
-## Análise de Requisitos
+### Análise de Requisitos
 
 Nesta etapa, realizamos a identificação das necessidades dos usuários e das principais limitações do site. Foram aplicadas entrevistas, questionários e análises heurísticas para levantar informações relevantes.
 
@@ -70,7 +70,7 @@ Nesta etapa, realizamos a identificação das necessidades dos usuários e das p
 - [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_3/metas_de_usabilidade/);
 - [Guia de Estilo](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_2/guia_de_estilo/).
 
-## Design, Avaliação e Desenvolvimento
+### Design, Avaliação e Desenvolvimento
 
 Com base nos requisitos identificados, desenvolvemos protótipos de baixa e alta fidelidade, explorando soluções para os problemas de usabilidade encontrados. Utilizamos storyboards e análises de tarefas para estruturar o fluxo de interação e orientar o design das interfaces. As entrevistas com os usuários ajudaram a validar essas soluções, proporcionando feedback valioso para os ajustes necessários.
 
@@ -106,15 +106,15 @@ Após o design, implementamos as melhorias no protótipo de alta fidelidade, aju
         - [Ruan Carvalho](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_RuanCarvalho/).
         - [João Vitor](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_JoaoVitor/)
 
-## Instalação
+### Instalação
 
 A versão final do protótipo, com as melhorias implementadas, foi disponibilizada no Figma. Realizamos testes finais para garantir o funcionamento adequado das novas funcionalidades.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/2Ug3PxvPbD6D3BJXl7L2fn/Feedback---CDMoj?node-id=17-183&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4&embed-host=share" allowfullscreen></iframe>
 
-## 5. O(s) resultado(s) alcançado(s) com a execução do projeto
+## 5. Os resultados alcançados com a execução do projeto
 
-Alguns dos objetivos do projeto são: 
+Alguns dos objetivos do projeto alcançados foram: 
 
 - Aplicação de conceitos teóricos;
 - Aprendizado de metodologias de avaliação;
@@ -141,15 +141,17 @@ A execução do projeto foi uma experiência enriquecedora para a equipe visto o
 | Etapa 4   | [Storyboard That](https://www.storyboardthat.com/) | Utilizada por alguns membros para criação de cenas do storyboard. |
 | Etapa 6 | [Figma](https://www.figma.com/) | Utilizado para Criação do Protótipo de Alta Fidelidade. |
 
-</center>
-
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 ## 7. Técnicas utilizadas e responsáveis
+
+<font size="3"><p style="text-align: left">**Tabela 2** - Técnicas utilizadas e responsáveis em cada etapa do projeto.</p></font>
 
 | Técnica Utilizada      | Participante(s) Responsável(is) |
 |------------------------|---------------------------------|
 | Exemplo: Entrevistas   | Nome do participante           |
+
+Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
 ## 8. Artefatos criados por etapa
 
@@ -170,7 +172,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | Etapa | [Avaliação do Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/avalia%C3%A7%C3%B5es/avalia%C3%A7%C3%A3o_grupo06_1/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
 | Etapa 1 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/entrega_1/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [João Vitor](https://github.com/Jauzimm) | Inspeção |
 
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 <font size="3"><p style="text-align: left">**Tabela 4** - Artefatos Entrega 2.</p></font>
 
@@ -185,7 +187,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | Etapa 2 | [Guia de Estilo](http://127.0.0.1:8000/entregas/entrega_2/guia_de_estilo/) | [Jéssica Eveline](https://github.com/xzxjesse), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Inspeção |
 | Etapa 2 | [Entrega](http://127.0.0.1:8000/entregas/entrega_2/entrega_2/) | [Jéssica Eveline ](https://github.com/xzxjesse) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Inspeção |
 
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 <font size="3"><p style="text-align: left">**Tabela 5** - Artefatos Entrega 3.</p></font>
 
@@ -196,7 +198,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | Etapa 3 | [Ata da reunião](https://interacao-humano-computador.github.io/2024.2-CDMOJ/atas/ataN2_30_11_2024/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [João Vitor](https://github.com/Jauzimm) | Inspeção |
 | Etapa 3 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_3/entrega_3/) | [Jéssica Eveline ](https://github.com/xzxjesse)  | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Inspeção |
 
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 <font size="3"><p style="text-align: left">**Tabela 6** - Artefatos Entrega 4.</p></font>
 
@@ -209,7 +211,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | Etapa 4 | [Planejamento do relato de resultados da avaliação da análise de tarefas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_4/analise_requisitos/planejamento_relato/) | [João Vitor](https://github.com/Jauzimm)  | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção |
 | Etapa 4 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_4/entrega_4/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | Inspeção |
 
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 <font size="3"><p style="text-align: left">**Tabela 7** - Artefatos Entrega 5.</p></font>
 
@@ -221,7 +223,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | Etapa 5 | [Ata da reunião](https://interacao-humano-computador.github.io/2024.2-CDMOJ/atas/ataN3_11_01_2025/) | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [João Vitor](https://github.com/Jauzimm) | Inspeção |
 | Etapa 5 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_5/entrega_5/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Felipe Rodrigues](https://github.com/felipeJRdev) | Inspeção | 
 
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 <font size="3"><p style="text-align: left">**Tabela 8** - Artefatos Entrega 6.</p></font>
 
@@ -235,10 +237,9 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | Etapa 6 | [Planejamento do Relato de Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/prototipo_alta_fidelidade/planejamento_relato/) | [Marcelo Adrian](https://github.com/Marcelo-Adrian)  | [João Vitor](https://github.com/Jauzimm) | Inspeção |
 | Etapa 6 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/entrega_6/) | [João Vitor](https://github.com/Jauzimm)  | [Felipe Rodrigues](https://github.com/felipeJRdev) | Inspeção |
 
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 <font size="3"><p style="text-align: left">**Tabela 9** - Artefatos Entrega 7.</p></font>
-
 
 | Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       | Método de verificação |
 |------------------------|-------------------------------|---------------|---------------|-------------------------------|
@@ -248,40 +249,34 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | Etapa 7 | [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/prototipo_alta_fidelidade/planejamento_avaliacao/) | [João Vitor](https://github.com/Jauzimm)  | [Jéssica Eveline](https://github.com/xzxjese) | Inspeção |
 | Etapa 7 | [Entrega](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/entrega_7/) | [João Vitor](https://github.com/Jauzimm)  | [Felipe Rodrigues](https://github.com/felipeJRdev) | Inspeção |
 
-
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
-
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 <font size="3"><p style="text-align: left">**Tabela 10** - Artefatos Entrega 8.</p></font>
 
-Tabela das listas de Verifiações Internas
+|| Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       | Método de verificação |
+|---|------------------------|-------------------------------|---------------|---------------|-------------------------------|
+|Verifiações Internas| | | | | |
+|| Etapa 8 | [Lista de Verificação Personas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação Elenco de Personas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoElencoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação Cenários](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoCenarios/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação HTA](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoHTA/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação CTT](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoCTT/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação Planejamento da Avaliação com o Framework DECIDE](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoDECIDE/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoResultados/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|Verifiações do Grupo + 1| | | | | |
+|| Etapa 8 | [Lista de Verificação Personas Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação Elenco de Personas Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoElencoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação Cenários Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoCenarios/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação HTA Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoHTA/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação CTT Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoCTT/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação Planejamento da Avaliação com o Framework DECIDE Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoDECIDE/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
+|| Etapa 8 | [Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoResultados/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
 
-| Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       | Método de verificação |
-|------------------------|-------------------------------|---------------|---------------|-------------------------------|
-| Etapa 8 | [Lista de Verificação Personas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação Elenco de Personas](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoElencoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação Cenários](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoCenarios/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação HTA](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoHTA/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação CTT](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoCTT/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação Planejamento da Avaliação com o Framework DECIDE](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoDECIDE/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_interna/listaVerificacaoResultados/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-
-Tabela das listas de Verifiações do Grupo + 1
-
-| Etapa do Projeto       | Artefato Criado               | Autor(es)         | Revisor(es)       | Método de verificação |
-|------------------------|-------------------------------|---------------|---------------|-------------------------------|
-| Etapa 8 | [Lista de Verificação Personas Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação Elenco de Personas Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoElencoPersonas/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação Cenários Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoCenarios/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação HTA Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoHTA/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação CTT Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoCTT/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação Planejamento da Avaliação com o Framework DECIDE Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoDECIDE/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-| Etapa 8 | [Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação Grupo + 1](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_8/verificacao_grupo06/listaVerificacaoResultados/) | [Felipe Rodrigues](https://github.com/felipeJRdev) | [Ruan Carvalho](https://github.com/Ruan-Carvalho), [João Vitor](https://github.com/Jauzimm) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) | Inspeção e checklist |
-
-Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
-
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 ## 9.  Avaliações realizadas 
+
+<font size="3"><p style="text-align: left">**Tabela 11** - Avaliações realizadas.</p></font>
 
 |  Artefato Avaliado     | Entrevistadores               | Nº de Participantes |    Participantes     |
 |------------------------|-------------------------------|---------------------|----------------------|
@@ -291,15 +286,19 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | HTA e storyboard       |  [Marcelo Adrian](https://github.com/Marcelo-Adrian)     | 1   | Lucas |
 | HTA e storyboard       |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)       | 1   | Gabriel |
 | Protótipo de papel     |  [Felipe Rodrigues](https://github.com/felipeJRdev)      | 1   | Vinícius |
-| Protótipo de papel     |  [Jéssica Eveline](https://github.com/xzxjese)           | 1   | L.L. |
-| Protótipo de papel     |  [João Vitor](https://github.com/Jauzimm)                | 3   | G.H., J.M. e C.O. |
+| Protótipo de papel     |  [Jéssica Eveline](https://github.com/xzxjese)           | 1   | Lucas |
+| Protótipo de papel     |  [João Vitor](https://github.com/Jauzimm)                | 3   | Gabriel, João e Cauã |
 | Protótipo de papel     |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)       | 3   | Diogo, Guilherme e Pedro |
 | Protótipo de alta fidelidade |  [Felipe Rodrigues](https://github.com/felipeJRdev)  | 3 | Vinícius C., Vinícius R. e Izabelle |
 | Protótipo de alta fidelidade |  [Jéssica Eveline](https://github.com/xzxjese)       | 3 | Gabriel, Luiza e Pedro |
 | Protótipo de alta fidelidade |  [João Vitor](https://github.com/Jauzimm)            | 3 | Gabriel, Luiza e Pedro |
 | Protótipo de alta fidelidade |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)   | 3 | Gabriel, Luiza e Pedro |
 
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
+
 ## 10.  Vídeos das apresentações
+
+<font size="3"><p style="text-align: left">**Tabela 12** - Vídeos das apresentações por entrega.</p></font>
 
 | Etapa do Projeto       | Participante(s) na Gravação   | Link das gravações |
 |------------------------|-------------------------------| ------------------ |
@@ -311,9 +310,13 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | Entrega 6: Design, avaliação e desenvolvimento - Nível 3 | [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 6](https://youtu.be/tAUtLPJQFRI) |
 | Entrega 7: Design, avaliação e desenvolvimento - Nível 3 | [Jéssica Eveline](https://github.com/xzxjese), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 7](https://youtu.be/FxRJUG-Bslk) |
 | Entrega 8: Listas de verificação | [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 8](https://youtu.be/WpT4Qa1r5Ls) |
+| Entrega 9: Entrega Final | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 9](https://youtu.be/) |
 
+Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
 ## 11. Facilidades e dificuldades encontradas
+
+<font size="3"><p style="text-align: left">**Tabela 13** - Facilidades e dificuldades encontradas por integrante do grupo.</p></font>
 
 | Integrante da Equipe                                                                                                     | Facilidades Encontradas                                                                                       | Dificuldades Encontradas                                                                                      |
 |--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -321,7 +324,9 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 | [João Vitor Santos](https://github.com/Jauzimm)                                                                          | - Facilidade em trabalhar com um grupo coeso e organizado. <br> - Execução das entregas sem dificuldades na divisão de tarefas. <br> - Respostas rápidas e esclarecedoras por parte do monitor. | - Dificuldade no início da disciplina devido à complexidade e falta de clareza inicial. <br> - Desafio de conciliar as demandas extensas da disciplina com outras matérias, dado o alto consumo de tempo necessário. |
 | [Ruan Carvalho](https://github.com/Ruan-Carvalho)                                                                        | - Boa comunicação entre os integrantes do grupo. <br> - Avaliações incrementais do professor ao longo das etapas. | - Organização de agenda para o desenvolvimento do projeto. <br> - Falta de instruções para produzir os artefatos requisitados. |
 | [Marcelo Adrian](https://github.com/Marcelo-Adrian)                                                                      | - Acompanhamento e suporte dos monitores, com respostas rápidas e esclarecedoras, permitindo um aprendizado aprofundado. <br> - Disponibilização organizada do conteúdo, facilitando o acesso aos recursos no momento adequado e a revisão de tópicos. | - Volume elevado de atividades extracurriculares, dificultando a gestão do tempo, especialmente quando equilibrado com outras disciplinas e compromissos acadêmicos. <br> - Dificuldade em definir critérios claros para avaliação das entregas, o que torna o processo de melhoria contínua mais complexo. |
-| [Felipe Rodrigues](https://github.com/felipeJRdev)                                                                       | _[Ainda não registrado, adicionar facilidades e dificuldades]._                                              | _[Ainda não registrado, adicionar facilidades e dificuldades]._                                              |
+| [Felipe Rodrigues](https://github.com/felipeJRdev)                                                                       | - Apoio dos monitores: A disponibilidade e o suporte dos monitores foram essenciais para esclarecer dúvidas e orientar o desenvolvimento do projeto, contribuindo significativamente para o aprendizado. <br> - Feedback contínuo do professor: O retorno detalhado do professor em cada fase do projeto ajudou a identificar pontos de melhoria e a ajustar o trabalho conforme as expectativas da disciplina. | - Carga excessiva de trabalho: O volume de entregas extensas, tanto do projeto quanto das atividades avaliativas, aliado a prazos curtos, tornou desafiadora a conciliação com outras disciplinas e compromissos extracurriculares. <br> - Falta de clareza nas orientações: Em algumas etapas do projeto, houve dificuldade em entender com precisão o que era esperado em termos de artefatos e entregáveis, o que gerou incertezas durante o desenvolvimento. |
+
+Autor(es): [Jéssica Eveline](https://github.com/xzxjesse), 2025.
 
 ## Referência Bibliográfica
 
@@ -333,4 +338,4 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), 2025.
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | :----: | :-------: | :-------: | :--: | :-------------------------------: | :-------------: |
-|  1.0   | Criação do Documento | [Felipe Rodrigues](https://github.com/felipeJRdev),  [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 08/02/2025 |  |  |
+|  1.0   | Criação do Documento | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor Santos](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 08/02/2025 |[Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor Santos](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | 10/02/2025 |
