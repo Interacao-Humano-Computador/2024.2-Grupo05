@@ -321,7 +321,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](h
 | Entrega 6: Design, avaliação e desenvolvimento - Nível 3 | [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 6](https://youtu.be/tAUtLPJQFRI) |
 | Entrega 7: Design, avaliação e desenvolvimento - Nível 3 | [Jéssica Eveline](https://github.com/xzxjese), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 7](https://youtu.be/FxRJUG-Bslk) |
 | Entrega 8: Listas de verificação | [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 8](https://youtu.be/WpT4Qa1r5Ls) |
-| Entrega 9: Entrega Final | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Apresentação 9](https://youtu.be/) |
+| Entrega 9: Entrega Final | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Apresentação 9](https://www.youtube.com/watch?v=eo0hQJeKayM) |
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 
