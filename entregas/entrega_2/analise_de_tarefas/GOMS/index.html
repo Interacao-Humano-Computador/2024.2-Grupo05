@@ -1,0 +1,3910 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Repositório de documentos de Interação Humano-Computador">
+      
+      
+      
+      
+        <link rel="prev" href="../HTA/">
+      
+      
+        <link rel="next" href="../../cenarios/">
+      
+      
+      <link rel="icon" href="https://moj.naquadah.com.br/images/logo_moj.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.3">
+    
+    
+      
+        <title>Análise de tarefas Modelo GOMS - CD - MOJ</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.d7758b05.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="claro" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introducao" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-color-scheme="default" data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../../../.." title="CD - MOJ" class="md-header__button md-logo" aria-label="CD - MOJ" data-md-component="logo">
+      
+  <img src="https://moj.naquadah.com.br/images/logo_moj.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            CD - MOJ
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Análise de tarefas Modelo GOMS
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="claro" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Mudar para o modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Mudar para o modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Mudar para o modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Mudar para o modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Interacao-Humano-Computador/2024.2-Grupo05" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2024.2-Grupo05
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../.." title="CD - MOJ" class="md-nav__button md-logo" aria-label="CD - MOJ" data-md-component="logo">
+      
+  <img src="https://moj.naquadah.com.br/images/logo_moj.png" alt="logo">
+
+    </a>
+    CD - MOJ
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Interacao-Humano-Computador/2024.2-Grupo05" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2024.2-Grupo05
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introdução
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../atas/ata-padrao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata padrão
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../atas/ataN1_07_11_2024/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../atas/ataN2_30_11_2024/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../atas/ataN3_11_01_2025/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entregas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entregas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_1/cronograma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Planejado
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_1/cronograma_executado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Executado
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_1/design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_1/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_1/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heatmap
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_1/metodologia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metodologia
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_1/site_escolhido/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Site escolhido
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_1/sites_avaliados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sites avaliados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_1/entrega_1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Análise de requisitos 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de requisitos 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aspectos_eticos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aspectos éticos e termo de consentimento
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../perfil/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil dos usuários
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../HTA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de tarefas Modelo HTA
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Análise de tarefas Modelo GOMS
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Análise de tarefas Modelo GOMS
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-goms" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelo GOMS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#falta-de-feedback-em-tempo-real-durante-a-analise-de-submissoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Falta de feedback em tempo real durante a análise de submissões
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Falta de feedback em tempo real durante a análise de submissões">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#troca-de-senha-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Troca de senha do usuário
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Troca de senha do usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#problema-com-o-faq" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problema com o FAQ
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Problema com o FAQ">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#falta-de-mecanismos-de-busca-e-acesso-a-enunciados-de-competicoes-passadas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Falta de mecanismos de busca e acesso a enunciados de competições passadas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Falta de mecanismos de busca e acesso a enunciados de competições passadas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ausencia-de-informacoes-em-submissoes-erradas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ausência de informações em submissões erradas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Ausência de informações em submissões erradas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega_2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Análise de requisitos 2
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de requisitos 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../caracteristicas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Características da plataforma
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../guia_de_estilo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guia de estilo
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_3/principiosGerais/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Princípios Gerais
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_3/metas_de_usabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metas de usabilidade
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_3/entrega_3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Design, Avaliação e Desenvolvimento
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Design, Avaliação e Desenvolvimento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_1" id="__nav_3_4_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Nível 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            Nível 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_4/entrega_4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_1_2" id="__nav_3_4_1_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Storyboard
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_4_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            Storyboard
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_4/storyboard/planejamento_da_avalia%C3%A7%C3%A3o/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Avaliação do Storyboard
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_4/storyboard/planejamento_do_relato/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento do Relato dos Resultados do Storyboard
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_4/storyboard/storyboards/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storyboards
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_1_3" id="__nav_3_4_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Analise de tarefas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_4_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Analise de tarefas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_4/analise_requisitos/planejamento_avaliacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Avaliação da Análise de Tarefas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_4/analise_requisitos/planejamento_relato/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento do relato de resultados da avaliação da análise de tarefas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_1_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_1_3_3" id="__nav_3_4_1_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Relatos de storyboard e HTA
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="5" aria-labelledby="__nav_3_4_1_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_1_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Relatos de storyboard e HTA
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_5/Relatos/relato_storyboard_HTA_Felipe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Felipe Rodrigues
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_5/Relatos/relato_storyboard_HTA_Jessica/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jéssica Eveline
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_5/Relatos/relato_storyboard_HTA_joão.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    João Vitor
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_5/Relatos/relato_storyboard_HTA_Marcelo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Marcelo Adrian
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_5/Relatos/relato_storyboard_HTA_Ruan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ruan Carvalho
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_5/relato_resultados_storyboard_analise_tarefas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato resultados storyboard e analise de tarefas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_2" id="__nav_3_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Nível 2
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Nível 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_5/entrega_5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_2_2" id="__nav_3_4_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Prototipo de papel
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_4_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Prototipo de papel
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_5/prototipo_papel/planejamento_avaliacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento avaliação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_5/prototipo_papel/planejamento_relato/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento relato
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_2_3" id="__nav_3_4_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Relato resultados prototipo de papel
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_4_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Relato resultados prototipo de papel
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_6/relatos_de_resultados_prototipo_de_papel/relato_FelipeRodrigues/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Felipe Rodrigues
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_6/relatos_de_resultados_prototipo_de_papel/relato_JessicaEveline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jéssica Eveline
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_6/relatos_de_resultados_prototipo_de_papel/relato_Jo%C3%A3oVitor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    João Vitor
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_6/relatos_de_resultados_prototipo_de_papel/relato_RuanCarvalho/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ruan Carvalho
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_3" id="__nav_3_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Nível 3
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Nível 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_3_1" id="__nav_3_4_3_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entregas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_4_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Entregas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_6/entrega_6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_7/entrega_7/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 7
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_3_2" id="__nav_3_4_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Prototipo de alta fidelidade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_4_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Prototipo de alta fidelidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_6/prototipo_alta_fidelidade/prototipo_de_alta_fidelidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protótipos de Alta Fidelidade
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_6/prototipo_alta_fidelidade/planejamento_avaliacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento avaliação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_6/prototipo_alta_fidelidade/planejamento_relato/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento relato
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4_3_3" id="__nav_3_4_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Relato dos Resultados dos Protótipos de Alta Fidelidade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_4_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Relato dos Resultados dos Protótipos de Alta Fidelidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_FelipeRodrigues/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Felipe Rodrigues
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_RuanCarvalho/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ruan Carvalho
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_JessicaEveline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jéssica Eveline
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_JoaoVitor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    João Vitor
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Avaliações
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Avaliações
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../avalia%C3%A7%C3%B5es/autoavalia%C3%A7%C3%A3o_1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Autoavaliação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../avalia%C3%A7%C3%B5es/avalia%C3%A7%C3%A3o_grupo06_1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Avaliação Grupo 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5_3" id="__nav_3_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Listas de Verificações da Etapa 8
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Listas de Verificações da Etapa 8
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/entrega_8/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 8
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5_3_2" id="__nav_3_5_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Grupo 06
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_5_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Lista de Verificação Grupo 06
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_grupo06/listaVerificacaoPersonas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Personas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_grupo06/listaVerificacaoElencoPersonas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Elenco de Personas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_grupo06/listaVerificacaoCenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Cenários
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_grupo06/listaVerificacaoHTA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação HTA
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_grupo06/listaVerificacaoCTT/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação CTT
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_grupo06/listaVerificacaoDECIDE/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Planejamento da Avaliação com o Framework DECIDE
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_grupo06/listaVerificacaoResultados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5_3_3" id="__nav_3_5_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    lista de Verificação Interna
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_5_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            lista de Verificação Interna
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_interna/listaVerificacaoPersonas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Personas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_interna/listaVerificacaoElencoPersonas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Elenco de Personas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_interna/listaVerificacaoCenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Cenários
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_interna/listaVerificacaoHTA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação HTA
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_interna/listaVerificacaoCTT/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação CTT
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_interna/listaVerificacaoDECIDE/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Planejamento da Avaliação com o Framework DECIDE
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_8/verificacao_interna/listaVerificacaoResultados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega final
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega final
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entregaFinal/projetoFinal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Projeto final
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entregaFinal/entrega_final/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega final
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-goms" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelo GOMS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#falta-de-feedback-em-tempo-real-durante-a-analise-de-submissoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Falta de feedback em tempo real durante a análise de submissões
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Falta de feedback em tempo real durante a análise de submissões">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#troca-de-senha-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Troca de senha do usuário
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Troca de senha do usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#problema-com-o-faq" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problema com o FAQ
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Problema com o FAQ">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#falta-de-mecanismos-de-busca-e-acesso-a-enunciados-de-competicoes-passadas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Falta de mecanismos de busca e acesso a enunciados de competições passadas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Falta de mecanismos de busca e acesso a enunciados de competições passadas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ausencia-de-informacoes-em-submissoes-erradas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ausência de informações em submissões erradas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Ausência de informações em submissões erradas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#klm-keystroke-level-model_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      KLM (Keystroke-Level Model)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelagem-do-goms-cmn-goms_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelagem do GOMS (CMN-GOMS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>Análise de tarefas Modelo GOMS</h1>
+
+<h2 id="introducao">Introdução</h2>
+<p>O CD-MOJ, apesar de sua utilidade, apresenta desafios que afetam negativamente a experiência do usuário, como falta de feedback em tempo real, dificuldade na navegação e insuficiência de informações em submissões erradas. </p>
+<p>Para investigar esses problemas, aplicamos o modelo <strong>GOMS (Goals, Operators, Methods, and Selection Rules)</strong>, uma metodologia consagrada em estudos de interação humano-computador. O GOMS permite decompor as tarefas realizadas pelos usuários em objetivos, métodos e operações, detalhando as escolhas e ações cognitivas e físicas necessárias. A análise foi realizada com variações específicas do GOMS, como <strong>KLM (Keystroke-Level Model)</strong> e <strong>CMN-GOMS</strong>, para mapear os processos e propor melhorias fundamentadas.</p>
+<h2 id="metodologia">Metodologia</h2>
+<h3 id="modelo-goms">Modelo GOMS</h3>
+<p>O modelo GOMS analisa as interações entre usuários e sistemas computacionais, estruturando as tarefas em objetivos, métodos, operadores e regras de seleção. Para esta análise, foram utilizadas as seguintes variações:</p>
+<ol>
+<li>
+<p><strong>KLM (Keystroke-Level Model)</strong>:<br />
+   Foco no tempo gasto em interações físicas, como pressionamento de teclas, cliques e navegação.</p>
+</li>
+<li>
+<p><strong>CMN-GOMS (Cognitive Modeling Notation)</strong>:<br />
+   Modela as decisões do usuário com base em condições específicas, como feedback do sistema ou informações contextuais.</p>
+</li>
+</ol>
+<p>Esses métodos foram aplicados a quatro fluxos principais no CD-MOJ: <strong>falta de feedback em tempo real</strong>, <strong>troca de senha</strong>, <strong>falta de mecanismos de busca e acesso a enunciados de competições passadas</strong> e <strong>ausência de informações em submissões erradas</strong>. A análise incluiu a identificação de problemas, cálculo de tempos estimados e descrição das operações cognitivas e físicas realizadas pelos usuários.</p>
+<h3 id="falta-de-feedback-em-tempo-real-durante-a-analise-de-submissoes"><strong>Falta de feedback em tempo real durante a análise de submissões</strong></h3>
+<h4 id="klm-keystroke-level-model">KLM (Keystroke-Level Model)</h4>
+<p><strong>Tabela 1:</strong> KLM da Falta de feedback.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Etapa</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Tempo (segundos)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Acessar plataforma</td>
+<td>Abrir o navegador e acessar o URL da plataforma CD-MOJ</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2. Submeter solução</td>
+<td>Preencher os campos e clicar em "Submeter"</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3. Aguardar feedback</td>
+<td>Aguarda a resposta do sistema</td>
+<td>20</td>
+</tr>
+<tr>
+<td>4. Recarregar página manualmente</td>
+<td>Clicar para recarregar a página</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5. Exibir resultado final</td>
+<td>O sistema exibe a resposta final ("Accepted", "Wrong Answer")</td>
+<td>2</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td><strong>31 segundos</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/felipeJRdev">Felipe Rodrigues</a>, 2024.</p>
+<h4 id="modelagem-do-goms-cmn-goms">Modelagem do GOMS (CMN-GOMS)</h4>
+<p><strong>Tabela 2:</strong> CMN-GOMS Falta de feedback.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Objetivo</strong></th>
+<th><strong>Método</strong></th>
+<th><strong>Operador</strong></th>
+<th><strong>Seleção (Se)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Garantir feedback em tempo real</td>
+<td>Submeter solução</td>
+<td>Clicar em "Submeter"</td>
+<td>Se o sistema não responde, aguardar feedback</td>
+</tr>
+<tr>
+<td>Obter status da submissão</td>
+<td>Verificar status na página</td>
+<td>Verificar</td>
+<td>Se não houver progresso, tentar recarregar</td>
+</tr>
+<tr>
+<td>Aguardar feedback e analisar progresso</td>
+<td>Observar as mensagens de progresso</td>
+<td>Observar</td>
+<td>Se o sistema não mostra progresso, recarregar</td>
+</tr>
+<tr>
+<td>Exibir resultado final ("Accepted", etc.)</td>
+<td>Visualizar mensagem de resultado</td>
+<td>Observar</td>
+<td>Se resultado final não aparecer, recarregar</td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/felipeJRdev">Felipe Rodrigues</a>, 2024.</p>
+<p>Neste modelo <strong>CMN-GOMS</strong>, o usuário decide se deve aguardar o feedback do sistema ou tentar recarregar a página caso não obtenha informações, levando em consideração a ausência de informações de progresso em tempo real.</p>
+<h3 id="troca-de-senha-do-usuario"><strong>Troca de senha do usuário</strong></h3>
+<h4 id="klm-keystroke-level-model_1">KLM (Keystroke-Level Model)</h4>
+<p><strong>Tabela 3:</strong> KLM da Troca de senha do usuário.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Etapa</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Tempo (segundos)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Acessar o site</td>
+<td>Abrir o navegador e acessar a URL do site</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2. Navegar até configurações</td>
+<td>Clicar em menus e navegar para o painel de configurações</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3. Localizar a opção "Alterar Senha"</td>
+<td>Procurar pela opção de senha no painel</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4. Clicar na opção</td>
+<td>Clicar na opção "Alterar Senha"</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5. Inserir senha atual</td>
+<td>Digitar a senha atual</td>
+<td>3</td>
+</tr>
+<tr>
+<td>6. Inserir nova senha</td>
+<td>Digitar a nova senha</td>
+<td>3</td>
+</tr>
+<tr>
+<td>7. Confirmar nova senha</td>
+<td>Digitar a confirmação da nova senha</td>
+<td>3</td>
+</tr>
+<tr>
+<td>8. Validação do sistema</td>
+<td>O sistema valida a senha</td>
+<td>3</td>
+</tr>
+<tr>
+<td>9. Mensagem de erro (se necessário)</td>
+<td>Exibir mensagem de erro</td>
+<td>4</td>
+</tr>
+<tr>
+<td>10. Confirmação de sucesso</td>
+<td>Exibir mensagem de sucesso</td>
+<td>3</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td><strong>38 segundos</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/xzxjesse">Jéssica Eveline</a>, 2024.</p>
+<h4 id="modelagem-do-goms-cmn-goms_1">Modelagem do GOMS (CMN-GOMS)</h4>
+<p><strong>Tabela 4:</strong> CMN-GOMS da Troca de senha do usuário.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Objetivo</strong></th>
+<th><strong>Método</strong></th>
+<th><strong>Operador</strong></th>
+<th><strong>Seleção (Se)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trocar senha</td>
+<td>Localizar "Alterar Senha"</td>
+<td>Navegar</td>
+<td>Se opção não encontrada, tente outro menu</td>
+</tr>
+<tr>
+<td>Inserir a senha atual</td>
+<td>Digitar senha atual</td>
+<td>Digitar</td>
+<td>Se senha atual incorreta, tente novamente</td>
+</tr>
+<tr>
+<td>Inserir nova senha</td>
+<td>Digitar nova senha</td>
+<td>Digitar</td>
+<td>Se senha simples, esperar erro, tentar senha forte</td>
+</tr>
+<tr>
+<td>Confirmar alteração</td>
+<td>Clicar em "Confirmar"</td>
+<td>Clicar</td>
+<td>Se erro de validação, corrigir e tentar novamente</td>
+</tr>
+<tr>
+<td>Receber feedback</td>
+<td>Ver mensagem de sucesso ou erro</td>
+<td>Verificar</td>
+<td>Se erro, voltar para ajustar a senha</td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/xzxjesse">Jéssica Eveline</a>, 2024.</p>
+<p>Essa análise de GOMS no formato <strong>CMN-GOMS</strong> mostra uma sequência de decisões condicionais baseadas no que o usuário observa ou na situação em que se encontra, como a necessidade de ajustar a senha.</p>
+<h3 id="problema-com-o-faq"><strong>Problema com o FAQ</strong></h3>
+<h4 id="klm-keystroke-level-model_2">KLM (Keystroke-Level Model)</h4>
+<p><strong>Tabela 5:</strong> KLM do Problema com FAQ.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Etapa</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Tempo (segundos)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Acessar o site</td>
+<td>Abrir o navegador e acessar o URL do CD-MOJ</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2. Navegar até o contest</td>
+<td>Navegar até o contest da disciplina</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3. Acessar o contest</td>
+<td>Clicar no contest</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4. Analisar as questões</td>
+<td>Ler as questões do contest</td>
+<td>5</td>
+</tr>
+<tr>
+<td>5. Realizar as questões</td>
+<td>Resolver as questões do contest</td>
+<td>10</td>
+</tr>
+<tr>
+<td>6. Verificar erro</td>
+<td>Identificar o erro "Time Limit Exceeded, 0p"</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7. Acessar o FAQ</td>
+<td>Navegar até a seção de FAQ do CD-MOJ</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8. Buscar solução em fórum</td>
+<td>Pesquisar sobre o erro no fórum</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9. Compreender o problema</td>
+<td>Ler a solução nos fóruns e entender a situação</td>
+<td>5</td>
+</tr>
+<tr>
+<td>10. Reenviar atividade</td>
+<td>Enviar novamente a atividade</td>
+<td>4</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td><strong>48 segundos</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/Jauzimm">João Vitor Santos</a>, 2024.</p>
+<h4 id="modelagem-do-goms-cmn-goms_2">Modelagem do GOMS (CMN-GOMS)</h4>
+<p><strong>Tabela 6:</strong> GMN-GOMS do Problema com FAQ.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Objetivo</strong></th>
+<th><strong>Método</strong></th>
+<th><strong>Operador</strong></th>
+<th><strong>Seleção (Se)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Resolver o problema e entregar a atividade</td>
+<td>Acessar FAQ ou Fórum</td>
+<td>Clicar no link ou pesquisar</td>
+<td>Se FAQ não fornecer informações, buscar no fórum</td>
+</tr>
+<tr>
+<td>Compreender o erro "Time Limit Exceeded"</td>
+<td>Ler sobre o erro no fórum</td>
+<td>Observar</td>
+<td>Se a informação for útil, aplicar a solução</td>
+</tr>
+<tr>
+<td>Enviar novamente a atividade</td>
+<td>Corrigir o erro e reenviar</td>
+<td>Clicar em "Reenviar"</td>
+<td>Se o problema for resolvido, reenviar a atividade</td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/Jauzimm">João Vitor Santos</a>, 2024.</p>
+<p>No <strong>CMN-GOMS</strong>, a decisão do usuário de buscar informações em fontes externas (fóruns) depende da falta de explicação adequada no FAQ. A solução ocorre após entender o erro e corrigir o envio da atividade.</p>
+<h3 id="falta-de-mecanismos-de-busca-e-acesso-a-enunciados-de-competicoes-passadas"><strong>Falta de mecanismos de busca e acesso a enunciados de competições passadas</strong></h3>
+<h4 id="klm-keystroke-level-model_3">KLM (Keystroke-Level Model)</h4>
+<p><strong>Tabela 7:</strong> KLM do Falta de mecanismos de busca.</p>
+<p>O <strong>KLM</strong> modela a tarefa com base em interações físicas, como pressionamento de teclas, cliques e movimento do mouse.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Etapa</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Tempo (segundos)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Acessar a plataforma</td>
+<td>Abrir o navegador e acessar o URL do CD-MOJ</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2. Navegar até a seção "Past"</td>
+<td>Clicar no link da seção "Past"</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3. Encontrar a página de competições</td>
+<td>Rolar a página ou clicar para encontrar competições passadas</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4. Notar a falta de filtros e busca</td>
+<td>Perceber que a navegação é feita manualmente</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5. Navegar manualmente</td>
+<td>Clicar para navegar entre as competições passadas</td>
+<td>10</td>
+</tr>
+<tr>
+<td>6. Encontrar a competição de interesse</td>
+<td>Identificar a competição desejada</td>
+<td>5</td>
+</tr>
+<tr>
+<td>7. Tentar acessar o enunciado das questões</td>
+<td>Clicar para acessar o enunciado da competição</td>
+<td>3</td>
+</tr>
+<tr>
+<td>8. Descobrir a necessidade de login</td>
+<td>Perceber que é necessário login externo</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9. Frustração e desistência</td>
+<td>Desistir de continuar a navegação devido à burocracia</td>
+<td>5</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td><strong>37 segundos</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/Marcelo-Adrian">Marcelo Adrian</a>, 2024.</p>
+<h4 id="modelagem-do-goms-cmn-goms_3">Modelagem do GOMS (CMN-GOMS)</h4>
+<p><strong>Tabela 8:</strong> CMN-GOMS do Falta de mecanismos de busca.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Objetivo</strong></th>
+<th><strong>Método</strong></th>
+<th><strong>Operador</strong></th>
+<th><strong>Seleção (Se)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Acessar competições passadas</td>
+<td>Acessar a seção "Past"</td>
+<td>Clicar no link</td>
+<td>Se "Past" não estiver visível, rolar a página</td>
+</tr>
+<tr>
+<td>Navegar por competições</td>
+<td>Encontrar a competição de interesse</td>
+<td>Clicar entre as competições</td>
+<td>Se a competição desejada for encontrada, selecione</td>
+</tr>
+<tr>
+<td>Acessar o enunciado das questões</td>
+<td>Clicar para acessar o enunciado</td>
+<td>Clicar no link do enunciado</td>
+<td>Se for necessário login externo, desistir ou buscar outro método</td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/Marcelo-Adrian">Marcelo Adrian</a>, 2024.</p>
+<p>No <strong>CMN-GOMS</strong>, a decisão do usuário de desistir ou buscar um método alternativo depende da percepção de que a plataforma não oferece as facilidades necessárias (como filtros de busca) e da frustração causada pelo login externo.</p>
+<h3 id="ausencia-de-informacoes-em-submissoes-erradas"><strong>Ausência de informações em submissões erradas</strong></h3>
+<h4 id="klm-keystroke-level-model_4">KLM (Keystroke-Level Model)</h4>
+<p><strong>Tabela 9:</strong> KLM da Ausência de informações em submissões erradas.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Etapa</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Tempo (segundos)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Acessar a plataforma</td>
+<td>Abrir o navegador e acessar a plataforma CD-MOJ</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2. Enviar a solução</td>
+<td>Submeter o código na plataforma</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3. Receber mensagem "Wrong Answer"</td>
+<td>O sistema exibe a mensagem "Wrong Answer 50p"</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4. Procurar outros conjuntos de entradas</td>
+<td>Buscar em outros lugares os conjuntos de entradas e saídas</td>
+<td>5</td>
+</tr>
+<tr>
+<td>5. Entrar em contato com o Mojinho</td>
+<td>Clicar no link do Telegram para falar com o Mojinho</td>
+<td>4</td>
+</tr>
+<tr>
+<td>6. Receber conjuntos de testes</td>
+<td>Aguardar a resposta com os casos de teste fornecidos</td>
+<td>5</td>
+</tr>
+<tr>
+<td>7. Identificar erros e corrigir o código</td>
+<td>Testar os novos casos de teste e corrigir os erros no código</td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td><strong>31 segundos</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/Ruan-Carvalho">Ruan Carvalho</a>, 2024.</p>
+<h4 id="modelagem-do-goms-cmn-goms_4">Modelagem do GOMS (CMN-GOMS)</h4>
+<p><strong>Tabela 10:</strong> CMN-GOMS da Ausência de informações em submissões erradas.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Objetivo</strong></th>
+<th><strong>Método</strong></th>
+<th><strong>Operador</strong></th>
+<th><strong>Seleção (Se)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Receber feedback sobre a solução</td>
+<td>Enviar solução para a plataforma</td>
+<td>Submeter código</td>
+<td>Se "Wrong Answer" é exibido, proceder com a busca de novos casos de teste</td>
+</tr>
+<tr>
+<td>Buscar mais casos de teste</td>
+<td>Procurar ajuda no Telegram</td>
+<td>Clicar no link do Telegram</td>
+<td>Se o Mojinho responder, use os casos para corrigir o código</td>
+</tr>
+<tr>
+<td>Corrigir o código</td>
+<td>Ajustar a solução conforme feedback</td>
+<td>Modificar o código</td>
+<td>Se os erros forem identificados, submeter a nova versão</td>
+</tr>
+</tbody>
+</table>
+<p>Autor(es): <a href="https://github.com/Ruan-Carvalho">Ruan Carvalho</a>, 2024.</p>
+<p>No <strong>CMN-GOMS</strong>, o usuário toma decisões baseadas nas mensagens recebidas da plataforma e no Mojinho. A escolha entre procurar mais casos de teste ou modificar o código é guiada pela necessidade de ajustar a solução para que ela passe nos testes.</p>
+<h2 id="bibliografia">Bibliografia</h2>
+<p>BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. <strong>Planejamento da avaliação de IHC</strong>. In: INTERAÇÃO Humano-Computador. Rio de Janeiro: Elsevier Editora, 2010.</p>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<p><strong>Tabela 11:</strong> Histórico de Versões.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor(es)</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Revisor(es)</th>
+<th style="text-align: center;">Data de Revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: center;">Criação do documento</td>
+<td style="text-align: center;"><a href="https://github.com/felipeJRdev">Felipe Rodrigues</a>, <a href="https://github.com/xzxjesse">Jéssica Eveline</a>, <a href="https://github.com/Jauzimm">João Vitor</a>, <a href="https://github.com/Ruan-Carvalho">Ruan Carvalho</a>, <a href="https://github.com/Marcelo-Adrian">Marcelo Adrian</a></td>
+<td style="text-align: center;">03/12/2024</td>
+<td style="text-align: center;"><a href="https://github.com/felipeJRdev">Felipe Rodrigues</a>, <a href="https://github.com/xzxjesse">Jéssica Eveline</a>, <a href="https://github.com/Jauzimm">João Vitor</a>, <a href="https://github.com/Ruan-Carvalho">Ruan Carvalho</a>, <a href="https://github.com/Marcelo-Adrian">Marcelo Adrian</a></td>
+<td style="text-align: center;">03/12/2024</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../../..", "features": [], "search": "../../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": {"provider": "felipe"}}</script>
+    
+    
+      <script src="../../../../assets/javascripts/bundle.f1b6f286.min.js"></script>
+      
+    
+  </body>
+</html>
