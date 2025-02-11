@@ -149,7 +149,14 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](h
 
 | Técnica Utilizada      | Participante(s) Responsável(is) |
 |------------------------|---------------------------------|
-| Exemplo: Entrevistas   | Nome do participante           |
+| Avaliação Heurística | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+| Framework DECIDE | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+| Analise documental | [João Vitor](https://github.com/Jauzimm) |
+| Análise de Tarefas (GOMS e HTA) | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |  
+| Prototipação em Papel | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+| Prototipação em Alta Fidelidade | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+| Criação de Cenários | [Jéssica Eveline](https://github.com/xzxjesse), [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) e [Marcelo Adrian](https://github.com/Marcelo-Adrian) |
+| Personas | [João Vitor](https://github.com/Jauzimm) |
 
 Autor(es): [João Vitor](https://github.com/Jauzimm), 2025.
 
