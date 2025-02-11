@@ -95,6 +95,7 @@ Após o design, implementamos as melhorias no protótipo de alta fidelidade, aju
         - [Felipe Rodrigues](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/relatos_de_resultados_prototipo_de_papel/relato_FelipeRodrigues/);
         - [Jéssica Eveline](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/relatos_de_resultados_prototipo_de_papel/relato_JessicaEveline/);
         - [João Vitor](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/relatos_de_resultados_prototipo_de_papel/relato_Jo%C3%A3oVitor/);
+        - [Marcelo Adrian](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/relatos_de_resultados_prototipo_de_papel/relato_FelipeRodrigues/);
         - [Ruan Carvalho](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_6/relatos_de_resultados_prototipo_de_papel/relato_RuanCarvalho/).
 
 - Protótipo de Alta Fidelidade:
@@ -104,6 +105,7 @@ Após o design, implementamos as melhorias no protótipo de alta fidelidade, aju
         - [Felipe Rodrigues](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_FelipeRodrigues/);
         - [Jéssica Eveline](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_JessicaEveline/);
         - [Ruan Carvalho](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_RuanCarvalho/).
+        - [Marcelo Adrian](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_RuanCarvalho/).
         - [João Vitor](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_7/relatos_de_resultados_prototipos_de_alta_fidelidade/relato_JoaoVitor/)
 
 ### Instalação
@@ -295,10 +297,12 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](h
 | Protótipo de papel     |  [Felipe Rodrigues](https://github.com/felipeJRdev)      | 1   | Vinícius |
 | Protótipo de papel     |  [Jéssica Eveline](https://github.com/xzxjese)           | 1   | Lucas |
 | Protótipo de papel     |  [João Vitor](https://github.com/Jauzimm)                | 3   | Gabriel, João e Cauã |
+| Protótipo de papel     |  [Marcelo Adrian](https://github.com/Marcelo-Adrian)                | 2   | Kamylla e José junior |
 | Protótipo de papel     |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)       | 3   | Diogo, Guilherme e Pedro |
 | Protótipo de alta fidelidade |  [Felipe Rodrigues](https://github.com/felipeJRdev)  | 3 | Vinícius C., Vinícius R. e Izabelle |
 | Protótipo de alta fidelidade |  [Jéssica Eveline](https://github.com/xzxjese)       | 3 | Gabriel, Luiza e Pedro |
 | Protótipo de alta fidelidade |  [João Vitor](https://github.com/Jauzimm)            | 3 | Gabriel, Luiza e Pedro |
+| Protótipo de alta fidelidade |  [Marcelo Adrian](https://github.com/Marcelo-Adrian)                | 2   | Kamylla e José Junior |
 | Protótipo de alta fidelidade |  [Ruan Carvalho](https://github.com/Ruan-Carvalho)   | 3 | Gabriel, Luiza e Pedro |
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
@@ -317,7 +321,7 @@ Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](h
 | Entrega 6: Design, avaliação e desenvolvimento - Nível 3 | [Felipe Rodrigues](https://github.com/felipeJRdev), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 6](https://youtu.be/tAUtLPJQFRI) |
 | Entrega 7: Design, avaliação e desenvolvimento - Nível 3 | [Jéssica Eveline](https://github.com/xzxjese), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 7](https://youtu.be/FxRJUG-Bslk) |
 | Entrega 8: Listas de verificação | [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 8](https://youtu.be/WpT4Qa1r5Ls) |
-| Entrega 9: Entrega Final | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho) | [Apresentação 9](https://youtu.be/) |
+| Entrega 9: Entrega Final | [Felipe Rodrigues](https://github.com/felipeJRdev), [Jéssica Eveline](https://github.com/xzxjesse), [João Vitor](https://github.com/Jauzimm), [Ruan Carvalho](https://github.com/Ruan-Carvalho), [Marcelo Adrian](https://github.com/Marcelo-Adrian) | [Apresentação 9](https://youtu.be/) |
 
 Autor(es): [Felipe Rodrigues](https://github.com/felipeJRdev), [Ruan Carvalho](https://github.com/Ruan-Carvalho), 2025.
 

@@ -95,7 +95,9 @@ nav:
                 - Lista de Verificação CTT: entregas/entrega_8/verificacao_interna/listaVerificacaoCTT.md
                 - Lista de Verificação Planejamento da Avaliação com o Framework DECIDE: entregas/entrega_8/verificacao_interna/listaVerificacaoDECIDE.md
                 - Lista de Verificação Planejamento do Resultado e o Resultado da Avaliação: entregas/entrega_8/verificacao_interna/listaVerificacaoResultados.md
-      - Entrega final: entregas/entregaFinal/projetoFinal.md   
+      - Entrega final: 
+        - Projeto final : entregas/entregaFinal/projetoFinal.md
+        - Entrega final : entregas/entregaFinal/entrega_final.md   
 
 # Tema do MkDocs
 theme:
